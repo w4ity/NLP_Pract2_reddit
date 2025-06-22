@@ -1,0 +1,5557 @@
+[
+  {
+    "flair": null,
+    "title": "The love of my life (who knows nothing about gaming) gifted me this for my B-day",
+    "author": "Didoun",
+    "date": "2025-04-28T15:20:21",
+    "score": 50813,
+    "description": "It's hand made and got my name on it, problem is : it's an ashtray and I never smoked in my life lol. Still am gonna try and find a use for it. I love her so much ♡ ",
+    "comments": [
+      {
+        "user": "RedArcaneArcher",
+        "comment": "Awesome, something to hold your Hot Pocket while you game.",
+        "score": 12524,
+        "date": "2025-04-28T15:24:39",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.043,
+          "positive": 0.955
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.962,
+          "neutral": 0.03,
+          "sadness": 0.0,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "SirCoffeebotESQ",
+        "comment": "She bought you an ashtray even though you don't smoke? Well, okay then. It's the thought that counts. Put your keys in it or something. Loose change. Little knickknacks.",
+        "score": 17733,
+        "date": "2025-04-28T15:23:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.231,
+          "neutral": 0.637,
+          "positive": 0.132
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.086,
+          "disgust": 0.043,
+          "fear": 0.003,
+          "joy": 0.183,
+          "neutral": 0.672,
+          "sadness": 0.004,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "The2Twenty",
+        "comment": "Keys. It's now a key bowl. You will use it everyday.",
+        "score": 1671,
+        "date": "2025-04-28T15:52:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.031,
+          "neutral": 0.649,
+          "positive": 0.32
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.119,
+          "neutral": 0.854,
+          "sadness": 0.001,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "Zorro-the-witcher",
+        "comment": "Like getting gifted a gun rack, and not owning a gun.",
+        "score": 2322,
+        "date": "2025-04-28T15:44:10",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.523,
+          "neutral": 0.455,
+          "positive": 0.022
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.151,
+          "fear": 0.003,
+          "joy": 0.007,
+          "neutral": 0.398,
+          "sadness": 0.414,
+          "surprise": 0.013
+        }
+      },
+      {
+        "user": "jtmonkey",
+        "comment": "Congrats. You have reached the sharing my Amazon wishlist with my partner phase of your relationship. ",
+        "score": 236,
+        "date": "2025-04-28T15:39:39",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.031,
+          "positive": 0.968
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.685,
+          "neutral": 0.294,
+          "sadness": 0.001,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Cheap-Chocolate-4931",
+        "comment": "You need to take up smoking dude",
+        "score": 2742,
+        "date": "2025-04-28T15:22:09",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.482,
+          "neutral": 0.467,
+          "positive": 0.052
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.15,
+          "fear": 0.009,
+          "joy": 0.007,
+          "neutral": 0.807,
+          "sadness": 0.005,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "whatistomwaitingfor",
+        "comment": "Out of curiosity why would she get you an ashtray if you don't smoke? A display piece?",
+        "score": 353,
+        "date": "2025-04-28T15:24:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.29,
+          "neutral": 0.681,
+          "positive": 0.029
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.011,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.823,
+          "sadness": 0.001,
+          "surprise": 0.158
+        }
+      },
+      {
+        "user": "ishouldntofsaidthat",
+        "comment": "Your name is “Game On”? Is that Korean?",
+        "score": 288,
+        "date": "2025-04-28T15:28:29",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.151,
+          "neutral": 0.798,
+          "positive": 0.051
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.925,
+          "sadness": 0.0,
+          "surprise": 0.068
+        }
+      },
+      {
+        "user": "OdraNoel2049",
+        "comment": "Wait, she got you a hand made personalized ash tray but youv never smoked? Its a lovely sentiment but it sounds like games isnt the only thing shes not fully informed about...",
+        "score": 113,
+        "date": "2025-04-28T15:34:36",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.296,
+          "neutral": 0.495,
+          "positive": 0.209
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.178,
+          "sadness": 0.003,
+          "surprise": 0.804
+        }
+      },
+      {
+        "user": "BeerSlayingBeaver",
+        "comment": "Reminds me of when Wayne gets a gun rack for his birthday in Wayne's World.",
+        "score": 37,
+        "date": "2025-04-28T15:49:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.031,
+          "neutral": 0.864,
+          "positive": 0.106
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.008,
+          "fear": 0.001,
+          "joy": 0.142,
+          "neutral": 0.826,
+          "sadness": 0.005,
+          "surprise": 0.016
+        }
+      },
+      {
+        "user": "Ok-Moose853",
+        "comment": "It's the thought that counts of course, but damn this thing is hideous",
+        "score": 90,
+        "date": "2025-04-28T15:55:15",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.945,
+          "neutral": 0.05,
+          "positive": 0.006
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.977,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.005,
+          "sadness": 0.006,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "AiryGr8",
+        "comment": "That is ugly",
+        "score": 83,
+        "date": "2025-04-28T15:42:02",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.966,
+          "neutral": 0.03,
+          "positive": 0.004
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.845,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.019,
+          "sadness": 0.126,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "BigBandicoot9448",
+        "comment": "Genuinely one of the worst gifts I've ever seen",
+        "score": 69,
+        "date": "2025-04-28T16:46:32",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.976,
+          "neutral": 0.021,
+          "positive": 0.003
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.576,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.047,
+          "sadness": 0.363,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Sven676",
+        "comment": "If you’re an adult this is not thoughtful and a shitty gift. You don’t smoke and she got you a cheap ashtray.",
+        "score": 80,
+        "date": "2025-04-28T15:54:35",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.913,
+          "neutral": 0.078,
+          "positive": 0.009
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.166,
+          "disgust": 0.318,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.486,
+          "sadness": 0.009,
+          "surprise": 0.014
+        }
+      },
+      {
+        "user": "Andrei_Chelsea",
+        "comment": "What is this abomination?",
+        "score": 41,
+        "date": "2025-04-28T16:08:54",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.964,
+          "neutral": 0.032,
+          "positive": 0.004
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.902,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.003,
+          "sadness": 0.002,
+          "surprise": 0.084
+        }
+      },
+      {
+        "user": "OverlordVII",
+        "comment": "the love of your life hand-made you an astray, and knows you don't smoke? how does something like that even happen, i dont understand??",
+        "score": 26,
+        "date": "2025-04-28T16:46:21",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.794,
+          "neutral": 0.185,
+          "positive": 0.02
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.54,
+          "disgust": 0.002,
+          "fear": 0.307,
+          "joy": 0.007,
+          "neutral": 0.005,
+          "sadness": 0.055,
+          "surprise": 0.084
+        }
+      },
+      {
+        "user": "FragrantHockeyFan",
+        "comment": "Okay dude… Who tf post this shit on Reddit and who upvotes it?",
+        "score": 50,
+        "date": "2025-04-28T16:57:16",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.933,
+          "neutral": 0.061,
+          "positive": 0.006
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.549,
+          "disgust": 0.32,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.017,
+          "sadness": 0.003,
+          "surprise": 0.106
+        }
+      },
+      {
+        "user": "rcdeziner",
+        "comment": "You would think the love of your life would invest a little time into at least understanding your hobby.",
+        "score": 69,
+        "date": "2025-04-28T15:35:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.134,
+          "neutral": 0.531,
+          "positive": 0.335
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.039,
+          "fear": 0.001,
+          "joy": 0.033,
+          "neutral": 0.855,
+          "sadness": 0.026,
+          "surprise": 0.014
+        }
+      },
+      {
+        "user": "mariteli",
+        "comment": "I bet she thought you could fit the remote in that 😂😂",
+        "score": 7,
+        "date": "2025-04-28T15:34:55",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.174,
+          "neutral": 0.658,
+          "positive": 0.168
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.018,
+          "neutral": 0.952,
+          "sadness": 0.002,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "Orithian",
+        "comment": "Get into eating lots of sunflower seeds",
+        "score": 19,
+        "date": "2025-04-28T15:28:16",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.29,
+          "positive": 0.707
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.535,
+          "disgust": 0.104,
+          "fear": 0.001,
+          "joy": 0.014,
+          "neutral": 0.334,
+          "sadness": 0.003,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "One_Subject3157",
+        "comment": "What's even that?\n\nr/thanksIhateIt",
+        "score": 20,
+        "date": "2025-04-28T15:42:26",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.925,
+          "neutral": 0.068,
+          "positive": 0.006
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.104,
+          "disgust": 0.126,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.353,
+          "sadness": 0.009,
+          "surprise": 0.404
+        }
+      },
+      {
+        "user": "AwkwardAnyday",
+        "comment": "I used to use an ashtray to hold a fountain pen while I reviewed and signed engineering documents. Cap on cap off got too annoying.",
+        "score": 5,
+        "date": "2025-04-28T18:00:47",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.836,
+          "neutral": 0.149,
+          "positive": 0.015
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.05,
+          "disgust": 0.229,
+          "fear": 0.002,
+          "joy": 0.016,
+          "neutral": 0.673,
+          "sadness": 0.015,
+          "surprise": 0.016
+        }
+      },
+      {
+        "user": "ImpossibleAd436",
+        "comment": "If you really love her you will take up smoking.",
+        "score": 5,
+        "date": "2025-04-28T19:49:38",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.044,
+          "neutral": 0.367,
+          "positive": 0.589
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.033,
+          "fear": 0.007,
+          "joy": 0.037,
+          "neutral": 0.886,
+          "sadness": 0.023,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Nozzeh06",
+        "comment": "At first I thought it was some awful bootleg controller that had melted somehow. 😂",
+        "score": 14,
+        "date": "2025-04-28T16:00:50",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.842,
+          "neutral": 0.139,
+          "positive": 0.019
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.789,
+          "fear": 0.024,
+          "joy": 0.002,
+          "neutral": 0.085,
+          "sadness": 0.086,
+          "surprise": 0.013
+        }
+      },
+      {
+        "user": "EXYcus",
+        "comment": "\"It has my name on it\" \"game on\" ☕️👀",
+        "score": 12,
+        "date": "2025-04-28T16:36:04",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.013,
+          "neutral": 0.433,
+          "positive": 0.554
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.006,
+          "neutral": 0.98,
+          "sadness": 0.002,
+          "surprise": 0.0
+        }
+      },
+      {
+        "user": "whatssofunniedoug",
+        "comment": "I mean…",
+        "score": 8,
+        "date": "2025-04-28T15:48:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.155,
+          "neutral": 0.739,
+          "positive": 0.106
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.009,
+          "joy": 0.001,
+          "neutral": 0.963,
+          "sadness": 0.016,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "FauxFoxPho",
+        "comment": "\"An ashtray? I haven't even smoked A cigarette, let alone many cigarettes that would necessitate an entire ashtray. What am I gonna do with an ashtray?\"",
+        "score": 9,
+        "date": "2025-04-28T17:03:57",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.676,
+          "neutral": 0.295,
+          "positive": 0.029
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.138,
+          "disgust": 0.362,
+          "fear": 0.125,
+          "joy": 0.003,
+          "neutral": 0.09,
+          "sadness": 0.014,
+          "surprise": 0.267
+        }
+      },
+      {
+        "user": "franzeusq",
+        "comment": "She hates you.",
+        "score": 19,
+        "date": "2025-04-28T17:13:24",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.92,
+          "neutral": 0.071,
+          "positive": 0.009
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.047,
+          "disgust": 0.467,
+          "fear": 0.086,
+          "joy": 0.017,
+          "neutral": 0.15,
+          "sadness": 0.193,
+          "surprise": 0.04
+        }
+      },
+      {
+        "user": "Squidgeneer101",
+        "comment": "Candy bowl/snack bowl!",
+        "score": 5,
+        "date": "2025-04-28T15:50:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.011,
+          "neutral": 0.706,
+          "positive": 0.282
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.031,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.834,
+          "neutral": 0.065,
+          "sadness": 0.001,
+          "surprise": 0.066
+        }
+      },
+      {
+        "user": "cwagdev",
+        "comment": "Reddit mobile’s UI really made this post something else 😂 https://imgur.com/a/pf5XNz7",
+        "score": 3,
+        "date": "2025-04-28T15:56:25",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.093,
+          "neutral": 0.575,
+          "positive": 0.332
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.022,
+          "neutral": 0.966,
+          "sadness": 0.002,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "DarthAnanas",
+        "comment": "Finally a decent place for my bubblegum cigarettes",
+        "score": 3,
+        "date": "2025-04-28T15:59:13",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.02,
+          "neutral": 0.298,
+          "positive": 0.683
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.03,
+          "neutral": 0.962,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "englishpatrick2642",
+        "comment": "Candy. The answer is always candy. Do you know how many nerds you could fit in that thing?",
+        "score": 5,
+        "date": "2025-04-28T16:45:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.125,
+          "neutral": 0.54,
+          "positive": 0.336
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.008,
+          "fear": 0.001,
+          "joy": 0.059,
+          "neutral": 0.918,
+          "sadness": 0.001,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "Poolio10",
+        "comment": "It was intended as an ashtray. It shall become a knicknack bowl",
+        "score": 4,
+        "date": "2025-04-28T16:47:12",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.052,
+          "neutral": 0.869,
+          "positive": 0.079
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.009,
+          "fear": 0.001,
+          "joy": 0.024,
+          "neutral": 0.959,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "gaudrhin",
+        "comment": "Looks like it might hold a serving of M&Ms!!!",
+        "score": 3,
+        "date": "2025-04-28T16:55:23",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.179,
+          "positive": 0.817
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.059,
+          "neutral": 0.022,
+          "sadness": 0.0,
+          "surprise": 0.901
+        }
+      },
+      {
+        "user": "irish_lad_166",
+        "comment": "Put it next to your front door, or on a night stand and put your keys in it when you get home",
+        "score": 4,
+        "date": "2025-04-28T17:31:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.037,
+          "neutral": 0.891,
+          "positive": 0.072
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.018,
+          "fear": 0.002,
+          "joy": 0.01,
+          "neutral": 0.957,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ScanianGoose",
+        "comment": "A gun rack... a gun rack. I don't even own *a* gun, let alone many guns that would necessitate an entire rack. What am I gonna do with a gun rack?",
+        "score": 5,
+        "date": "2025-04-28T17:32:51",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.849,
+          "neutral": 0.139,
+          "positive": 0.012
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.216,
+          "disgust": 0.388,
+          "fear": 0.03,
+          "joy": 0.007,
+          "neutral": 0.105,
+          "sadness": 0.024,
+          "surprise": 0.231
+        }
+      },
+      {
+        "user": "Gyro_Zeppeli13",
+        "comment": "Why does this sub not allow gifs or pictures in the comments? I don’t get why any sub does this tbh, but it makes even less sense for a gaming sub.",
+        "score": 4,
+        "date": "2025-04-28T17:36:38",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.925,
+          "neutral": 0.069,
+          "positive": 0.006
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.22,
+          "disgust": 0.417,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.15,
+          "sadness": 0.009,
+          "surprise": 0.202
+        }
+      },
+      {
+        "user": "LuckyBeginning4222",
+        "comment": "A gun rack? Really? I don’t even own one gun let alone enough for a gunrack!!",
+        "score": 5,
+        "date": "2025-04-28T19:50:39",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.832,
+          "neutral": 0.153,
+          "positive": 0.016
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.298,
+          "disgust": 0.064,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.002,
+          "sadness": 0.003,
+          "surprise": 0.626
+        }
+      },
+      {
+        "user": "Nutshell_92",
+        "comment": "Big “what am I gonna do.. with a gun rack?” vibes lol",
+        "score": 7,
+        "date": "2025-04-28T15:31:23",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.164,
+          "neutral": 0.663,
+          "positive": 0.173
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.01,
+          "fear": 0.234,
+          "joy": 0.076,
+          "neutral": 0.643,
+          "sadness": 0.014,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "picknicksje85",
+        "comment": "Hmm. Not gonna lie, it’s an ugly gift. And I suppose she didn’t know it was an ashtray, yet regardless it’s such an eyesore. Out of all of the nice and inexpensive gaming related items in existence. Enjoy 🤭",
+        "score": 23,
+        "date": "2025-04-28T15:32:26",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.613,
+          "neutral": 0.281,
+          "positive": 0.106
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.142,
+          "fear": 0.002,
+          "joy": 0.041,
+          "neutral": 0.653,
+          "sadness": 0.156,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "CreatingBlue",
+        "comment": "Bro… if this was genders reversed, everyone would be shitting on the dude for an incompetent, terrible looking, thoughtless gift. I would not excuse this as “she tried”. She didn’t.",
+        "score": 12,
+        "date": "2025-04-28T17:15:59",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.928,
+          "neutral": 0.065,
+          "positive": 0.007
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.16,
+          "disgust": 0.674,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.146,
+          "sadness": 0.01,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "TelmatosaurusRrifle",
+        "comment": "Gun rack ahh gift\n\nhttps://youtu.be/JGyJOX5wFFg?si=x3zm8bkYI9hxJ0ut",
+        "score": 11,
+        "date": "2025-04-28T15:38:42",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.082,
+          "neutral": 0.874,
+          "positive": 0.044
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.179,
+          "neutral": 0.786,
+          "sadness": 0.001,
+          "surprise": 0.024
+        }
+      },
+      {
+        "user": "Trollensky17",
+        "comment": "Time to start smoking joints",
+        "score": 31,
+        "date": "2025-04-28T15:23:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.237,
+          "neutral": 0.643,
+          "positive": 0.12
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.003,
+          "fear": 0.029,
+          "joy": 0.002,
+          "neutral": 0.952,
+          "sadness": 0.004,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "BushesOfLove634",
+        "comment": "Wonder if you could flip your controller over and set it inside? But yes, keys, wallet and change go there for sure! Or if you want to be sappy write on little bits of paper things they do that you appreciate and fold them up and put them in there. They’ll get curious about the little folded papers and pick one up to read it and find it sweet and you’re guaranteed prime booty that night. Or use it for the opposite, idc.",
+        "score": 3,
+        "date": "2025-04-28T15:51:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.052,
+          "neutral": 0.501,
+          "positive": 0.447
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.111,
+          "disgust": 0.02,
+          "fear": 0.01,
+          "joy": 0.126,
+          "neutral": 0.702,
+          "sadness": 0.003,
+          "surprise": 0.029
+        }
+      },
+      {
+        "user": "shaunrundmc",
+        "comment": "Put your keys there",
+        "score": 3,
+        "date": "2025-04-28T16:14:10",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.156,
+          "neutral": 0.773,
+          "positive": 0.071
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.003,
+          "neutral": 0.989,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Defiant_Designer7805",
+        "comment": "Small snack tray???",
+        "score": 3,
+        "date": "2025-04-28T16:23:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.081,
+          "neutral": 0.875,
+          "positive": 0.044
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.134,
+          "sadness": 0.001,
+          "surprise": 0.859
+        }
+      },
+      {
+        "user": "Batpipes521",
+        "comment": " Could use it as a candy dish.",
+        "score": 3,
+        "date": "2025-04-28T16:35:55",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.01,
+          "neutral": 0.651,
+          "positive": 0.338
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.007,
+          "fear": 0.001,
+          "joy": 0.02,
+          "neutral": 0.967,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ArboristTreeClimber",
+        "comment": "It’s the thought that counts.",
+        "score": 3,
+        "date": "2025-04-28T16:39:33",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.039,
+          "neutral": 0.671,
+          "positive": 0.29
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.009,
+          "fear": 0.0,
+          "joy": 0.007,
+          "neutral": 0.97,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Pikka_Bird",
+        "comment": "Reminds me of \"A gun rack... a gun rack. I don't even own *a* gun, let alone many guns that would necessitate an entire rack. What am I gonna do with a gun rack?\"",
+        "score": 3,
+        "date": "2025-04-28T16:41:52",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.826,
+          "neutral": 0.16,
+          "positive": 0.014
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.172,
+          "disgust": 0.528,
+          "fear": 0.047,
+          "joy": 0.004,
+          "neutral": 0.057,
+          "sadness": 0.018,
+          "surprise": 0.174
+        }
+      },
+      {
+        "user": "Ok_Reflection1950",
+        "comment": "use it for small snacks like nuts or candies",
+        "score": 3,
+        "date": "2025-04-28T16:42:39",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.011,
+          "neutral": 0.791,
+          "positive": 0.198
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.981,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      }
+    ],
+    "resumen_zero_shot": "Resume este texto de forma concisa y clara: Theloveofmylife(whoknowsnothingaboutgaming)giftedmethisformyB-day.It'shandmadeandgotmynameonit,problemis:it'sanashtrayandIneversmokedinmylifelol.Stillamgonnatryandfindauseforit.Ilovehersomuch♡.Awesome,somethingtoholdyourHotPocketwhileyougame.Sheboughtyouanashtrayeventhoughyoudon'tsmoke?Well,okaythen.It'sthethoughtthatcounts.Putyourkeysinitorsomething.Loosechange.Littleknickknacks.Keys.It'snowakeybowl.Youwilluseiteveryday.Likegettinggiftedagunrack,andnotowningagun.Congrats.YouhavereachedthesharingmyAmazonwishlistwithmypartnerphaseofyourrelationship.YouneedtotakeupsmokingdudeOutofcuriositywhywouldshegetyouanashtrayifyoudon'tsmoke?Adisplaypiece?Yournameis“GameOn”?IsthatKorean?Wait,shegotyouahandmadepersonalizedashtraybutyouvneversmoked?Itsalovelysentimentbutitsoundslikegamesisnttheonlythingshesnotfullyinformedabout...RemindsmeofwhenWaynegetsagunrackforhisbirthdayinWayne'sWorld.It'sthethoughtthatcountsofcourse,butdamnthisthingishideousThatisuglyGenuinelyoneoftheworstgiftsI'veeverseenIfyou’reanadultthisisnotthoughtfulandashittygift.Youdon’tsmokeandshegotyouacheapashtray.Whatisthisabomination?theloveofyourlifehand-madeyouanastray,andknowsyoudon'tsmoke?howdoessomethinglikethatevenhappen,idontunderstand??Okaydude…WhotfpostthisshitonRedditandwhoupvotesit?Youwouldthinktheloveofyourlifewouldinvestalittletimeintoatleastunderstandingyourhobby.Ibetshethoughtyoucouldfittheremoteinthat😂😂GetintoeatinglotsofsunflowerseedsWhat'seventhat?r/thanksIhateItIusedtouseanashtraytoholdafountainpenwhileIreviewedandsignedengineeringdocuments.Caponcapoffgottooannoying.Ifyoureallyloveheryouwilltakeupsmoking.AtfirstIthoughtitwassomeawfulbootlegcontrollerthathadmeltedsomehow.😂\"Ithasmynameonit\"\"gameon\"☕️👀Imean…\"Anashtray?Ihaven'tevensmokedAcigarette,letalonemanycigarettesthatwouldnecessitateanentireashtray.WhatamIgonnadowithanashtray?\"Shehatesyou.Candybowl/snackbowl!Redditmobile’sUIreallymadethispostsomethingelse😂https://imgur.com/a/pf5XNz7FinallyadecentplaceformybubblegumcigarettesCandy.Theanswerisalwayscandy.Doyouknowhowmanynerdsyoucouldfitinthatthing?Itwasintendedasanashtray.ItshallbecomeaknicknackbowlLookslikeitmightholdaservingofM&Ms!!!Putitnexttoyourfrontdoor,oronanightstandandputyourkeysinitwhenyougethomeAgunrack...agunrack.Idon'tevenown*a*gun,letalonemanygunsthatwouldnecessitateanentirerack.WhatamIgonnadowithagunrack?Whydoesthissubnotallowgifsorpicturesinthecomments?Idon’tgetwhyanysubdoesthistbh,butitmakesevenlesssenseforagamingsub.Agunrack?Really?Idon’tevenownonegunletaloneenoughforagunrack!!Big“whatamIgonnado..withagunrack?”vibeslolHmm.Notgonnalie,it’sanuglygift.AndIsupposeshedidn’tknowitwasanashtray,yetregardlessit’ssuchaneyesore.Outofalloftheniceandinexpensivegamingrelateditemsinexistence.Enjoy🤭Bro…ifthiswasgendersreversed,everyonewouldbeshittingonthedudeforanincompetent,terriblelooking,thoughtlessgift.Iwouldnotexcusethisas“shetried”.Shedidn’t.Gunrackahhgifthttps://youtu.be/JGyJOX5wFFg?si=x3zm8bkYI9hxJ0utTimetostartsmokingjointsWonderifyoucouldflipyourcontrolleroverandsetitinside?Butyes,keys,walletandchangegothereforsure!Orifyouwanttobesappywriteonlittlebitsofpaperthingstheydothatyouappreciateandfoldthemupandputtheminthere.They’llgetcuriousaboutthelittlefoldedpapersandpickoneuptoreaditandfinditsweetandyou’reguaranteedprimebootythatnight.Oruseitfortheopposite,idc.PutyourkeysthereSmallsnacktray???Coulduseitasacandydish.It’sthethoughtthatcounts.Remindsmeof\"Agunrack...agunrack.Idon'tevenown*a*gun,letalonemanygunsthatwouldnecessitateanentirerack.WhatamIgonnadowithagunrack?\"useitforsmallsnackslikenutsorcandies.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldneveruseitforcigarettes.Iwouldnever"
+  },
+  {
+    "flair": null,
+    "title": "Adulthood.",
+    "author": "sonicrespawn",
+    "date": "2025-04-29T04:40:24",
+    "score": 28534,
+    "description": "Right in the knees",
+    "comments": [
+      {
+        "user": "uchuskies08",
+        "comment": "It's sad because whenever a game or system announces some cool multiplayer feature, it's like, yeah wow if I had friends who played video games anymore that would be great.",
+        "score": 7705,
+        "date": "2025-04-29T04:47:31",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.268,
+          "neutral": 0.35,
+          "positive": 0.383
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.006,
+          "fear": 0.002,
+          "joy": 0.083,
+          "neutral": 0.058,
+          "sadness": 0.835,
+          "surprise": 0.014
+        }
+      },
+      {
+        "user": "AgitatedFly1182",
+        "comment": "I used to be an adventurer like you, then all my friends left me",
+        "score": 981,
+        "date": "2025-04-29T04:47:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.408,
+          "neutral": 0.525,
+          "positive": 0.067
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.041,
+          "disgust": 0.01,
+          "fear": 0.004,
+          "joy": 0.005,
+          "neutral": 0.343,
+          "sadness": 0.591,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "Dfeeds",
+        "comment": "It's more depressing when I boot up my old 360 and see what used to be. ",
+        "score": 484,
+        "date": "2025-04-29T04:47:33",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.915,
+          "neutral": 0.075,
+          "positive": 0.01
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.005,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.015,
+          "sadness": 0.977,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "DM_ME_PICKLES",
+        "comment": "Looking at Steam friends list of buddies I used to game with on the daily… “last online 7 years ago” 🥲",
+        "score": 1539,
+        "date": "2025-04-29T04:48:33",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.007,
+          "neutral": 0.467,
+          "positive": 0.526
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.973,
+          "sadness": 0.004,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Speaker4theDead8",
+        "comment": "People send me requests, I accept them, and then I literally never see them ever again.\n\n\nThis last month is the first time in over a decade I've played a game with anybody but my brother. I joined a clan in Division 2 and we play through endgame stuff together. I only speak if I absolutely have to lol.",
+        "score": 209,
+        "date": "2025-04-29T04:51:56",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.136,
+          "neutral": 0.542,
+          "positive": 0.322
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.03,
+          "disgust": 0.009,
+          "fear": 0.009,
+          "joy": 0.022,
+          "neutral": 0.161,
+          "sadness": 0.765,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "SgtNeilDiamond",
+        "comment": "Bro those early days of the 360 when we'd have like 10-15 people online on the regular, truly was a time and place.",
+        "score": 192,
+        "date": "2025-04-29T05:03:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.036,
+          "neutral": 0.807,
+          "positive": 0.156
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.005,
+          "neutral": 0.976,
+          "sadness": 0.009,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Kaludar_",
+        "comment": "But you can play whenever you want as long as you want! (As long as it's not work hours, and you paid your bills, and your rent, and you aren't too tired, and you don't have errands to run....)",
+        "score": 337,
+        "date": "2025-04-29T04:50:45",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.02,
+          "neutral": 0.224,
+          "positive": 0.756
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.248,
+          "disgust": 0.041,
+          "fear": 0.008,
+          "joy": 0.058,
+          "neutral": 0.625,
+          "sadness": 0.016,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "5kyl3r",
+        "comment": "my steam account is older than half the people in the games I play I noticed.  not sure how I feel about that\n\nmillennials are going to be this weird first generation of gamers.  sure there are gen-x gamers, but millennials are massively more into gaming since we're the ones straddling the dot com explosion and massive technological advances in consumer electronics that moved gaming forward so much.  I just imagine nursing homes advertising the speed and cost of their internet connection and gaming rig accommodations.  not sure if I find this thought funny or depressing, but it's possible lol",
+        "score": 99,
+        "date": "2025-04-29T05:03:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.335,
+          "neutral": 0.468,
+          "positive": 0.197
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.011,
+          "fear": 0.004,
+          "joy": 0.118,
+          "neutral": 0.756,
+          "sadness": 0.073,
+          "surprise": 0.034
+        }
+      },
+      {
+        "user": "The_Cost_Of_Lies",
+        "comment": "42 this year and rocking 3 friends - my wife, my daughter and my sister-in-law 😂\n\n[It's fine](https://media1.tenor.com/m/4r_KCzKSNOcAAAAd/laugh-cry.gif)",
+        "score": 128,
+        "date": "2025-04-29T04:54:53",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.006,
+          "neutral": 0.184,
+          "positive": 0.809
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.248,
+          "neutral": 0.728,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Lanky-Professor-2452",
+        "comment": "\"0 friends online\", it's hurt",
+        "score": 58,
+        "date": "2025-04-29T04:48:57",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.849,
+          "neutral": 0.138,
+          "positive": 0.012
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.005,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.023,
+          "sadness": 0.956,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "MotherNeedleworker30",
+        "comment": "Me as a child and an adult unfortunately",
+        "score": 25,
+        "date": "2025-04-29T05:06:33",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.644,
+          "neutral": 0.335,
+          "positive": 0.021
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.017,
+          "joy": 0.002,
+          "neutral": 0.078,
+          "sadness": 0.899,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "MTBrains",
+        "comment": "That's the whole of my life, chief.",
+        "score": 21,
+        "date": "2025-04-29T05:07:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.041,
+          "neutral": 0.67,
+          "positive": 0.289
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.007,
+          "fear": 0.006,
+          "joy": 0.006,
+          "neutral": 0.775,
+          "sadness": 0.192,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Detox259",
+        "comment": "Adult men* I’m literally playing on my gfs Xbox right now and she has like 13 requests and only plays like once a month. Lmao",
+        "score": 234,
+        "date": "2025-04-29T04:44:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.253,
+          "neutral": 0.545,
+          "positive": 0.202
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.054,
+          "disgust": 0.021,
+          "fear": 0.002,
+          "joy": 0.011,
+          "neutral": 0.872,
+          "sadness": 0.022,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "kazmiller96",
+        "comment": "lol. I am permanently set to \"Appear Offline\"",
+        "score": 50,
+        "date": "2025-04-29T05:14:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.095,
+          "neutral": 0.72,
+          "positive": 0.185
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.042,
+          "neutral": 0.946,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "palmwhispers",
+        "comment": "Once you get further into it, adulthood is not wanting any friends requests. It’s like no thanks",
+        "score": 53,
+        "date": "2025-04-29T04:50:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.825,
+          "neutral": 0.156,
+          "positive": 0.019
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.084,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.81,
+          "sadness": 0.084,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "rvaenboy",
+        "comment": "Even though I like my solitude, it would be nice to have someone want to play games with me sometimes",
+        "score": 13,
+        "date": "2025-04-29T05:07:59",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.038,
+          "neutral": 0.422,
+          "positive": 0.54
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.01,
+          "fear": 0.005,
+          "joy": 0.045,
+          "neutral": 0.834,
+          "sadness": 0.087,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Broseph_Bobby",
+        "comment": "I’m I the only person who keeps a small friend list? \n\nLike if I don’t know you personally, and if I don’t play with you for over a year you are getting purged from my friends list.",
+        "score": 9,
+        "date": "2025-04-29T05:00:17",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.601,
+          "neutral": 0.365,
+          "positive": 0.034
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.777,
+          "disgust": 0.128,
+          "fear": 0.007,
+          "joy": 0.001,
+          "neutral": 0.039,
+          "sadness": 0.017,
+          "surprise": 0.031
+        }
+      },
+      {
+        "user": "DaniFoxglove",
+        "comment": "What are we playing? I'm on Xbox myself, and I've been rotating Oblivion Remastered, Remnant II, and Aliens: Fireteam Elite.\n\nIf ya need a gaming buddy, or a voice chat pal, leave a message with your gamertag or whatever.",
+        "score": 20,
+        "date": "2025-04-29T05:00:43",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.01,
+          "neutral": 0.776,
+          "positive": 0.214
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.003,
+          "neutral": 0.99,
+          "sadness": 0.001,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Siedlec",
+        "comment": "Friends Code? I will friend you up",
+        "score": 9,
+        "date": "2025-04-29T05:04:37",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.014,
+          "neutral": 0.538,
+          "positive": 0.448
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.024,
+          "neutral": 0.965,
+          "sadness": 0.0,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "milyuno2",
+        "comment": "That is Xbox, what you were waiting for?",
+        "score": 8,
+        "date": "2025-04-29T04:59:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.199,
+          "neutral": 0.711,
+          "positive": 0.089
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.006,
+          "neutral": 0.916,
+          "sadness": 0.001,
+          "surprise": 0.07
+        }
+      },
+      {
+        "user": "redditisathot890",
+        "comment": "Thats not adulthood, thats just lonely",
+        "score": 17,
+        "date": "2025-04-29T04:53:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.782,
+          "neutral": 0.193,
+          "positive": 0.025
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.94,
+          "sadness": 0.046,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "_Wexxican_",
+        "comment": "Preach",
+        "score": 6,
+        "date": "2025-04-29T04:46:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.091,
+          "neutral": 0.645,
+          "positive": 0.264
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.991,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Flawless_Reign88",
+        "comment": "I feel you man",
+        "score": 4,
+        "date": "2025-04-29T04:59:43",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.312,
+          "neutral": 0.603,
+          "positive": 0.085
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.012,
+          "fear": 0.002,
+          "joy": 0.336,
+          "neutral": 0.635,
+          "sadness": 0.012,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Shinobi2099",
+        "comment": "Same :(",
+        "score": 4,
+        "date": "2025-04-29T05:06:53",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.798,
+          "neutral": 0.177,
+          "positive": 0.025
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.041,
+          "disgust": 0.05,
+          "fear": 0.005,
+          "joy": 0.003,
+          "neutral": 0.717,
+          "sadness": 0.18,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "ifuckinlovetiddies",
+        "comment": "Yeah my last homie switched to PC and won't play game pass games with me anymore. He only plays with his fancy PC friends",
+        "score": 5,
+        "date": "2025-04-29T05:08:31",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.626,
+          "neutral": 0.324,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.025,
+          "disgust": 0.029,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.78,
+          "sadness": 0.153,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Kurokawa_Cyan",
+        "comment": "Hahaha, yeah...\n\nI'm so lonely...",
+        "score": 6,
+        "date": "2025-04-29T05:16:39",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.542,
+          "neutral": 0.35,
+          "positive": 0.108
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.007,
+          "neutral": 0.045,
+          "sadness": 0.943,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "reisenbime",
+        "comment": "My apparent choice in friends as an adult;  \n\nCategory one: overworked, tired, semi-depressed parents who haven’t done anything fun since they met their spouse in 2012 and prioritized turning into everything you always said you’d never become in your early 20s. Their wife of several years becomes violently angry at the mere thought of video games existing and it’s always someone’s birthday the next day so they can’t stay up \"late.\" \nYou meet once a year and they always leave early and it deflates the fun of meeting at all.\n\nCategory two: Jobless, unambitious stoners on welfare who never progressed past 17 mentally, still think Bam Margera is the absolute pinnacle of entertainers, and the only game they play online is some obscure japanese card game, or they just have 12 000+ hours in one single game that you just don’t see the appeal in playing anymore at all.  \n\nCategory three: Someone who is actually fun, interesting and compatible in personality and taste. They don’t really use social media, they forget answering texts, they have so many other friends and projects that actually getting a hold of them is impossible otherwise. Hanging out with them is the best time you could ever have and you get along better than with anyone else, but whenever you’re not actually together in the same room you always feel like the least prioritized person in their lives.",
+        "score": 4,
+        "date": "2025-04-29T08:31:59",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.443,
+          "neutral": 0.362,
+          "positive": 0.195
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.249,
+          "disgust": 0.135,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.589,
+          "sadness": 0.018,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "kbarney345",
+        "comment": "I love how we have many ways of finding people socially, but then you see a thread like this. \n\nLiterally dozens and dozens of you all commenting I got no one to play with, someone commenting \"same here\"! and then yall just move on. \n\nHERE IN THIS THREAD ARE ALL YOUR NEW GAMING FRIENDS PEOPLE! \n\nMAKE A DISCORD CALL IT LONELY OLD GAMER FARTS AND INVITE PEOPLE. \n\nIm 31 and I have more friends than I did younger, They are all over the place, we game and hang all the time. We actually plan entire meet up trips and such. \n\nYes, we are all busy and have full schedules, but just being able to chat in a group channel is enough to keep the feelings high.",
+        "score": 12,
+        "date": "2025-04-29T11:51:08",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.013,
+          "neutral": 0.126,
+          "positive": 0.861
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.726,
+          "disgust": 0.023,
+          "fear": 0.007,
+          "joy": 0.041,
+          "neutral": 0.192,
+          "sadness": 0.002,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "rmorrin",
+        "comment": "It's also a lot harder to add people in most games now",
+        "score": 4,
+        "date": "2025-04-29T04:48:05",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.731,
+          "neutral": 0.247,
+          "positive": 0.021
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.044,
+          "fear": 0.006,
+          "joy": 0.002,
+          "neutral": 0.253,
+          "sadness": 0.68,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "Athezir_4",
+        "comment": "same but it's actually the best",
+        "score": 4,
+        "date": "2025-04-29T04:57:32",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.062,
+          "positive": 0.93
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.002,
+          "joy": 0.619,
+          "neutral": 0.363,
+          "sadness": 0.007,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "[deleted]",
+        "score": 5,
+        "date": "2025-04-29T05:00:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.652,
+          "positive": 0.072
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Vivid-Ad-5733",
+        "comment": "me when i look at my hundreds of steam friends i met in cs and tf2 and not remembering who 90% of them are anymore :'(",
+        "score": 4,
+        "date": "2025-04-29T05:09:03",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.526,
+          "neutral": 0.409,
+          "positive": 0.065
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.027,
+          "disgust": 0.011,
+          "fear": 0.01,
+          "joy": 0.012,
+          "neutral": 0.91,
+          "sadness": 0.024,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "RicoBling",
+        "comment": "Damn! That hit hard! I feel your pain!",
+        "score": 4,
+        "date": "2025-04-29T05:11:27",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.825,
+          "neutral": 0.146,
+          "positive": 0.029
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.358,
+          "disgust": 0.039,
+          "fear": 0.011,
+          "joy": 0.122,
+          "neutral": 0.007,
+          "sadness": 0.4,
+          "surprise": 0.064
+        }
+      },
+      {
+        "user": "AcrobaticMorkva",
+        "comment": "I have 1 friend in Steam. Forever young, I want to be forever young!..",
+        "score": 5,
+        "date": "2025-04-29T05:12:38",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.102,
+          "positive": 0.895
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.022,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.848,
+          "neutral": 0.118,
+          "sadness": 0.006,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Handmade-Cookies",
+        "comment": "Adulthood is boring! I'm blessed with 2 of my childhood friends that still play games with till this day.",
+        "score": 5,
+        "date": "2025-04-29T05:22:47",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.046,
+          "neutral": 0.145,
+          "positive": 0.81
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.013,
+          "fear": 0.001,
+          "joy": 0.354,
+          "neutral": 0.14,
+          "sadness": 0.443,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "QU4NTUM_FLUX",
+        "comment": "I miss the Xbox 360 days so bad. So many long nights in absolutely stacked parties playing Halo 3, MW2, Left 4 Dead, BF3, etc. Hell, even if none of us were playing a multiplayer game we’d all still party up and chat about what we were playing. Midnight release of Skyrim was wild. Party completely full with all of us talking about different things we were discovering in the game. These days I still have some of the same people on my friends list but the issue is that no one ever wants to play the same thing. The one buddy that I used to play games with the most has become so damn stubborn on trying new games. If it’s not a well known AAA game franchise he probably wont touch it. The funny thing is when he finally does play a new game that I tried to convince him to play with me he ends up loving it and says it’s amazing. But by that time I’ve already played the game to death so he ends up playing it with other people. It’s so damn frustrating and depressing.",
+        "score": 3,
+        "date": "2025-04-29T17:28:26",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.625,
+          "neutral": 0.268,
+          "positive": 0.107
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.021,
+          "fear": 0.002,
+          "joy": 0.019,
+          "neutral": 0.111,
+          "sadness": 0.841,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "WhiskySiN",
+        "comment": "And here I've been deleting my list just outta fear one of these people may actually message me.",
+        "score": 6,
+        "date": "2025-04-29T04:56:48",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.751,
+          "neutral": 0.239,
+          "positive": 0.011
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.001,
+          "fear": 0.02,
+          "joy": 0.007,
+          "neutral": 0.931,
+          "sadness": 0.001,
+          "surprise": 0.031
+        }
+      },
+      {
+        "user": "poland626",
+        "comment": "Me and about 5-10 is friends still use discord in our 30s to chat a few nights a week. Its one thing we all say we'll never give up",
+        "score": 7,
+        "date": "2025-04-29T05:19:21",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.35,
+          "positive": 0.642
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.012,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.919,
+          "sadness": 0.029,
+          "surprise": 0.016
+        }
+      },
+      {
+        "user": "Glum-Bad-2191",
+        "comment": "People send me friend request frequently but I don’t accept them lol",
+        "score": 3,
+        "date": "2025-04-29T04:58:43",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.646,
+          "neutral": 0.324,
+          "positive": 0.03
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.489,
+          "disgust": 0.036,
+          "fear": 0.024,
+          "joy": 0.003,
+          "neutral": 0.235,
+          "sadness": 0.162,
+          "surprise": 0.053
+        }
+      },
+      {
+        "user": "spankey_my_mankey",
+        "comment": "That's just one of the reasons why I never played lethal company and helldivers 2 on days when its hype was on peak",
+        "score": 3,
+        "date": "2025-04-29T05:00:32",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.816,
+          "neutral": 0.171,
+          "positive": 0.013
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.003,
+          "neutral": 0.973,
+          "sadness": 0.011,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Fit-Wolverine9892",
+        "comment": "Seems like a good time. I enjoy playing games  alone. The only thing I don’t play alone is Minecraft.",
+        "score": 3,
+        "date": "2025-04-29T05:02:29",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.013,
+          "neutral": 0.052,
+          "positive": 0.935
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.659,
+          "neutral": 0.318,
+          "sadness": 0.018,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Chadderbug123",
+        "comment": "My console friendlist is never the same as the discord friend list for me.",
+        "score": 3,
+        "date": "2025-04-29T05:04:03",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.721,
+          "neutral": 0.26,
+          "positive": 0.02
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.008,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.957,
+          "sadness": 0.02,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "DohRayMe",
+        "comment": "Have Steam and An Inventory,  Daily random requests, even as I don't play online .",
+        "score": 3,
+        "date": "2025-04-29T05:05:29",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.068,
+          "neutral": 0.836,
+          "positive": 0.096
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.991,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "MuchRoutine1979",
+        "comment": "I have a childhood friend who games a lot but he never bothered to get into some of the multi-player games I play so we never game together.  I would try some of his but he only plays single player.",
+        "score": 3,
+        "date": "2025-04-29T05:06:00",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.475,
+          "neutral": 0.45,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.013,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.839,
+          "sadness": 0.107,
+          "surprise": 0.024
+        }
+      },
+      {
+        "user": "pastor_fuzz",
+        "comment": "I swear i saw them on a few months ago \"Last online 3 years ago.\" Oh..",
+        "score": 3,
+        "date": "2025-04-29T05:16:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.267,
+          "neutral": 0.623,
+          "positive": 0.111
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.005,
+          "fear": 0.008,
+          "joy": 0.004,
+          "neutral": 0.808,
+          "sadness": 0.007,
+          "surprise": 0.166
+        }
+      },
+      {
+        "user": "Forsaken-Bluejay5519",
+        "comment": "More like Xbox. I have PlayStation and Xbox and I always have more friends online on PS. Xbox has been ravaged by a decade of no killer exclusives and flop consoles",
+        "score": 3,
+        "date": "2025-04-29T05:17:55",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.138,
+          "neutral": 0.414,
+          "positive": 0.447
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.005,
+          "fear": 0.005,
+          "joy": 0.01,
+          "neutral": 0.548,
+          "sadness": 0.426,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "AdeptMulberry8128",
+        "comment": "My friends list looks the same, but then I realize all I play (and enjoy) are single player games…",
+        "score": 3,
+        "date": "2025-04-29T05:22:14",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.04,
+          "neutral": 0.417,
+          "positive": 0.542
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.006,
+          "fear": 0.004,
+          "joy": 0.031,
+          "neutral": 0.886,
+          "sadness": 0.056,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "NightLord70",
+        "comment": "I'm on xbox happy to add you and join in on games",
+        "score": 3,
+        "date": "2025-04-29T05:22:19",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.033,
+          "positive": 0.966
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.0,
+          "joy": 0.957,
+          "neutral": 0.038,
+          "sadness": 0.001,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "HaztecCore",
+        "comment": "Nothing kills gaming friendships harder than the 4 hit combo of \" I don't find this game fun anymore.\" + \" I've met a girl/ guy recently\" + \" I'm studying for x now, gonna be busy\" and \"my partner and I are expecting a baby!\"\n\nEspecially the last one really gonna leave some accounts on \"last seen online 3 years ago\" 😩\n\nAlways sucks when you see that happen.",
+        "score": 3,
+        "date": "2025-04-29T05:31:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.866,
+          "neutral": 0.118,
+          "positive": 0.016
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.38,
+          "disgust": 0.12,
+          "fear": 0.011,
+          "joy": 0.192,
+          "neutral": 0.087,
+          "sadness": 0.157,
+          "surprise": 0.054
+        }
+      },
+      {
+        "user": "windex_ninja",
+        "comment": "And the friends you do have look like this:\n\ncoolfrendo69: Last on line 1349 days ago",
+        "score": 3,
+        "date": "2025-04-29T05:41:06",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.043,
+          "neutral": 0.743,
+          "positive": 0.214
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.019,
+          "neutral": 0.953,
+          "sadness": 0.001,
+          "surprise": 0.024
+        }
+      }
+    ],
+    "resumen_zero_shot": "Resume este texto de forma concisa y clara: Adulthood..Rightintheknees.It'ssadbecausewheneveragameorsystemannouncessomecoolmultiplayerfeature,it'slike,yeahwowifIhadfriendswhoplayedvideogamesanymorethatwouldbegreat.Iusedtobeanadventurerlikeyou,thenallmyfriendsleftmeIt'smoredepressingwhenIbootupmyold360andseewhatusedtobe.LookingatSteamfriendslistofbuddiesIusedtogamewithonthedaily…“lastonline7yearsago”🥲Peoplesendmerequests,Iacceptthem,andthenIliterallyneverseethemeveragain.ThislastmonthisthefirsttimeinoveradecadeI'veplayedagamewithanybodybutmybrother.IjoinedaclaninDivision2andweplaythroughendgamestufftogether.IonlyspeakifIabsolutelyhavetolol.Brothoseearlydaysofthe360whenwe'dhavelike10-15peopleonlineontheregular,trulywasatimeandplace.Butyoucanplaywheneveryouwantaslongasyouwant!(Aslongasit'snotworkhours,andyoupaidyourbills,andyourrent,andyouaren'ttootired,andyoudon'thaveerrandstorun....)mysteamaccountisolderthanhalfthepeopleinthegamesIplayInoticed.notsurehowIfeelaboutthatmillennialsaregoingtobethisweirdfirstgenerationofgamers.suretherearegen-xgamers,butmillennialsaremassivelymoreintogamingsincewe'retheonesstraddlingthedotcomexplosionandmassivetechnologicaladvancesinconsumerelectronicsthatmovedgamingforwardsomuch.Ijustimaginenursinghomesadvertisingthespeedandcostoftheirinternetconnectionandgamingrigaccommodations.notsureifIfindthisthoughtfunnyordepressing,butit'spossiblelol42thisyearandrocking3friends-mywife,mydaughterandmysister-in-law😂[It'sfine](https://media1.tenor.com/m/4r_KCzKSNOcAAAAd/laugh-cry.gif)\"0friendsonline\",it'shurtMeasachildandanadultunfortunatelyThat'sthewholeofmylife,chief.Adultmen*I’mliterallyplayingonmygfsXboxrightnowandshehaslike13requestsandonlyplayslikeonceamonth.Lmaolol.Iampermanentlysetto\"AppearOffline\"Onceyougetfurtherintoit,adulthoodisnotwantinganyfriendsrequests.It’slikenothanksEventhoughIlikemysolitude,itwouldbenicetohavesomeonewanttoplaygameswithmesometimesI’mItheonlypersonwhokeepsasmallfriendlist?LikeifIdon’tknowyoupersonally,andifIdon’tplaywithyouforoverayearyouaregettingpurgedfrommyfriendslist.Whatareweplaying?I'monXboxmyself,andI'vebeenrotatingOblivionRemastered,RemnantII,andAliens:FireteamElite.Ifyaneedagamingbuddy,oravoicechatpal,leaveamessagewithyourgamertagorwhatever.FriendsCode?IwillfriendyouupThatisXbox,whatyouwerewaitingfor?Thatsnotadulthood,thatsjustlonelyPreachIfeelyoumanSame:(YeahmylasthomieswitchedtoPCandwon'tplaygamepassgameswithmeanymore.HeonlyplayswithhisfancyPCfriendsHahaha,yeah...I'msolonely...Myapparentchoiceinfriendsasanadult;Categoryone:overworked,tired,semi-depressedparentswhohaven’tdoneanythingfunsincetheymettheirspousein2012andprioritizedturningintoeverythingyoualwayssaidyou’dneverbecomeinyourearly20s.Theirwifeofseveralyearsbecomesviolentlyangryatthemerethoughtofvideogamesexistingandit’salwayssomeone’sbirthdaythenextdaysotheycan’tstayup\"late.\"Youmeetonceayearandtheyalwaysleaveearlyanditdeflatesthefunofmeetingatall.Categorytwo:Jobless,unambitiousstonersonwelfarewhoneverprogressedpast17mentally,stillthinkBamMargeraistheabsolutepinnacleofentertainers,andtheonlygametheyplayonlineissomeobscurejapanesecardgame,ortheyjusthave12000+hoursinonesinglegamethatyoujustdon’tseetheappealinplayinganymoreatall.Categorythree:Someonewhoisactuallyfun,interestingandcompatibleinpersonalityandtaste.Theydon’treallyusesocialmedia,theyforgetansweringtexts,theyhavesomanyotherfriendsandprojectsthatactuallygettingaholdofthemisimpossibleotherwise.Hangingoutwiththemisthebesttimeyoucouldeverhaveandyougetalongbetterthanwithanyoneelse,butwheneveryou’renotactuallytogetherinthesameroomyoualwaysfeelliketheleastprioritizedpersonintheirlives.Ilovehowwehavemanywaysoffindingpeoplesocially,butthenyouseeathreadlikethis.LiterallydozensanddozensofyouallcommentingIgotnoonetoplaywith,someonecommenting\"samehere\"!andthenyalljustmoveon.HEREINTHISTHREADAREALLYOURNEWGAMINGFRIENDSPEOPLE!MAKEADISCORDCALLITLONELYOLDGAMERFARTSANDINVITEPEOPLE.Im31andIhavemorefriendsthanIdidyounger,Theyareallovertheplace,wegameandhangallthetime.Weactuallyplanentiremeetuptripsandsuch.Yes,weareallbusyandhavefullschedules,butjustbeingabletochatinagroupchannelisenoughtokeepthefeelingshigh.It'salsoalothardertoaddpeopleinmostgamesnowsamebutit'sactuallythebest[deleted]mewhenilookatmyhundredsofsteamfriendsimetincsandtf2andnotrememberingwho90%ofthemareanymore:'(Damn!Thathithard!Ifeelyourpain!Ihave1friendinSteam.Foreveryoung,Iwanttobeforeveryoung!..Adulthoodisboring!I'mblessedwith2ofmychildhoodfriendsthatstillplaygameswithtillthisday.ImisstheXbox360dayssobad.SomanylongnightsinabsolutelystackedpartiesplayingHalo3,MW2,Left4Dead,BF3,etc.Hell,evenifnoneofuswereplayingamultiplayergamewe’dallstillpartyupandchataboutwhatwewereplaying.MidnightreleaseofSkyrimwaswild.Partycompletelyfullwithallofustalkingaboutdifferentthingswewerediscoveringinthegame.ThesedaysIstillhavesomeofthesamepeopleonmyfriendslistbuttheissueisthatnooneeverwantstoplaythesamething.TheonebuddythatIusedtoplaygameswiththemosthasbecomesodamnstubbornontryingnewgames.Ifit’snotawellknownAAAgamefranchiseheprobablywonttouchit.ThefunnythingiswhenhefinallydoesplayanewgamethatItriedtoconvincehimtoplaywithmeheendsuplovingitandsaysit’samazing.ButbythattimeI’vealreadyplayedthegametodeathsoheendsupplayingitwithotherpeople.It’ssodamnfrustratinganddepressing.AndhereI'vebeendeletingmylistjustouttafearoneofthesepeoplemayactuallymessageme.Meandabout5-10isfriendsstillusediscordinour30stochatafewnightsaweek.Itsonethingweallsaywe'llnevergiveupPeoplesendmefriendrequestfrequentlybutIdon’tacceptthemlolThat'sjustoneofthereasonswhyIneverplayedlethalcompanyandhelldivers2ondayswhenitshypewasonpeakSeemslikeagoodtime.Ienjoyplayinggamesalone.TheonlythingIdon’tplayaloneisMinecraft.Myconsolefriendlistisneverthesameasthediscordfriendlistforme.HaveSteamandAnInventory,Dailyrandomrequests,evenasIdon'tplayonline.Ihaveachildhoodfriendwhogamesalotbutheneverbotheredtogetintosomeofthemulti-playergamesIplaysowenevergametogether.Iwouldtrysomeofhisbutheonlyplayssingleplayer.Iswearisawthemonafewmonthsago\"Lastonline3yearsago.\"Oh..MorelikeXbox.IhavePlayStationandXboxandIalwayshavemorefriendsonlineonPS.XboxhasbeenravagedbyadecadeofnokillerexclusivesandflopconsolesMyfriendslistlooksthesame,butthenIrealizeallIplay(andenjoy)aresingleplayergames…I'monxboxhappytoaddyouandjoininongamesNothingkillsgamingfriendshipsharderthanthe4hitcomboof\"Idon'tfindthisgamefunanymore.\"+\"I'vemetagirl/guyrecently\"+\"I'mstudyingforxnow,gonnabebusy\"and\"mypartnerandIareexpectingababy!\"Especiallythelastonereallygonnaleavesomeaccountson\"lastseenonline3yearsago\"😩Alwayssuckswhenyouseethathappen.Andthefriendsyoudohavelooklikethis:coolfrendo69:Lastonline1349daysago.I'mnotgoingtoplayanymoregameswithyou.I'mgoingtoplaygameswithmyfriendswhoareactuallyfun.I'mgoingtoplaygameswithmyfriendswhoareactuallyfun.I'mgoingtoplaygameswithmyfriendswhoareactuallyfun.I'mgoingtoplaygameswithmyfriendswhoareactuallyfun.I'mgoingtoplaygameswithmyfriends"
+  },
+  {
+    "flair": null,
+    "title": "Your character looks sick when diseased in Oblivion",
+    "author": "Strange_Music",
+    "date": "2025-04-26T03:45:57",
+    "score": 23299,
+    "description": "\nIts a small detail, but I like it when things like this are added. Really rounds out a game, imo.\n\nAnd I was not expecting to be reliving Oblivion in one of the greatest remasters ever made this week but here we are.\n\nBravo, Virtuos 👏\n\nGame: Oblivion Remastered ",
+    "comments": [
+      {
+        "user": "Deadlocked02",
+        "comment": "With vampirism too. I wish vampirism didn’t make your character look like someone who has a flu, but it’s already a huge improvement over what vampirism looked like in the original.",
+        "score": 5058,
+        "date": "2025-04-26T04:00:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.192,
+          "neutral": 0.482,
+          "positive": 0.326
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.021,
+          "fear": 0.002,
+          "joy": 0.039,
+          "neutral": 0.893,
+          "sadness": 0.038,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "AFineDayForScience",
+        "comment": "That's how I look normally",
+        "score": 979,
+        "date": "2025-04-26T03:51:46",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.022,
+          "neutral": 0.679,
+          "positive": 0.299
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.019,
+          "fear": 0.005,
+          "joy": 0.025,
+          "neutral": 0.925,
+          "sadness": 0.022,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "moriz0",
+        "comment": "I'm pretty sure this is a thing in the original oblivion as well.",
+        "score": 509,
+        "date": "2025-04-26T04:19:33",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.221,
+          "neutral": 0.716,
+          "positive": 0.063
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.021,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.938,
+          "sadness": 0.034,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "SnurtyMurpheson",
+        "comment": "I'll never know. Argonians ftw lol\n\nEdit: and I get my first award from this, thank you!",
+        "score": 1168,
+        "date": "2025-04-26T03:49:39",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.061,
+          "positive": 0.936
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.971,
+          "neutral": 0.015,
+          "sadness": 0.0,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "jrdnmdhl",
+        "comment": "You look rather pale. It could be ataxia.",
+        "score": 358,
+        "date": "2025-04-26T03:55:15",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.591,
+          "neutral": 0.372,
+          "positive": 0.037
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.0,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.004,
+          "neutral": 0.981,
+          "sadness": 0.002,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "claytalian",
+        "comment": "Yeah, I made a deep blue dark elf, and when he became a vampire, he turned a very pale blue. Pretty neat. Of course, I spent a couple hours immediately afterward going through the vampire cure quest because I forgot to use a cure disease potion, and my infamy was too high to pray at a shrine.",
+        "score": 66,
+        "date": "2025-04-26T04:06:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.239,
+          "neutral": 0.45,
+          "positive": 0.311
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.013,
+          "fear": 0.001,
+          "joy": 0.196,
+          "neutral": 0.776,
+          "sadness": 0.009,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "doomdspacemarine",
+        "comment": "If I recall the original did that as well.",
+        "score": 82,
+        "date": "2025-04-26T04:28:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.058,
+          "neutral": 0.891,
+          "positive": 0.051
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.001,
+          "neutral": 0.986,
+          "sadness": 0.004,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "BikelJordan",
+        "comment": "When Kahjiit get sick, Kahjiit just drink stale temple water and pray for warm sands, then Kahjiit all better.",
+        "score": 86,
+        "date": "2025-04-26T04:34:10",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.072,
+          "neutral": 0.635,
+          "positive": 0.293
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.137,
+          "fear": 0.015,
+          "joy": 0.018,
+          "neutral": 0.769,
+          "sadness": 0.054,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "arcalumis",
+        "comment": "Some faces looks amazing, others look like that bug man in MIB 1, what's the deal with that?",
+        "score": 49,
+        "date": "2025-04-26T03:54:44",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.028,
+          "neutral": 0.179,
+          "positive": 0.792
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.052,
+          "fear": 0.006,
+          "joy": 0.188,
+          "neutral": 0.083,
+          "sadness": 0.002,
+          "surprise": 0.662
+        }
+      },
+      {
+        "user": "theshwedda",
+        "comment": "wasnt added, that existed in the 2006 version",
+        "score": 15,
+        "date": "2025-04-26T06:00:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.226,
+          "neutral": 0.737,
+          "positive": 0.037
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.891,
+          "sadness": 0.011,
+          "surprise": 0.086
+        }
+      },
+      {
+        "user": "TheFirstDragonBorn1",
+        "comment": "That's a really neat detail. I'm curious to see how vampires look now, they looked pretty ugly in og oblivion lol.",
+        "score": 11,
+        "date": "2025-04-26T04:27:13",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.157,
+          "neutral": 0.402,
+          "positive": 0.441
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.412,
+          "fear": 0.004,
+          "joy": 0.132,
+          "neutral": 0.411,
+          "sadness": 0.025,
+          "surprise": 0.015
+        }
+      },
+      {
+        "user": "Dazzling_Monitor_648",
+        "comment": "I'd expect someone with disease to look sick",
+        "score": 9,
+        "date": "2025-04-26T06:17:58",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.913,
+          "neutral": 0.081,
+          "positive": 0.006
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.147,
+          "fear": 0.063,
+          "joy": 0.004,
+          "neutral": 0.676,
+          "sadness": 0.009,
+          "surprise": 0.098
+        }
+      },
+      {
+        "user": "_Bill_Cipher-",
+        "comment": "Holy shit I'm so excited tp buy this tomorrow",
+        "score": 29,
+        "date": "2025-04-26T03:59:56",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.008,
+          "positive": 0.989
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.99,
+          "neutral": 0.003,
+          "sadness": 0.0,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "adol1004",
+        "comment": "so they look sick when they are sick?",
+        "score": 62,
+        "date": "2025-04-26T03:48:50",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.815,
+          "neutral": 0.175,
+          "positive": 0.01
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.475,
+          "fear": 0.044,
+          "joy": 0.003,
+          "neutral": 0.135,
+          "sadness": 0.009,
+          "surprise": 0.332
+        }
+      },
+      {
+        "user": "Kenny1115",
+        "comment": ">Your character looks sick when diseased in Oblivion\n\nYes, that's how looking sick works. /j\n\nJokes aside that's an awesome detail.",
+        "score": 12,
+        "date": "2025-04-26T04:10:49",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.251,
+          "neutral": 0.382,
+          "positive": 0.367
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.429,
+          "fear": 0.011,
+          "joy": 0.072,
+          "neutral": 0.456,
+          "sadness": 0.008,
+          "surprise": 0.021
+        }
+      },
+      {
+        "user": "mambotomato",
+        "comment": "Pro tip: Instead of trying to acquire Cure Disease potions at great expense, just buy an herb with Cure Disease as its ingredient effect for 5gp each and then eat it to recover from your zombie bites etc.",
+        "score": 7,
+        "date": "2025-04-27T00:15:11",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.261,
+          "neutral": 0.637,
+          "positive": 0.102
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.022,
+          "disgust": 0.074,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.892,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "turkey_sandwiches",
+        "comment": "Wasn't this a thing in the original release?",
+        "score": 22,
+        "date": "2025-04-26T04:14:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.103,
+          "neutral": 0.863,
+          "positive": 0.035
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.008,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.588,
+          "sadness": 0.001,
+          "surprise": 0.389
+        }
+      },
+      {
+        "user": "Dark_Sign",
+        "comment": "I noticed this too! Was like, whoa my mans looks worn tf out",
+        "score": 4,
+        "date": "2025-04-26T03:55:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.636,
+          "neutral": 0.298,
+          "positive": 0.066
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.005,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.002,
+          "sadness": 0.001,
+          "surprise": 0.979
+        }
+      },
+      {
+        "user": "DampeIsLove",
+        "comment": "I will play this, after I finish Expedition 33.",
+        "score": 5,
+        "date": "2025-04-26T05:35:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.513,
+          "positive": 0.484
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.02,
+          "neutral": 0.971,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Dewshawnmandik",
+        "comment": "Tis but a flesh tone",
+        "score": 4,
+        "date": "2025-04-26T06:15:37",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.15,
+          "neutral": 0.759,
+          "positive": 0.091
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.008,
+          "fear": 0.0,
+          "joy": 0.01,
+          "neutral": 0.973,
+          "sadness": 0.004,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "HitlersaurusChrist11",
+        "comment": "I always stop playing the story right before he gets TB",
+        "score": 3,
+        "date": "2025-04-26T08:12:57",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.666,
+          "neutral": 0.318,
+          "positive": 0.017
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.014,
+          "fear": 0.024,
+          "joy": 0.001,
+          "neutral": 0.938,
+          "sadness": 0.005,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "TheFifthAngel13",
+        "comment": "It's the best remaster this week for sure",
+        "score": 5,
+        "date": "2025-04-26T10:20:28",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.011,
+          "positive": 0.988
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.528,
+          "neutral": 0.421,
+          "sadness": 0.004,
+          "surprise": 0.038
+        }
+      },
+      {
+        "user": "gottabadfeeling",
+        "comment": "Looks like Prince Caspian from the 2000's Narnia movies.",
+        "score": 4,
+        "date": "2025-04-26T14:28:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.057,
+          "neutral": 0.858,
+          "positive": 0.085
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.0,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.007,
+          "neutral": 0.971,
+          "sadness": 0.001,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "Early_Gold",
+        "comment": "Truly groundbreaking tech",
+        "score": 7,
+        "date": "2025-04-26T04:36:21",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.009,
+          "neutral": 0.229,
+          "positive": 0.762
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.026,
+          "joy": 0.347,
+          "neutral": 0.283,
+          "sadness": 0.002,
+          "surprise": 0.338
+        }
+      },
+      {
+        "user": "DerpyInsight",
+        "comment": "When u playing rdr2 in chapter 6",
+        "score": 6,
+        "date": "2025-04-26T04:21:29",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.03,
+          "neutral": 0.917,
+          "positive": 0.053
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.054,
+          "fear": 0.006,
+          "joy": 0.007,
+          "neutral": 0.896,
+          "sadness": 0.005,
+          "surprise": 0.015
+        }
+      },
+      {
+        "user": "GrayMech",
+        "comment": "The floor here is made out of floor",
+        "score": 3,
+        "date": "2025-04-26T05:56:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.252,
+          "neutral": 0.698,
+          "positive": 0.051
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.026,
+          "neutral": 0.96,
+          "sadness": 0.003,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "SirCatsanova",
+        "comment": "I'm guessing you don't have the sliders for this character? He looks so human compared to what I've seen lol",
+        "score": 3,
+        "date": "2025-04-26T06:02:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.109,
+          "neutral": 0.542,
+          "positive": 0.349
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.143,
+          "fear": 0.005,
+          "joy": 0.118,
+          "neutral": 0.628,
+          "sadness": 0.003,
+          "surprise": 0.1
+        }
+      },
+      {
+        "user": "magisterJohn",
+        "comment": "Lmao it took me a second to release you meant literally!. I thought you were saying it like \" bro your character looks sick dawg.",
+        "score": 3,
+        "date": "2025-04-26T06:09:36",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.828,
+          "neutral": 0.15,
+          "positive": 0.022
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.183,
+          "disgust": 0.49,
+          "fear": 0.013,
+          "joy": 0.041,
+          "neutral": 0.042,
+          "sadness": 0.012,
+          "surprise": 0.219
+        }
+      },
+      {
+        "user": "melanko",
+        "comment": "That’s sick",
+        "score": 3,
+        "date": "2025-04-26T06:16:49",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.736,
+          "neutral": 0.203,
+          "positive": 0.061
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.0,
+          "disgust": 0.965,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.012,
+          "sadness": 0.008,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Transbianseggs",
+        "comment": "Idk i always look like the right irl",
+        "score": 3,
+        "date": "2025-04-26T06:46:18",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.025,
+          "neutral": 0.418,
+          "positive": 0.557
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.007,
+          "neutral": 0.977,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "MIT_Engineer",
+        "comment": "Todd Howard, you've done it again.",
+        "score": 3,
+        "date": "2025-04-26T08:05:16",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.576,
+          "neutral": 0.373,
+          "positive": 0.051
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.012,
+          "fear": 0.004,
+          "joy": 0.017,
+          "neutral": 0.946,
+          "sadness": 0.006,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "MozCymru",
+        "comment": ">Your character looks sick when diseased\n\nWell yeah, I'd assume so.",
+        "score": 3,
+        "date": "2025-04-26T08:12:57",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.783,
+          "neutral": 0.198,
+          "positive": 0.019
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.926,
+          "fear": 0.006,
+          "joy": 0.002,
+          "neutral": 0.044,
+          "sadness": 0.007,
+          "surprise": 0.012
+        }
+      },
+      {
+        "user": "BerryCybo",
+        "comment": "Now someone please tell me how to cure a disease because I am getting used to looking sick 😅",
+        "score": 3,
+        "date": "2025-04-26T08:38:07",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.73,
+          "neutral": 0.229,
+          "positive": 0.042
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.162,
+          "disgust": 0.072,
+          "fear": 0.091,
+          "joy": 0.004,
+          "neutral": 0.653,
+          "sadness": 0.015,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "bigboss_snakee",
+        "comment": "i so pale",
+        "score": 3,
+        "date": "2025-04-26T08:39:06",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.691,
+          "neutral": 0.268,
+          "positive": 0.041
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.216,
+          "neutral": 0.664,
+          "sadness": 0.102,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "crustaceanman",
+        "comment": "I probably should call my doctor tomorrow",
+        "score": 3,
+        "date": "2025-04-26T08:39:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.45,
+          "neutral": 0.517,
+          "positive": 0.033
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.004,
+          "fear": 0.296,
+          "joy": 0.004,
+          "neutral": 0.633,
+          "sadness": 0.049,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Altruistic-Wafer-19",
+        "comment": "Clear case of Redditiasis.",
+        "score": 3,
+        "date": "2025-04-26T08:49:59",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.602,
+          "neutral": 0.379,
+          "positive": 0.019
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.007,
+          "fear": 0.005,
+          "joy": 0.002,
+          "neutral": 0.964,
+          "sadness": 0.013,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Calm_Opportunist",
+        "comment": "Wait I'm diseased? Is that why I look so gaunt and red around the eyes/nose now?",
+        "score": 3,
+        "date": "2025-04-26T08:54:19",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.916,
+          "neutral": 0.081,
+          "positive": 0.003
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.017,
+          "fear": 0.036,
+          "joy": 0.002,
+          "neutral": 0.26,
+          "sadness": 0.024,
+          "surprise": 0.659
+        }
+      },
+      {
+        "user": "Tokyogerman",
+        "comment": "Should have gone full Might and Magic with the face changes",
+        "score": 3,
+        "date": "2025-04-26T09:11:06",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.103,
+          "neutral": 0.823,
+          "positive": 0.074
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.005,
+          "fear": 0.004,
+          "joy": 0.008,
+          "neutral": 0.962,
+          "sadness": 0.015,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "FreedFromTyranny",
+        "comment": "This was in the old game lmao",
+        "score": 3,
+        "date": "2025-04-26T10:33:53",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.092,
+          "neutral": 0.76,
+          "positive": 0.149
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.001,
+          "neutral": 0.991,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "ewavey",
+        "comment": "Took me a while to read it as sick and not sick, I thought “I mean yea I guess he looks pretty cool”",
+        "score": 3,
+        "date": "2025-04-26T13:49:46",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.057,
+          "neutral": 0.249,
+          "positive": 0.693
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.039,
+          "fear": 0.012,
+          "joy": 0.061,
+          "neutral": 0.877,
+          "sadness": 0.004,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "CutestFae",
+        "comment": "The focus on details look sick, i have to say. ",
+        "score": 3,
+        "date": "2025-04-26T14:23:07",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.737,
+          "neutral": 0.235,
+          "positive": 0.027
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.722,
+          "fear": 0.017,
+          "joy": 0.004,
+          "neutral": 0.201,
+          "sadness": 0.035,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "ROWDY_RODDY_PEEEPER",
+        "comment": "I have the same complexion as dude on the right everyday",
+        "score": 3,
+        "date": "2025-04-26T20:51:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.135,
+          "neutral": 0.816,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.009,
+          "neutral": 0.978,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "dirtthegirt",
+        "comment": "wait. when you're sick...you look sick??!!? NO WAY!!!",
+        "score": 3,
+        "date": "2025-04-26T21:21:30",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.96,
+          "neutral": 0.036,
+          "positive": 0.003
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.049,
+          "disgust": 0.463,
+          "fear": 0.031,
+          "joy": 0.003,
+          "neutral": 0.002,
+          "sadness": 0.005,
+          "surprise": 0.447
+        }
+      },
+      {
+        "user": "Armored_Warrior",
+        "comment": "My eyes were bloodshot red got a disease from rats.",
+        "score": 3,
+        "date": "2025-04-26T21:22:49",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.961,
+          "neutral": 0.036,
+          "positive": 0.003
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.029,
+          "fear": 0.005,
+          "joy": 0.013,
+          "neutral": 0.918,
+          "sadness": 0.014,
+          "surprise": 0.019
+        }
+      },
+      {
+        "user": "Futant55",
+        "comment": "You named the game and put a name  disclaimer at the end. You are amazing",
+        "score": 5,
+        "date": "2025-04-26T04:08:28",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.014,
+          "neutral": 0.067,
+          "positive": 0.919
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.967,
+          "neutral": 0.007,
+          "sadness": 0.001,
+          "surprise": 0.023
+        }
+      },
+      {
+        "user": "Legrassian",
+        "comment": "Sick is on the right, right?",
+        "score": 12,
+        "date": "2025-04-26T03:47:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.433,
+          "neutral": 0.54,
+          "positive": 0.027
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.977,
+          "sadness": 0.002,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "angrymacface",
+        "comment": "I see the two images are different. But I can’t tell which is sick and which isn’t. I see a lighting difference but not much else",
+        "score": 10,
+        "date": "2025-04-26T03:54:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.438,
+          "neutral": 0.515,
+          "positive": 0.047
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.367,
+          "fear": 0.005,
+          "joy": 0.004,
+          "neutral": 0.583,
+          "sadness": 0.005,
+          "surprise": 0.034
+        }
+      },
+      {
+        "user": "BarPlastic1888",
+        "comment": "How do I cure my disease",
+        "score": 5,
+        "date": "2025-04-26T03:52:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.682,
+          "neutral": 0.298,
+          "positive": 0.02
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.004,
+          "fear": 0.107,
+          "joy": 0.004,
+          "neutral": 0.744,
+          "sadness": 0.121,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "RedHatRogue",
+        "comment": "I figured this out immediately as I walked into the water upon leaving the sewer. A slaughterfish literally hit me one fucking time and immediately gave me Greenspore, it's like I never left.",
+        "score": 2,
+        "date": "2025-04-26T04:02:28",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.83,
+          "neutral": 0.143,
+          "positive": 0.027
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.557,
+          "disgust": 0.296,
+          "fear": 0.03,
+          "joy": 0.039,
+          "neutral": 0.036,
+          "sadness": 0.032,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "uh_wtf",
+        "comment": "True.",
+        "score": 2,
+        "date": "2025-04-26T04:04:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.066,
+          "neutral": 0.543,
+          "positive": 0.391
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.98,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      }
+    ],
+    "resumen_zero_shot": "Resume este texto de forma concisa y clara: YourcharacterlookssickwhendiseasedinOblivion.Itsasmalldetail,butIlikeitwhenthingslikethisareadded.Reallyroundsoutagame,imo.AndIwasnotexpectingtoberelivingOblivioninoneofthegreatestremastersevermadethisweekbuthereweare.Bravo,Virtuos👏Game:OblivionRemastered.Withvampirismtoo.Iwishvampirismdidn’tmakeyourcharacterlooklikesomeonewhohasaflu,butit’salreadyahugeimprovementoverwhatvampirismlookedlikeintheoriginal.That'showIlooknormallyI'mprettysurethisisathingintheoriginaloblivionaswell.I'llneverknow.ArgoniansftwlolEdit:andIgetmyfirstawardfromthis,thankyou!Youlookratherpale.Itcouldbeataxia.Yeah,Imadeadeepbluedarkelf,andwhenhebecameavampire,heturnedaverypaleblue.Prettyneat.Ofcourse,IspentacouplehoursimmediatelyafterwardgoingthroughthevampirecurequestbecauseIforgottouseacurediseasepotion,andmyinfamywastoohightoprayatashrine.IfIrecalltheoriginaldidthataswell.WhenKahjiitgetsick,Kahjiitjustdrinkstaletemplewaterandprayforwarmsands,thenKahjiitallbetter.Somefaceslooksamazing,otherslooklikethatbugmaninMIB1,what'sthedealwiththat?wasntadded,thatexistedinthe2006versionThat'sareallyneatdetail.I'mcurioustoseehowvampireslooknow,theylookedprettyuglyinogoblivionlol.I'dexpectsomeonewithdiseasetolooksickHolyshitI'msoexcitedtpbuythistomorrowsotheylooksickwhentheyaresick?>YourcharacterlookssickwhendiseasedinOblivionYes,that'showlookingsickworks./jJokesasidethat'sanawesomedetail.Protip:InsteadoftryingtoacquireCureDiseasepotionsatgreatexpense,justbuyanherbwithCureDiseaseasitsingredienteffectfor5gpeachandtheneatittorecoverfromyourzombiebitesetc.Wasn'tthisathingintheoriginalrelease?Inoticedthistoo!Waslike,whoamymanslooksworntfoutIwillplaythis,afterIfinishExpedition33.TisbutafleshtoneIalwaysstopplayingthestoryrightbeforehegetsTBIt'sthebestremasterthisweekforsureLookslikePrinceCaspianfromthe2000'sNarniamovies.TrulygroundbreakingtechWhenuplayingrdr2inchapter6ThefloorhereismadeoutoffloorI'mguessingyoudon'thavetheslidersforthischaracter?HelookssohumancomparedtowhatI'veseenlolLmaoittookmeasecondtoreleaseyoumeantliterally!.Ithoughtyouweresayingitlike\"broyourcharacterlookssickdawg.That’ssickIdkialwayslookliketherightirlToddHoward,you'vedoneitagain.>YourcharacterlookssickwhendiseasedWellyeah,I'dassumeso.NowsomeonepleasetellmehowtocureadiseasebecauseIamgettingusedtolookingsick😅isopaleIprobablyshouldcallmydoctortomorrowClearcaseofRedditiasis.WaitI'mdiseased?IsthatwhyIlooksogauntandredaroundtheeyes/nosenow?ShouldhavegonefullMightandMagicwiththefacechangesThiswasintheoldgamelmaoTookmeawhiletoreaditassickandnotsick,Ithought“ImeanyeaIguesshelooksprettycool”Thefocusondetailslooksick,ihavetosay.Ihavethesamecomplexionasdudeontherighteverydaywait.whenyou'resick...youlooksick??!!?NOWAY!!!Myeyeswerebloodshotredgotadiseasefromrats.Younamedthegameandputanamedisclaimerattheend.YouareamazingSickisontheright,right?Iseethetwoimagesaredifferent.ButIcan’ttellwhichissickandwhichisn’t.IseealightingdifferencebutnotmuchelseHowdoIcuremydiseaseIfiguredthisoutimmediatelyasIwalkedintothewateruponleavingthesewer.AslaughterfishliterallyhitmeonefuckingtimeandimmediatelygavemeGreenspore,it'slikeIneverleft.True.I'mnotsureifI'mdiseasedornot.I'mnotdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'mdiseased.I'm"
+  },
+  {
+    "flair": null,
+    "title": "Oblivion feels more like a Remake than a Remaster",
+    "author": "Strange_Music",
+    "date": "2025-04-24T15:54:03",
+    "score": 15044,
+    "description": "This game looks & feels absolutely gorgeous. They knocked it out of the park. Really feels like more of a remake than a remaster. Like Bluepoints Shadow of the Colossus Remake. \n\nKudos to Bethesda for underselling a banger of a shadow drop. This bought them several more years for Elder Scrolls 6 from me. \n\nHopefully they'll do the same with the Fallout 3 \"Remaster\".\n",
+    "comments": [
+      {
+        "user": "dancrum",
+        "comment": "I would say the game *looks* like a remake, but it still *feels* like OG Oblivion, with sprint.",
+        "score": 10778,
+        "date": "2025-04-24T15:59:08",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.057,
+          "neutral": 0.543,
+          "positive": 0.4
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.007,
+          "fear": 0.001,
+          "joy": 0.012,
+          "neutral": 0.968,
+          "sadness": 0.009,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Scared-Room-9962",
+        "comment": "Isn't it the OG Oblivion underneath some UE5 graphics?",
+        "score": 1659,
+        "date": "2025-04-24T16:13:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.045,
+          "neutral": 0.91,
+          "positive": 0.045
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.0,
+          "joy": 0.079,
+          "neutral": 0.902,
+          "sadness": 0.002,
+          "surprise": 0.013
+        }
+      },
+      {
+        "user": "lukijs",
+        "comment": "Peopleare confused because of visual flare, but forget that skeleton is same as oblivion with some changes for combat, leveling etc. It did basically ehat demons souls did, take skeleton of ps3 version and put prettier visuals on them",
+        "score": 315,
+        "date": "2025-04-24T16:55:47",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.302,
+          "neutral": 0.593,
+          "positive": 0.105
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.006,
+          "fear": 0.0,
+          "joy": 0.002,
+          "neutral": 0.98,
+          "sadness": 0.004,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "TomReneth",
+        "comment": "I don't agree. The mechanical changes are not really substantial enough to be a full remake.\n\nNothing wrong with a Remaster though. Oblivion was always charmingly janky.",
+        "score": 1488,
+        "date": "2025-04-24T16:08:13",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.517,
+          "neutral": 0.408,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.026,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.938,
+          "sadness": 0.025,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Thopterthallid",
+        "comment": "You get a bloodborne dodge at 25 acrobatics.",
+        "score": 119,
+        "date": "2025-04-24T16:14:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.07,
+          "neutral": 0.863,
+          "positive": 0.067
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.0,
+          "joy": 0.067,
+          "neutral": 0.888,
+          "sadness": 0.001,
+          "surprise": 0.035
+        }
+      },
+      {
+        "user": "Clint1027",
+        "comment": "This is def a test to see if they want to put the money into a Skyrim remaster.",
+        "score": 175,
+        "date": "2025-04-24T16:25:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.076,
+          "neutral": 0.894,
+          "positive": 0.03
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.984,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "KingofGrapes7",
+        "comment": "If I could make the slightest bit of noise, they maybe could have spent a little more time under the hood. The AI is still ass and if reports are right might actually be even rougher since there is more loading going on. It's nothing gamebreaking so far and I am well used to Oblivion NPCs, but I wouldn't mind a patch or two that smooths it out.",
+        "score": 171,
+        "date": "2025-04-24T16:09:11",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.453,
+          "neutral": 0.414,
+          "positive": 0.133
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.988,
+          "sadness": 0.003,
+          "surprise": 0.0
+        }
+      },
+      {
+        "user": "Funkahontas",
+        "comment": "It feels like that because the graphics engine is completely new, and so the models and animations all had to be recreated. Not from scratch but they had to be redone. It's basically an almost complete remake while keeping the old engine.",
+        "score": 218,
+        "date": "2025-04-24T15:57:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.086,
+          "neutral": 0.62,
+          "positive": 0.295
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.007,
+          "fear": 0.0,
+          "joy": 0.029,
+          "neutral": 0.948,
+          "sadness": 0.009,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "[deleted]",
+        "score": 25,
+        "date": "2025-04-24T18:32:41",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.652,
+          "positive": 0.072
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Connor123x",
+        "comment": "should post that in the thread where they are saying the colour pallet is lifeless",
+        "score": 49,
+        "date": "2025-04-24T16:12:24",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.58,
+          "neutral": 0.403,
+          "positive": 0.017
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.048,
+          "disgust": 0.118,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.781,
+          "sadness": 0.029,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "def_tom",
+        "comment": "I haven't played it yet, but from what I gather it kind of blurs the lines a bit.",
+        "score": 48,
+        "date": "2025-04-24T16:02:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.334,
+          "neutral": 0.63,
+          "positive": 0.037
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.983,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "vashy96",
+        "comment": "One of our italian community defined it \"Remastered+\", which is much more than a Remasered (like TLOU2) but a bit less than a Remake (like RE2)",
+        "score": 61,
+        "date": "2025-04-24T16:25:49",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.036,
+          "neutral": 0.604,
+          "positive": 0.36
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.003,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "sleepinxonxbed",
+        "comment": "FF7 Remake (2020) is a “remake”.\n\nDead Space (2023) is a “remake”.\n\nPersona 3 Reload (2024) is a “remake”.\n\nThose games were completely “remade” from the ground up.\n\nOblivion Remastered is not “remade” from the ground up. It took the original game that ran on the Gamebryo engine, made some great quality of life tweaks, and used Unreal Engine 5 for the graphics. It did not remake the game.\n\nRemaster and Remake is not synonymous, it colossally undermines the effort it takes to make an entirely new game.",
+        "score": 84,
+        "date": "2025-04-24T16:21:46",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.254,
+          "neutral": 0.543,
+          "positive": 0.203
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.008,
+          "fear": 0.0,
+          "joy": 0.001,
+          "neutral": 0.978,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "One_Lung_G",
+        "comment": "It’s pretty much gold standard for what a remaster should be. I remember getting hyper for the Kingdoms of Amular remaster and it was just the same game but ported over",
+        "score": 21,
+        "date": "2025-04-24T23:00:45",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.015,
+          "neutral": 0.339,
+          "positive": 0.646
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.988,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Crimzennnn",
+        "comment": "It feels exactly like old oblivion bro.",
+        "score": 22,
+        "date": "2025-04-24T17:13:11",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.715,
+          "neutral": 0.259,
+          "positive": 0.026
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.029,
+          "fear": 0.003,
+          "joy": 0.016,
+          "neutral": 0.658,
+          "sadness": 0.292,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "cheif702",
+        "comment": "Well, Bethesda themselves call it a remaster. \n\nDo we really need to have such a semantic argument?\n\nA remake is, from the ground up, a complete do over of the game. \n\nA remaster updates visually quality and stability, and nothing more. \n\nAll we got as a true *addition* is sprinting. \n\nIt's a god damn remaster, everyone.",
+        "score": 20,
+        "date": "2025-04-24T19:56:05",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.588,
+          "neutral": 0.327,
+          "positive": 0.084
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.296,
+          "disgust": 0.425,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.25,
+          "sadness": 0.017,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "AshCrow97",
+        "comment": "If demon souls on ps5 can be considered a remake then this game is also a remake to me",
+        "score": 4,
+        "date": "2025-04-24T23:53:06",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.105,
+          "neutral": 0.799,
+          "positive": 0.096
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.984,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "DagonParty",
+        "comment": "Yeah it’s a little bit of both, it’s a remaster in the truest possible sense really, it’s Oblivion 2006, but looking like it was made in 2025, but it takes a few artistic liberties, like a remake would, I’m loving it!\n\nSkyblivion is exciting because that is a straight up remake, everything is reimagined, concept art is used, artistic librarties across the board, dungeons revamped to be more interesting, cities revamped to feel more like cities, unique models for unique items, redesigned armor and weapons etc etc, it’s all very cool stuff\n\nThen we’ve got Tamriel Rebuilt (24 years or so in the making) coming out soon for Morrowind fans\n\nTES fans are *eating*",
+        "score": 4,
+        "date": "2025-04-25T05:16:20",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.015,
+          "positive": 0.983
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.952,
+          "neutral": 0.039,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "Syriem",
+        "comment": "I agree... then you see the npcs and it's back to the past, and I wouldn't want it any other way.",
+        "score": 4,
+        "date": "2025-04-25T06:47:22",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.251,
+          "neutral": 0.579,
+          "positive": 0.17
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.016,
+          "disgust": 0.023,
+          "fear": 0.002,
+          "joy": 0.004,
+          "neutral": 0.911,
+          "sadness": 0.043,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "TransylvanianHunger1",
+        "comment": "Because the visuals are done on unreal 5 while the original engine is being used for the gameplay.",
+        "score": 8,
+        "date": "2025-04-25T00:09:49",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.049,
+          "neutral": 0.841,
+          "positive": 0.11
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.005,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.979,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Mutt97",
+        "comment": "No it doesn’t lol. It’s a remaster with unreal 5 slapped onto it.",
+        "score": 18,
+        "date": "2025-04-24T16:16:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.137,
+          "neutral": 0.693,
+          "positive": 0.171
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.969,
+          "sadness": 0.01,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "jimschocolateorange",
+        "comment": "It’s confusing, both Shadow of the Colossus and Demon’s Souls were called Remakes and it was the exact same. Oblivion even changes certain elements.",
+        "score": 3,
+        "date": "2025-04-24T19:02:48",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.528,
+          "neutral": 0.414,
+          "positive": 0.057
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.011,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.962,
+          "sadness": 0.013,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Logondo",
+        "comment": "I mean...it feels like Oblivion. But yeah, it looks great.",
+        "score": 3,
+        "date": "2025-04-24T22:33:15",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.027,
+          "positive": 0.968
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.003,
+          "fear": 0.002,
+          "joy": 0.693,
+          "neutral": 0.281,
+          "sadness": 0.018,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "scrittyrow",
+        "comment": "I mean they said they recreated every object from scratch. Wouldnt that make it a remake if a remaster is just upscaled graphics?",
+        "score": 3,
+        "date": "2025-04-25T08:42:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.14,
+          "neutral": 0.782,
+          "positive": 0.078
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.036,
+          "fear": 0.001,
+          "joy": 0.007,
+          "neutral": 0.921,
+          "sadness": 0.012,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "DeadlyDY",
+        "comment": "It's a great marketing decision to name it 'Remastered'. Anyone who takes a single look at it would know it's a lot more than a simple remaster and anyone who wants to complain about some inconsequential flaws can't as it's 'just a remaster'.",
+        "score": 3,
+        "date": "2025-04-25T09:19:57",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.068,
+          "neutral": 0.242,
+          "positive": 0.69
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.016,
+          "fear": 0.001,
+          "joy": 0.167,
+          "neutral": 0.796,
+          "sadness": 0.002,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "reachisown",
+        "comment": "Except it does the tick all the boxes of a remaster not a remake. So it's a remaster.",
+        "score": 3,
+        "date": "2025-04-25T11:16:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.149,
+          "neutral": 0.729,
+          "positive": 0.122
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.002,
+          "neutral": 0.987,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Strange-East-543",
+        "comment": "I'm enjoying it, but it did take me out not seeing the second moon in the sky, which is what makes Tedas feel more alien to earth.",
+        "score": 3,
+        "date": "2025-04-25T11:35:03",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.435,
+          "neutral": 0.407,
+          "positive": 0.158
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.104,
+          "fear": 0.013,
+          "joy": 0.079,
+          "neutral": 0.542,
+          "sadness": 0.257,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "PelekyphoroiBarbaroi",
+        "comment": "Ironic that Oblivion has a better starfield than the game named as such.",
+        "score": 3,
+        "date": "2025-04-25T12:14:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.109,
+          "neutral": 0.449,
+          "positive": 0.442
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.979,
+          "sadness": 0.009,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "anengineerandacat",
+        "comment": "It's akin to Diablo 2 Resurrected in my mind, it's still the same underlying game with a few QoL improvements.\n\nPersonally... would be lying if I said I didn't want \"more\" from it, but I think they did an overall excellent job; it's extremely faithful to the original game; some key glitches patched (for better or for worse) and the leveling improvements are very nice.\n\nI would have liked to see some more work put into housing, luck re-worked a bit, and addressing uniques to be like level-scaled vs leveled on pickup / acquisition (or some item added to re-level the item) so players don't feel forced to wait to acquire said items until they are at X level.\n\nI think also because they touched the birthsigns and tweaked attributes that some stones should have also been added for console players so that players can adjust their birthsign perhaps at the cost of X sigil stones or something; re-creating a character can be a pretty feelsbad moment and console players have no real solution to fix this otherwise.\n\nQuite a few visual bugs as well, performance issues during dusk and dawn as the lighting system I presume gets a lot of updates as well.\n\nOverall though, it's well done.",
+        "score": 3,
+        "date": "2025-04-25T13:31:34",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.09,
+          "neutral": 0.306,
+          "positive": 0.604
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.005,
+          "fear": 0.001,
+          "joy": 0.158,
+          "neutral": 0.821,
+          "sadness": 0.012,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Showerbag",
+        "comment": "I want to see if Mehrunes Dagon melts into a puddle and breaks the game if you try to attack his final form in the end while equipped with 100% or more damage reflection.\n\nI loved breaking this game.",
+        "score": 3,
+        "date": "2025-04-25T14:26:14",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.498,
+          "neutral": 0.367,
+          "positive": 0.135
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.118,
+          "disgust": 0.33,
+          "fear": 0.004,
+          "joy": 0.006,
+          "neutral": 0.524,
+          "sadness": 0.016,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "MyLifeIsRandom",
+        "comment": "No lol",
+        "score": 22,
+        "date": "2025-04-24T16:08:55",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.191,
+          "neutral": 0.555,
+          "positive": 0.254
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.148,
+          "disgust": 0.149,
+          "fear": 0.004,
+          "joy": 0.01,
+          "neutral": 0.654,
+          "sadness": 0.031,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "shadowmage666",
+        "comment": "A 20 year old game w new graphics is better than most new games in 2025. Just shows you how good Bethesda used to be.",
+        "score": 10,
+        "date": "2025-04-25T00:03:57",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.022,
+          "neutral": 0.141,
+          "positive": 0.837
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.015,
+          "fear": 0.001,
+          "joy": 0.092,
+          "neutral": 0.855,
+          "sadness": 0.027,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "ahack13",
+        "comment": "Its kinda  halfway point. Because its all new assets and there are some gameplay changes. But for the most part the gameplay is exactly the same and most of the voicelines are the original.",
+        "score": 3,
+        "date": "2025-04-24T16:38:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.034,
+          "neutral": 0.592,
+          "positive": 0.374
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.007,
+          "neutral": 0.974,
+          "sadness": 0.013,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Cloud_N0ne",
+        "comment": "Only because they overhauled the visuals entirely in a new engine.\n\nEverything below the surface is still the original game code, handled by the original Gambryo engine.",
+        "score": 7,
+        "date": "2025-04-24T16:12:54",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.065,
+          "neutral": 0.728,
+          "positive": 0.207
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.007,
+          "fear": 0.0,
+          "joy": 0.009,
+          "neutral": 0.977,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "granitegumball",
+        "comment": "That’s because our standard for remasters is so low",
+        "score": 8,
+        "date": "2025-04-24T16:07:16",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.661,
+          "neutral": 0.296,
+          "positive": 0.043
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.012,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.97,
+          "sadness": 0.005,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "Atrium41",
+        "comment": "Hot take, there OP\n\n\nIt's not a remake or a remaster.\n\n\nIt's a remasterpiece",
+        "score": 9,
+        "date": "2025-04-24T16:25:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.198,
+          "neutral": 0.677,
+          "positive": 0.125
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.987,
+          "sadness": 0.004,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "momzthebest",
+        "comment": "I'd love if fallout 3 remake had destructible environments to a degree. I don't know if they'll go that far though",
+        "score": 2,
+        "date": "2025-04-24T16:26:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.096,
+          "neutral": 0.455,
+          "positive": 0.449
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.028,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.948,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Zi0nized",
+        "comment": "The update to the level system alone makes it a big win for me. On the OG it was so painful to have to keep track of the skills you leveled up.",
+        "score": 2,
+        "date": "2025-04-24T16:35:49",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.095,
+          "neutral": 0.264,
+          "positive": 0.642
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.005,
+          "fear": 0.002,
+          "joy": 0.68,
+          "neutral": 0.214,
+          "sadness": 0.09,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "nelflyn",
+        "comment": "I'm quite sure they call it Remaster to \"undersell\" it. It fits the marketing of the game as well, though I also see why calling it remake would be a bit much. It's really an in between kinda thing. Though if it was led by a hype campaign, you can absolutely believe they would have called it remade.",
+        "score": 2,
+        "date": "2025-04-24T17:21:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.175,
+          "neutral": 0.57,
+          "positive": 0.255
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.008,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "SaeedDitman",
+        "comment": "Is it really worth buying again? I can't trust the Bethesda glazers",
+        "score": 2,
+        "date": "2025-04-24T17:24:14",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.903,
+          "neutral": 0.092,
+          "positive": 0.004
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.128,
+          "disgust": 0.16,
+          "fear": 0.145,
+          "joy": 0.002,
+          "neutral": 0.084,
+          "sadness": 0.391,
+          "surprise": 0.091
+        }
+      },
+      {
+        "user": "Clbull",
+        "comment": "From what I've played they have virtually improved on everything I hated about Oblivion. It is genuinely a gorgeous game whereas 2005 Oblivion already looked dated and washed out.",
+        "score": 2,
+        "date": "2025-04-24T17:41:38",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.173,
+          "neutral": 0.31,
+          "positive": 0.517
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.014,
+          "fear": 0.001,
+          "joy": 0.371,
+          "neutral": 0.565,
+          "sadness": 0.041,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Alex6534",
+        "comment": "Man, I sold my consoles a while ago w/out a gaming PC and this is probably the only release that has me SERIOUSLY wanting to build my gaming PC that I promised I would hold off on until end of year.",
+        "score": 2,
+        "date": "2025-04-24T17:43:51",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.038,
+          "neutral": 0.352,
+          "positive": 0.61
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.033,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.184,
+          "neutral": 0.73,
+          "sadness": 0.044,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "GnarChronicles",
+        "comment": "It seems they remade the graphic but remastered the rest...I bet they looked at what sold more..remake or remaster and chose based off that lol",
+        "score": 2,
+        "date": "2025-04-24T17:57:39",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.114,
+          "neutral": 0.761,
+          "positive": 0.124
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.011,
+          "fear": 0.004,
+          "joy": 0.128,
+          "neutral": 0.794,
+          "sadness": 0.042,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "DiscountThug",
+        "comment": "Its similar to Demon's Souls remake. Visual Remake, gameplay wise it's the same game running on original engine in the back with couple of small QoL changes.",
+        "score": 2,
+        "date": "2025-04-24T18:15:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.036,
+          "neutral": 0.847,
+          "positive": 0.117
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.009,
+          "neutral": 0.974,
+          "sadness": 0.007,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "helloiamjack",
+        "comment": "I think visually the interiors are fantastic, in the models and in the lighting. The exterior world to me though looks very flat a lot of the time, but I haven’t seen anybody else mention it. Does anybody agree? I’m really enjoying it overall so far though!",
+        "score": 2,
+        "date": "2025-04-24T19:20:38",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.014,
+          "positive": 0.982
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.98,
+          "neutral": 0.015,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Cheese_Lord2187",
+        "comment": "Cant wait to dig my teeth into this soon. Desperately hoping they eventually do morrowind but i doubt it",
+        "score": 2,
+        "date": "2025-04-24T19:54:14",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.409,
+          "neutral": 0.327,
+          "positive": 0.264
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.039,
+          "fear": 0.003,
+          "joy": 0.025,
+          "neutral": 0.913,
+          "sadness": 0.006,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "UnholyCharles",
+        "comment": "Are there actually two moons? I have yet to see the second.",
+        "score": 2,
+        "date": "2025-04-24T20:46:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.173,
+          "neutral": 0.79,
+          "positive": 0.037
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.761,
+          "sadness": 0.003,
+          "surprise": 0.227
+        }
+      },
+      {
+        "user": "beardednomad25",
+        "comment": "There are parts of the game that feel brand new and some that feel limited by 2006 game design.",
+        "score": 2,
+        "date": "2025-04-24T20:48:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.105,
+          "neutral": 0.772,
+          "positive": 0.123
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.027,
+          "fear": 0.001,
+          "joy": 0.022,
+          "neutral": 0.799,
+          "sadness": 0.144,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "ShockedNChagrinned",
+        "comment": "It's terrific.  Looks better than Skyrim.  I do think I like the Skyrim leveling system more, but whatever.  ",
+        "score": 2,
+        "date": "2025-04-24T20:49:25",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.014,
+          "neutral": 0.062,
+          "positive": 0.925
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.002,
+          "joy": 0.891,
+          "neutral": 0.099,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "CouchPoturtle",
+        "comment": "It’s absolutely incredible. The only downside is that all I can think about is how much I need this for Fallout 3.",
+        "score": 2,
+        "date": "2025-04-24T22:04:52",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.124,
+          "neutral": 0.226,
+          "positive": 0.65
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.947,
+          "neutral": 0.005,
+          "sadness": 0.001,
+          "surprise": 0.044
+        }
+      }
+    ],
+    "resumen_zero_shot": "Resume este texto de forma concisa y clara: OblivionfeelsmorelikeaRemakethanaRemaster.Thisgamelooks&feelsabsolutelygorgeous.Theyknockeditoutofthepark.Reallyfeelslikemoreofaremakethanaremaster.LikeBluepointsShadowoftheColossusRemake.KudostoBethesdaforundersellingabangerofashadowdrop.ThisboughtthemseveralmoreyearsforElderScrolls6fromme.Hopefullythey'lldothesamewiththeFallout3\"Remaster\"..Iwouldsaythegame*looks*likearemake,butitstill*feels*likeOGOblivion,withsprint.Isn'tittheOGOblivionunderneathsomeUE5graphics?Peopleareconfusedbecauseofvisualflare,butforgetthatskeletonissameasoblivionwithsomechangesforcombat,levelingetc.Itdidbasicallyehatdemonssoulsdid,takeskeletonofps3versionandputprettiervisualsonthemIdon'tagree.Themechanicalchangesarenotreallysubstantialenoughtobeafullremake.NothingwrongwithaRemasterthough.Oblivionwasalwayscharminglyjanky.Yougetabloodbornedodgeat25acrobatics.ThisisdefatesttoseeiftheywanttoputthemoneyintoaSkyrimremaster.IfIcouldmaketheslightestbitofnoise,theymaybecouldhavespentalittlemoretimeunderthehood.TheAIisstillassandifreportsarerightmightactuallybeevenroughersincethereismoreloadinggoingon.It'snothinggamebreakingsofarandIamwellusedtoOblivionNPCs,butIwouldn'tmindapatchortwothatsmoothsitout.Itfeelslikethatbecausethegraphicsengineiscompletelynew,andsothemodelsandanimationsallhadtoberecreated.Notfromscratchbuttheyhadtoberedone.It'sbasicallyanalmostcompleteremakewhilekeepingtheoldengine.[deleted]shouldpostthatinthethreadwheretheyaresayingthecolourpalletislifelessIhaven'tplayedityet,butfromwhatIgatheritkindofblursthelinesabit.Oneofouritaliancommunitydefinedit\"Remastered+\",whichismuchmorethanaRemasered(likeTLOU2)butabitlessthanaRemake(likeRE2)FF7Remake(2020)isa“remake”.DeadSpace(2023)isa“remake”.Persona3Reload(2024)isa“remake”.Thosegameswerecompletely“remade”fromthegroundup.OblivionRemasteredisnot“remade”fromthegroundup.IttooktheoriginalgamethatranontheGamebryoengine,madesomegreatqualityoflifetweaks,andusedUnrealEngine5forthegraphics.Itdidnotremakethegame.RemasterandRemakeisnotsynonymous,itcolossallyunderminestheeffortittakestomakeanentirelynewgame.It’sprettymuchgoldstandardforwhataremastershouldbe.IremembergettinghyperfortheKingdomsofAmularremasteranditwasjustthesamegamebutportedoverItfeelsexactlylikeoldoblivionbro.Well,Bethesdathemselvescallitaremaster.Dowereallyneedtohavesuchasemanticargument?Aremakeis,fromthegroundup,acompletedooverofthegame.Aremasterupdatesvisuallyqualityandstability,andnothingmore.Allwegotasatrue*addition*issprinting.It'sagoddamnremaster,everyone.Ifdemonsoulsonps5canbeconsideredaremakethenthisgameisalsoaremaketomeYeahit’salittlebitofboth,it’saremasterinthetruestpossiblesensereally,it’sOblivion2006,butlookinglikeitwasmadein2025,butittakesafewartisticliberties,likearemakewould,I’mlovingit!Skyblivionisexcitingbecausethatisastraightupremake,everythingisreimagined,conceptartisused,artisticlibrartiesacrosstheboard,dungeonsrevampedtobemoreinteresting,citiesrevampedtofeelmorelikecities,uniquemodelsforuniqueitems,redesignedarmorandweaponsetcetc,it’sallverycoolstuffThenwe’vegotTamrielRebuilt(24yearsorsointhemaking)comingoutsoonforMorrowindfansTESfansare*eating*Iagree...thenyouseethenpcsandit'sbacktothepast,andIwouldn'twantitanyotherway.Becausethevisualsaredoneonunreal5whiletheoriginalengineisbeingusedforthegameplay.Noitdoesn’tlol.It’saremasterwithunreal5slappedontoit.It’sconfusing,bothShadowoftheColossusandDemon’sSoulswerecalledRemakesanditwastheexactsame.Oblivionevenchangescertainelements.Imean...itfeelslikeOblivion.Butyeah,itlooksgreat.Imeantheysaidtheyrecreatedeveryobjectfromscratch.Wouldntthatmakeitaremakeifaremasterisjustupscaledgraphics?It'sagreatmarketingdecisiontonameit'Remastered'.Anyonewhotakesasinglelookatitwouldknowit'salotmorethanasimpleremasterandanyonewhowantstocomplainaboutsomeinconsequentialflawscan'tasit's'justaremaster'.Exceptitdoesthetickalltheboxesofaremasternotaremake.Soit'saremaster.I'menjoyingit,butitdidtakemeoutnotseeingthesecondmooninthesky,whichiswhatmakesTedasfeelmorealientoearth.IronicthatOblivionhasabetterstarfieldthanthegamenamedassuch.It'sakintoDiablo2Resurrectedinmymind,it'sstillthesameunderlyinggamewithafewQoLimprovements.Personally...wouldbelyingifIsaidIdidn'twant\"more\"fromit,butIthinktheydidanoverallexcellentjob;it'sextremelyfaithfultotheoriginalgame;somekeyglitchespatched(forbetterorforworse)andthelevelingimprovementsareverynice.Iwouldhavelikedtoseesomemoreworkputintohousing,luckre-workedabit,andaddressinguniquestobelikelevel-scaledvsleveledonpickup/acquisition(orsomeitemaddedtore-leveltheitem)soplayersdon'tfeelforcedtowaittoacquiresaiditemsuntiltheyareatXlevel.IthinkalsobecausetheytouchedthebirthsignsandtweakedattributesthatsomestonesshouldhavealsobeenaddedforconsoleplayerssothatplayerscanadjusttheirbirthsignperhapsatthecostofXsigilstonesorsomething;re-creatingacharactercanbeaprettyfeelsbadmomentandconsoleplayershavenorealsolutiontofixthisotherwise.Quiteafewvisualbugsaswell,performanceissuesduringduskanddawnasthelightingsystemIpresumegetsalotofupdatesaswell.Overallthough,it'swelldone.IwanttoseeifMehrunesDagonmeltsintoapuddleandbreaksthegameifyoutrytoattackhisfinalformintheendwhileequippedwith100%ormoredamagereflection.Ilovedbreakingthisgame.NololA20yearoldgamewnewgraphicsisbetterthanmostnewgamesin2025.JustshowsyouhowgoodBethesdausedtobe.Itskindahalfwaypoint.Becauseitsallnewassetsandtherearesomegameplaychanges.Butforthemostpartthegameplayisexactlythesameandmostofthevoicelinesaretheoriginal.Onlybecausetheyoverhauledthevisualsentirelyinanewengine.Everythingbelowthesurfaceisstilltheoriginalgamecode,handledbytheoriginalGambryoengine.That’sbecauseourstandardforremastersissolowHottake,thereOPIt'snotaremakeoraremaster.It'saremasterpieceI'dloveiffallout3remakehaddestructibleenvironmentstoadegree.Idon'tknowifthey'llgothatfarthoughTheupdatetothelevelsystemalonemakesitabigwinforme.OntheOGitwassopainfultohavetokeeptrackoftheskillsyouleveledup.I'mquitesuretheycallitRemasterto\"undersell\"it.Itfitsthemarketingofthegameaswell,thoughIalsoseewhycallingitremakewouldbeabitmuch.It'sreallyaninbetweenkindathing.Thoughifitwasledbyahypecampaign,youcanabsolutelybelievetheywouldhavecalleditremade.Isitreallyworthbuyingagain?Ican'ttrusttheBethesdaglazersFromwhatI'veplayedtheyhavevirtuallyimprovedoneverythingIhatedaboutOblivion.Itisgenuinelyagorgeousgamewhereas2005Oblivionalreadylookeddatedandwashedout.Man,Isoldmyconsolesawhileagow/outagamingPCandthisisprobablytheonlyreleasethathasmeSERIOUSLYwantingtobuildmygamingPCthatIpromisedIwouldholdoffonuntilendofyear.Itseemstheyremadethegraphicbutremasteredtherest...Ibettheylookedatwhatsoldmore..remakeorremasterandchosebasedoffthatlolItssimilartoDemon'sSoulsremake.VisualRemake,gameplaywiseit'sthesamegamerunningonoriginalengineinthebackwithcoupleofsmallQoLchanges.Ithinkvisuallytheinteriorsarefantastic,inthemodelsandinthelighting.Theexteriorworldtomethoughlooksveryflatalotofthetime,butIhaven’tseenanybodyelsementionit.Doesanybodyagree?I’mreallyenjoyingitoverallsofarthough!Cantwaittodigmyteethintothissoon.DesperatelyhopingtheyeventuallydomorrowindbutidoubtitArethereactuallytwomoons?Ihaveyettoseethesecond.Therearepartsofthegamethatfeelbrandnewandsomethatfeellimitedby2006gamedesign.It'sterrific.LooksbetterthanSkyrim.IdothinkIliketheSkyrimlevelingsystemmore,butwhatever.It’sabsolutelyincredible.TheonlydownsideisthatallIcanthinkaboutishowmuchIneedthisforFallout3.Ithinkit'sgoingtobeverygood,butI'mnotgoingtobehappyiftheydon'tmakeFallout3aRemaster.I'mgoingtobeveryhappyiftheymakeFallout3aRemaster.I'mgoingtobeveryhappyiftheymakeFallout3aRemaster.I'mgoingtobeveryhappyiftheymakeFallout3aRemaster.I"
+  },
+  {
+    "flair": null,
+    "title": "8bitdo stopping shipments of controllers to the US thanks to tariffs",
+    "author": "Iggy_Slayer",
+    "date": "2025-04-30T04:17:34",
+    "score": 9188,
+    "description": "If you were planning on getting one for any reason you better buy one now while supply is still here.",
+    "comments": [
+      {
+        "user": "CaptainCobraBubbles",
+        "comment": "First they came for my controllers, because I was not a controller... wait fuck.",
+        "score": 3181,
+        "date": "2025-04-30T04:26:29",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.869,
+          "neutral": 0.119,
+          "positive": 0.012
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.042,
+          "disgust": 0.072,
+          "fear": 0.008,
+          "joy": 0.002,
+          "neutral": 0.848,
+          "sadness": 0.003,
+          "surprise": 0.025
+        }
+      },
+      {
+        "user": "KnowThatILoveU",
+        "comment": "Wow, just bought one a month ago. Hope you all can grab one too!",
+        "score": 751,
+        "date": "2025-04-30T04:21:40",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.036,
+          "positive": 0.963
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.288,
+          "neutral": 0.009,
+          "sadness": 0.001,
+          "surprise": 0.692
+        }
+      },
+      {
+        "user": "Sonsofthesuns",
+        "comment": "I talk for a living with engineers, fabricators, and manufacturers here in the USA. They are starting to feel it, it’s going to get worse. There’s literally no plan in place for this stuff to transition over. A lot of small business are going to die off and only big business is getting exempted",
+        "score": 698,
+        "date": "2025-04-30T04:47:29",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.886,
+          "neutral": 0.102,
+          "positive": 0.012
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.149,
+          "fear": 0.011,
+          "joy": 0.002,
+          "neutral": 0.237,
+          "sadness": 0.59,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "PhoenixTineldyer",
+        "comment": "That's upsetting. I really like 8bitdo.",
+        "score": 195,
+        "date": "2025-04-30T04:30:20",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.539,
+          "neutral": 0.354,
+          "positive": 0.106
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.026,
+          "fear": 0.03,
+          "joy": 0.018,
+          "neutral": 0.344,
+          "sadness": 0.528,
+          "surprise": 0.053
+        }
+      },
+      {
+        "user": "Anything84",
+        "comment": "Are we great yet?",
+        "score": 435,
+        "date": "2025-04-30T04:39:11",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.107,
+          "neutral": 0.676,
+          "positive": 0.217
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.0,
+          "fear": 0.002,
+          "joy": 0.954,
+          "neutral": 0.033,
+          "sadness": 0.001,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Believe0017",
+        "comment": "This is sad but it’s gunna be nothing compared the real problems coming to the US.",
+        "score": 307,
+        "date": "2025-04-30T04:33:58",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.91,
+          "neutral": 0.082,
+          "positive": 0.008
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.007,
+          "fear": 0.002,
+          "joy": 0.044,
+          "neutral": 0.396,
+          "sadness": 0.546,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "thenayr",
+        "comment": "Call them “Trump tariffs”. Say it loudly. ",
+        "score": 563,
+        "date": "2025-04-30T04:30:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.339,
+          "neutral": 0.56,
+          "positive": 0.1
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.008,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.972,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "marsrover15",
+        "comment": "Seeing that this sub has a lot of open conservatives I hope y’all continue to get fucked.",
+        "score": 916,
+        "date": "2025-04-30T04:27:53",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.947,
+          "neutral": 0.049,
+          "positive": 0.004
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.165,
+          "disgust": 0.631,
+          "fear": 0.002,
+          "joy": 0.006,
+          "neutral": 0.185,
+          "sadness": 0.008,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "snakkerdudaniel",
+        "comment": "It turns out putting a tax on everything at the ports is bad economics, who'd have thought",
+        "score": 105,
+        "date": "2025-04-30T04:51:56",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.844,
+          "neutral": 0.142,
+          "positive": 0.014
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.044,
+          "disgust": 0.545,
+          "fear": 0.01,
+          "joy": 0.003,
+          "neutral": 0.219,
+          "sadness": 0.108,
+          "surprise": 0.07
+        }
+      },
+      {
+        "user": "shofmon88",
+        "comment": "Hope all you incel gamer \"bros\" love getting what you voted for.",
+        "score": 543,
+        "date": "2025-04-30T04:23:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.789,
+          "neutral": 0.172,
+          "positive": 0.039
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.604,
+          "neutral": 0.386,
+          "sadness": 0.003,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Howitzeronfire",
+        "comment": "Americans learning what it feels like to be Brazilian",
+        "score": 10,
+        "date": "2025-04-30T16:34:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.058,
+          "neutral": 0.863,
+          "positive": 0.079
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.002,
+          "joy": 0.017,
+          "neutral": 0.968,
+          "sadness": 0.003,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "therealdanhill",
+        "comment": "Is there any website acting as a centralized repository of the tariff impacts? I.e. \"this was the pre-tariff price, here is what it is now\" for a variety of consumer goods?",
+        "score": 55,
+        "date": "2025-04-30T04:37:11",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.206,
+          "neutral": 0.746,
+          "positive": 0.048
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.986,
+          "sadness": 0.001,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "HeyItsMeRay",
+        "comment": "\"China pays\"",
+        "score": 33,
+        "date": "2025-04-30T05:00:25",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.264,
+          "neutral": 0.673,
+          "positive": 0.063
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.001,
+          "neutral": 0.989,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "MisterDonkey",
+        "comment": "That's alright. I'll just pick up a replacement game controller from my local artisan game controller shop. Farm to console. Fresh picked right from the fields of peripheral trees.",
+        "score": 15,
+        "date": "2025-04-30T13:04:33",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.014,
+          "neutral": 0.425,
+          "positive": 0.561
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.0,
+          "joy": 0.029,
+          "neutral": 0.966,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "AGoldenGoblin",
+        "comment": "Americans are about to know what it feels like to not be American trying to buy products not sold Internationally.",
+        "score": 6,
+        "date": "2025-04-30T13:59:53",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.758,
+          "neutral": 0.226,
+          "positive": 0.016
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.063,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.706,
+          "sadness": 0.205,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Great_White_Samurai",
+        "comment": "Negative IQ administration",
+        "score": 7,
+        "date": "2025-04-30T15:03:28",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.742,
+          "neutral": 0.247,
+          "positive": 0.011
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.008,
+          "fear": 0.006,
+          "joy": 0.004,
+          "neutral": 0.972,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Vibrant-Shadow",
+        "comment": "The US is fucked and it's only going to get worse. I'm cutting back on all spending and preparing for food instability.\n\nWe're on our own fellas. Good luck.",
+        "score": 38,
+        "date": "2025-04-30T05:31:25",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.96,
+          "neutral": 0.035,
+          "positive": 0.004
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.517,
+          "disgust": 0.261,
+          "fear": 0.006,
+          "joy": 0.006,
+          "neutral": 0.118,
+          "sadness": 0.09,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Icedvelvet",
+        "comment": "Thanks trumptards",
+        "score": 6,
+        "date": "2025-04-30T19:14:04",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.529,
+          "neutral": 0.417,
+          "positive": 0.054
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.157,
+          "neutral": 0.831,
+          "sadness": 0.002,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "TheFishIsNotTheHost",
+        "comment": "So much winning. I’m just so tired of all the winning.\n\n/s",
+        "score": 89,
+        "date": "2025-04-30T04:22:10",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.728,
+          "neutral": 0.205,
+          "positive": 0.066
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.007,
+          "fear": 0.001,
+          "joy": 0.061,
+          "neutral": 0.089,
+          "sadness": 0.834,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Aijin28",
+        "comment": "Don't forget to say thankyou to JD, Krasnov and Musky!",
+        "score": 24,
+        "date": "2025-04-30T06:21:08",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.083,
+          "positive": 0.915
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.781,
+          "neutral": 0.198,
+          "sadness": 0.002,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "ROBOSEXUAL2020",
+        "comment": "Last month I got two 8-bit ultimate for my laptop and my home PC prob the best controllers I've ever had",
+        "score": 9,
+        "date": "2025-04-30T05:21:35",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.017,
+          "positive": 0.982
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.793,
+          "neutral": 0.083,
+          "sadness": 0.002,
+          "surprise": 0.116
+        }
+      },
+      {
+        "user": "MrNewking",
+        "comment": "\n\nI don't get it?\n\nI thought other countries would pay the tarrif?",
+        "score": 37,
+        "date": "2025-04-30T04:36:51",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.752,
+          "neutral": 0.237,
+          "positive": 0.01
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.011,
+          "sadness": 0.001,
+          "surprise": 0.976
+        }
+      },
+      {
+        "user": "Southern-Injury7895",
+        "comment": "Hold on your gadgets. We will see used items have higher price than new one soon.",
+        "score": 4,
+        "date": "2025-04-30T10:26:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.245,
+          "neutral": 0.635,
+          "positive": 0.12
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.035,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.951,
+          "sadness": 0.003,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "mmmlinux",
+        "comment": "Annnnnd they are all bought and being scalped for 10x the price.",
+        "score": 3,
+        "date": "2025-04-30T13:07:29",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.526,
+          "neutral": 0.456,
+          "positive": 0.018
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.043,
+          "neutral": 0.874,
+          "sadness": 0.008,
+          "surprise": 0.068
+        }
+      },
+      {
+        "user": "NotChaz-_-",
+        "comment": "This is all my fault guys. I looked into buying a new controller quite literally yesterday.",
+        "score": 5,
+        "date": "2025-04-30T13:44:40",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.738,
+          "neutral": 0.224,
+          "positive": 0.038
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.616,
+          "disgust": 0.01,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.115,
+          "sadness": 0.246,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "Salty_Injury66",
+        "comment": "Switch owners in shàmblés 😔",
+        "score": 4,
+        "date": "2025-04-30T19:06:42",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.593,
+          "neutral": 0.39,
+          "positive": 0.017
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.009,
+          "neutral": 0.983,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "PocketNicks",
+        "comment": "They're still shipping to Canada. All good here.",
+        "score": 6,
+        "date": "2025-04-30T08:43:43",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.007,
+          "neutral": 0.12,
+          "positive": 0.874
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.016,
+          "neutral": 0.977,
+          "sadness": 0.001,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "CrazyDude10528",
+        "comment": "I got one of their Ultimate 2C controllers, and 2 of their Retro Mechanical keyboards, the C64, and IBM one.\n\nFantastic hardware. This is really sad to see because of how utterly pointless this all is.\n\nFuck trump, and fuck whoever voted for this shit.",
+        "score": 18,
+        "date": "2025-04-30T04:45:33",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.967,
+          "neutral": 0.028,
+          "positive": 0.005
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.301,
+          "disgust": 0.594,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.033,
+          "sadness": 0.061,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Cryogenics1st",
+        "comment": "I don't even use their controllers but fuck it sucks being an american right now.",
+        "score": 15,
+        "date": "2025-04-30T04:52:44",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.98,
+          "neutral": 0.018,
+          "positive": 0.002
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.14,
+          "disgust": 0.575,
+          "fear": 0.006,
+          "joy": 0.004,
+          "neutral": 0.101,
+          "sadness": 0.171,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "heatlesssun",
+        "comment": "Guess too much winning again.",
+        "score": 16,
+        "date": "2025-04-30T04:31:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.427,
+          "neutral": 0.469,
+          "positive": 0.104
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.016,
+          "disgust": 0.016,
+          "fear": 0.002,
+          "joy": 0.008,
+          "neutral": 0.818,
+          "sadness": 0.139,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "hurlcarl",
+        "comment": "Always been a fan. Just picked up a wireless xbox 360 type one the other day , glad I did. Thanks you orange baboon.",
+        "score": 3,
+        "date": "2025-04-30T13:14:11",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.009,
+          "neutral": 0.073,
+          "positive": 0.918
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.0,
+          "fear": 0.0,
+          "joy": 0.928,
+          "neutral": 0.051,
+          "sadness": 0.004,
+          "surprise": 0.015
+        }
+      },
+      {
+        "user": "MacMuffington",
+        "comment": "Their oppressing gamers those fascist",
+        "score": 3,
+        "date": "2025-04-30T18:39:34",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.959,
+          "neutral": 0.039,
+          "positive": 0.002
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.069,
+          "disgust": 0.851,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.069,
+          "sadness": 0.004,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "One-Recommendation-1",
+        "comment": "Awesome!  Literally one of the best controller makers in the market.  I am lucky to have a bunch of controllers, but this is disappointing.  I voted for Kamala, I did my part…",
+        "score": 3,
+        "date": "2025-04-30T18:53:18",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.126,
+          "neutral": 0.221,
+          "positive": 0.653
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.026,
+          "disgust": 0.005,
+          "fear": 0.003,
+          "joy": 0.57,
+          "neutral": 0.05,
+          "sadness": 0.052,
+          "surprise": 0.293
+        }
+      },
+      {
+        "user": "The-Hero-78",
+        "comment": "I literally have wanted one so bad to play contra but I’ve been tight on money, just this month I was about to turn it around but I got laid off 😔",
+        "score": 7,
+        "date": "2025-04-30T05:04:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.7,
+          "neutral": 0.253,
+          "positive": 0.047
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.358,
+          "disgust": 0.01,
+          "fear": 0.038,
+          "joy": 0.009,
+          "neutral": 0.27,
+          "sadness": 0.308,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "Jonnyflash80",
+        "comment": "*Canada snickers*",
+        "score": 5,
+        "date": "2025-04-30T14:35:27",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.126,
+          "neutral": 0.673,
+          "positive": 0.2
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.283,
+          "fear": 0.002,
+          "joy": 0.089,
+          "neutral": 0.599,
+          "sadness": 0.003,
+          "surprise": 0.019
+        }
+      },
+      {
+        "user": "TentacleHockey",
+        "comment": "These are actually the best controllers on the market. F",
+        "score": 15,
+        "date": "2025-04-30T04:36:54",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.024,
+          "positive": 0.973
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.286,
+          "neutral": 0.09,
+          "sadness": 0.001,
+          "surprise": 0.612
+        }
+      },
+      {
+        "user": "DctrGizmo",
+        "comment": "I was just about to order one to play games on my iPad. Can you still order them from Amazon?",
+        "score": 2,
+        "date": "2025-04-30T05:35:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.042,
+          "neutral": 0.696,
+          "positive": 0.262
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.984,
+          "sadness": 0.001,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "Chomsky_McChode",
+        "comment": "So what is their best controller for pc?  So many god damn models.",
+        "score": 2,
+        "date": "2025-04-30T06:07:43",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.83,
+          "neutral": 0.146,
+          "positive": 0.023
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.049,
+          "disgust": 0.05,
+          "fear": 0.004,
+          "joy": 0.028,
+          "neutral": 0.02,
+          "sadness": 0.008,
+          "surprise": 0.842
+        }
+      },
+      {
+        "user": "Rehmy_Tuperahs",
+        "comment": "Man, I hope 8BitDo releases a blue and red variant of the Ultimate 2 to go alongside the black and white editions I paid less than £40 each for from AliExpress.",
+        "score": 2,
+        "date": "2025-04-30T08:10:07",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.035,
+          "neutral": 0.43,
+          "positive": 0.536
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.002,
+          "fear": 0.0,
+          "joy": 0.025,
+          "neutral": 0.957,
+          "sadness": 0.003,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "miscman127",
+        "comment": "Damn I love their controllers. They are one of the few replacement joysticks to fit the Steam Controller with, too, an excellent upgrade.",
+        "score": 2,
+        "date": "2025-04-30T12:53:24",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.016,
+          "positive": 0.98
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.038,
+          "fear": 0.002,
+          "joy": 0.806,
+          "neutral": 0.073,
+          "sadness": 0.01,
+          "surprise": 0.057
+        }
+      },
+      {
+        "user": "LedditLetMeUseMyVPNf",
+        "comment": "Fantastic controllers. Been using SN30 for a while, perfect for games that I usually play. Connects to Switch easily too.",
+        "score": 2,
+        "date": "2025-04-30T18:22:15",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.033,
+          "positive": 0.965
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.176,
+          "neutral": 0.815,
+          "sadness": 0.002,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "SeriousRedditor62220",
+        "comment": "That sucks! 8bitdo makes great products.",
+        "score": 2,
+        "date": "2025-04-30T19:19:26",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.561,
+          "neutral": 0.297,
+          "positive": 0.142
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.1,
+          "disgust": 0.163,
+          "fear": 0.002,
+          "joy": 0.032,
+          "neutral": 0.021,
+          "sadness": 0.664,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "thedellis",
+        "comment": "Thanks, Obama.",
+        "score": 2,
+        "date": "2025-05-01T10:09:56",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.03,
+          "neutral": 0.364,
+          "positive": 0.606
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.137,
+          "neutral": 0.855,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "VirtuaFighter6",
+        "comment": "And who voted for the guy that initiated these tariffs? You can thank them.",
+        "score": 6,
+        "date": "2025-04-30T11:03:03",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.463,
+          "neutral": 0.443,
+          "positive": 0.094
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.085,
+          "disgust": 0.031,
+          "fear": 0.001,
+          "joy": 0.334,
+          "neutral": 0.473,
+          "sadness": 0.002,
+          "surprise": 0.074
+        }
+      },
+      {
+        "user": "RolandTwitter",
+        "comment": "If you voted for Trump, this is your fault",
+        "score": 10,
+        "date": "2025-04-30T11:34:00",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.931,
+          "neutral": 0.066,
+          "positive": 0.003
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.501,
+          "disgust": 0.012,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.396,
+          "sadness": 0.079,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "akaispirit",
+        "comment": "I'm so glad I took the plunge and upgraded to a more powerful pc after the election results. One less thing to worry about.",
+        "score": 4,
+        "date": "2025-04-30T08:21:59",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.009,
+          "neutral": 0.058,
+          "positive": 0.933
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.966,
+          "neutral": 0.029,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ChiefSampson",
+        "comment": "Considering the fact that they fall apart as quickly as they do this isn't the end of the world.",
+        "score": 3,
+        "date": "2025-04-30T23:41:50",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.849,
+          "neutral": 0.145,
+          "positive": 0.006
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.008,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.206,
+          "sadness": 0.769,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "MNLyrec",
+        "comment": "“But but but i don’t want politics in games” yeah you helped this. Deserved.",
+        "score": 8,
+        "date": "2025-04-30T08:01:19",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.213,
+          "neutral": 0.513,
+          "positive": 0.274
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.168,
+          "disgust": 0.088,
+          "fear": 0.005,
+          "joy": 0.008,
+          "neutral": 0.675,
+          "sadness": 0.048,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "ZeroBANG",
+        "comment": "They have a warehouse in the US, nowhere in the article does it say that they are stopping shipments to their own warehouse, it says they are stopping shipments from their China warehouse directly to US customers.  \n\nThe website apparently only tells you at checkout which articles are not available in the US warehouse, i'm sure they will update the website so this becomes a less clunky process.  \n\nI'm sure 8bitdo will figure something out for you guys long term.",
+        "score": 7,
+        "date": "2025-04-30T08:38:25",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.35,
+          "neutral": 0.515,
+          "positive": 0.136
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.015,
+          "fear": 0.004,
+          "joy": 0.0,
+          "neutral": 0.939,
+          "sadness": 0.014,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Dadbode1981",
+        "comment": "A great moment for Canada.",
+        "score": 3,
+        "date": "2025-04-30T15:23:47",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.016,
+          "positive": 0.982
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.95,
+          "neutral": 0.041,
+          "sadness": 0.001,
+          "surprise": 0.006
+        }
+      }
+    ],
+    "resumen_zero_shot": "Resume este texto de forma concisa y clara: 8bitdostoppingshipmentsofcontrollerstotheUSthankstotariffs.Ifyouwereplanningongettingoneforanyreasonyoubetterbuyonenowwhilesupplyisstillhere..Firsttheycameformycontrollers,becauseIwasnotacontroller...waitfuck.Wow,justboughtoneamonthago.Hopeyouallcangrabonetoo!Italkforalivingwithengineers,fabricators,andmanufacturershereintheUSA.Theyarestartingtofeelit,it’sgoingtogetworse.There’sliterallynoplaninplaceforthisstufftotransitionover.AlotofsmallbusinessaregoingtodieoffandonlybigbusinessisgettingexemptedThat'supsetting.Ireallylike8bitdo.Arewegreatyet?Thisissadbutit’sgunnabenothingcomparedtherealproblemscomingtotheUS.Callthem“Trumptariffs”.Sayitloudly.SeeingthatthissubhasalotofopenconservativesIhopey’allcontinuetogetfucked.Itturnsoutputtingataxoneverythingattheportsisbadeconomics,who'dhavethoughtHopeallyouincelgamer\"bros\"lovegettingwhatyouvotedfor.AmericanslearningwhatitfeelsliketobeBrazilianIsthereanywebsiteactingasacentralizedrepositoryofthetariffimpacts?I.e.\"thiswasthepre-tariffprice,hereiswhatitisnow\"foravarietyofconsumergoods?\"Chinapays\"That'salright.I'lljustpickupareplacementgamecontrollerfrommylocalartisangamecontrollershop.Farmtoconsole.Freshpickedrightfromthefieldsofperipheraltrees.AmericansareabouttoknowwhatitfeelsliketonotbeAmericantryingtobuyproductsnotsoldInternationally.NegativeIQadministrationTheUSisfuckedandit'sonlygoingtogetworse.I'mcuttingbackonallspendingandpreparingforfoodinstability.We'reonourownfellas.Goodluck.ThankstrumptardsSomuchwinning.I’mjustsotiredofallthewinning./sDon'tforgettosaythankyoutoJD,KrasnovandMusky!LastmonthIgottwo8-bitultimateformylaptopandmyhomePCprobthebestcontrollersI'veeverhadIdon'tgetit?Ithoughtothercountrieswouldpaythetarrif?Holdonyourgadgets.Wewillseeuseditemshavehigherpricethannewonesoon.Annnnndtheyareallboughtandbeingscalpedfor10xtheprice.Thisisallmyfaultguys.Ilookedintobuyinganewcontrollerquiteliterallyyesterday.Switchownersinshàmblés😔They'restillshippingtoCanada.Allgoodhere.IgotoneoftheirUltimate2Ccontrollers,and2oftheirRetroMechanicalkeyboards,theC64,andIBMone.Fantastichardware.Thisisreallysadtoseebecauseofhowutterlypointlessthisallis.Fucktrump,andfuckwhoevervotedforthisshit.Idon'tevenusetheircontrollersbutfuckitsucksbeinganamericanrightnow.Guesstoomuchwinningagain.Alwaysbeenafan.Justpickedupawirelessxbox360typeonetheotherday,gladIdid.Thanksyouorangebaboon.TheiroppressinggamersthosefascistAwesome!Literallyoneofthebestcontrollermakersinthemarket.Iamluckytohaveabunchofcontrollers,butthisisdisappointing.IvotedforKamala,Ididmypart…IliterallyhavewantedonesobadtoplaycontrabutI’vebeentightonmoney,justthismonthIwasabouttoturnitaroundbutIgotlaidoff😔*Canadasnickers*Theseareactuallythebestcontrollersonthemarket.FIwasjustabouttoorderonetoplaygamesonmyiPad.CanyoustillorderthemfromAmazon?Sowhatistheirbestcontrollerforpc?Somanygoddamnmodels.Man,Ihope8BitDoreleasesablueandredvariantoftheUltimate2togoalongsidetheblackandwhiteeditionsIpaidlessthan£40eachforfromAliExpress.DamnIlovetheircontrollers.TheyareoneofthefewreplacementjoystickstofittheSteamControllerwith,too,anexcellentupgrade.Fantasticcontrollers.BeenusingSN30forawhile,perfectforgamesthatIusuallyplay.ConnectstoSwitcheasilytoo.Thatsucks!8bitdomakesgreatproducts.Thanks,Obama.Andwhovotedfortheguythatinitiatedthesetariffs?Youcanthankthem.IfyouvotedforTrump,thisisyourfaultI'msogladItooktheplungeandupgradedtoamorepowerfulpcaftertheelectionresults.Onelessthingtoworryabout.Consideringthefactthattheyfallapartasquicklyastheydothisisn'ttheendoftheworld.“Butbutbutidon’twantpoliticsingames”yeahyouhelpedthis.Deserved.TheyhaveawarehouseintheUS,nowhereinthearticledoesitsaythattheyarestoppingshipmentstotheirownwarehouse,itsaystheyarestoppingshipmentsfromtheirChinawarehousedirectlytoUScustomers.ThewebsiteapparentlyonlytellsyouatcheckoutwhicharticlesarenotavailableintheUSwarehouse,i'msuretheywillupdatethewebsitesothisbecomesalessclunkyprocess.I'msure8bitdowillfiguresomethingoutforyouguyslongterm.AgreatmomentforCanada.I'mjustgoingtohavetowaitforthenextwaveofcontrollers.I'mjustgoingtohavetowaitforthenextwaveofcontrollers.I'mjustgoingtohavetowaitforthenextwaveofcontrollers.I'mjustgoingtohavetowaitforthenextwaveofcontrollers.I'mjustgoingtohavetowaitforthenextwaveofcontrollers.I'mjust"
+  }
+]

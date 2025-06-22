@@ -1,0 +1,1113 @@
+[
+  {
+    "flair": null,
+    "title": "There is hope for when Discord eventually become unbearable.",
+    "author": "AgnFr",
+    "date": "2025-04-26T12:07:34",
+    "score": 1769,
+    "description": "I'm certainly late in this discussion but, as I only found out today, others may not know yet: there is an open source alternative to discord in development and it's called **Revolt** (god I love the irony of its name).\n\nIt is not the first time that Discord has appeared in the news seeking to open itself to financial capital or simply be acquired by a third party. When this happens (and I don't believe it's a case of \"if\") the enshittification process will speed up even more.\n\nKnowing that there is an open source alternative gives me hope that our communication will remain relatively private and ad-free.\n\nAnyway, all this to say to those doomers like me that there is hope!",
+    "comments": [
+      {
+        "user": "ChristopherKlay",
+        "comment": "Let me preface this saying that i like Revolt and I'd love for it to be a viable alternative.\n\nReality however is, if people would want to abandon Discord now, Revolt isn't ready to take on the demand by a landslide. Even voice chat currently isn't working and looking at the history of the project, isn't going to let people believe the team is even up for the task.",
+        "score": 1062,
+        "date": "2025-04-26T13:12:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.355,
+          "neutral": 0.464,
+          "positive": 0.181
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.036,
+          "disgust": 0.022,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.917,
+          "sadness": 0.02,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Evonos",
+        "comment": "The issue is that discord is already non searchable via search engines , if they go down we loose literally years of already harder than should be searchable info.\n\nHonestly both discord x and over moderated subreddits like the nvidia sub are the bane of modern \"Google fu \"",
+        "score": 635,
+        "date": "2025-04-26T13:42:15",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.86,
+          "neutral": 0.128,
+          "positive": 0.012
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.061,
+          "disgust": 0.059,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.817,
+          "sadness": 0.056,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Uninterested_Viewer",
+        "comment": "What is *ironic* about the name \"revolt\"? That's the exact opposite of irony- that's just about the most on-the-nose name they could think of.",
+        "score": 781,
+        "date": "2025-04-26T12:41:04",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.787,
+          "neutral": 0.192,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.295,
+          "fear": 0.003,
+          "joy": 0.006,
+          "neutral": 0.54,
+          "sadness": 0.003,
+          "surprise": 0.137
+        }
+      },
+      {
+        "user": "LoocsinatasYT",
+        "comment": "Teamspeak. Ventrillo. Xfire. Skype.\n\nThey come and go.",
+        "score": 68,
+        "date": "2025-04-26T14:07:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.071,
+          "neutral": 0.837,
+          "positive": 0.092
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "DemonDaVinci",
+        "comment": "Can Valve get their shit together and make the steam chat actually usable",
+        "score": 19,
+        "date": "2025-04-26T15:55:53",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.783,
+          "neutral": 0.182,
+          "positive": 0.035
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.399,
+          "disgust": 0.057,
+          "fear": 0.009,
+          "joy": 0.003,
+          "neutral": 0.509,
+          "sadness": 0.017,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Enverex",
+        "comment": "Who's paying for Revolt? It being open source is pretty useless right now given that you can't self-host instances.\n\nMatrix has been around longer and is a better choice as you CAN actually host your own instances and it's federated.\n\nAre people suddenly picking up on Revolt marketing or something?",
+        "score": 94,
+        "date": "2025-04-26T13:58:19",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.484,
+          "neutral": 0.402,
+          "positive": 0.113
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.028,
+          "fear": 0.0,
+          "joy": 0.001,
+          "neutral": 0.924,
+          "sadness": 0.006,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "PoL0",
+        "comment": "who will host Revolt servers may I ask?",
+        "score": 17,
+        "date": "2025-04-26T14:12:04",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.05,
+          "neutral": 0.921,
+          "positive": 0.029
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.985,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Totally_Not_Evil",
+        "comment": "Man I remember when Curse came out for league back in like 2013, and it was perfect. Bring back the simple group/voice chat apps",
+        "score": 79,
+        "date": "2025-04-26T12:17:53",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.01,
+          "neutral": 0.107,
+          "positive": 0.883
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.18,
+          "neutral": 0.804,
+          "sadness": 0.003,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "FAILNOUGHT",
+        "comment": "I need revolt to let me share my screen + audio and I'm bought. Bonus points if they include m+k control to help with troubleshooting",
+        "score": 75,
+        "date": "2025-04-26T12:32:34",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.038,
+          "neutral": 0.469,
+          "positive": 0.493
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.887,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.098,
+          "sadness": 0.001,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "InitRanger",
+        "comment": "I would argue that Matrix is a better alternative because Matrix (with the Element client) has voice and video chat were as Revolt does not.",
+        "score": 55,
+        "date": "2025-04-26T13:26:21",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.033,
+          "neutral": 0.454,
+          "positive": 0.513
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.005,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.984,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "GamingRobioto",
+        "comment": "I think it's already pretty unbearable. They can shove that Nitro crap up their arse",
+        "score": 129,
+        "date": "2025-04-26T13:11:36",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.966,
+          "neutral": 0.03,
+          "positive": 0.004
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.849,
+          "fear": 0.003,
+          "joy": 0.011,
+          "neutral": 0.072,
+          "sadness": 0.057,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "GargamelLeNoir",
+        "comment": "Interesting news. But if you don't know what ironic means Alanis it's fine, just don't use that word.",
+        "score": 8,
+        "date": "2025-04-26T13:48:23",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.215,
+          "neutral": 0.488,
+          "positive": 0.297
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.03,
+          "disgust": 0.154,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.797,
+          "sadness": 0.006,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "thatirishguyyyyy",
+        "comment": "We already have a Discord alternative. Its called *Teamspeak*  \n\n\nThey never left and are ready to take over whem Discord falls. ",
+        "score": 6,
+        "date": "2025-04-26T20:41:10",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.067,
+          "neutral": 0.655,
+          "positive": 0.277
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.982,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Zomatree_",
+        "comment": "Hey I’m one of the developers of Revolt, thank you for sharing revolt around it does mean a lot to us, while we are currently still under development and don’t have lots of features implemented yet we are trying our best with our limited time to work on Revolt,",
+        "score": 12,
+        "date": "2025-04-27T01:58:54",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.017,
+          "neutral": 0.128,
+          "positive": 0.855
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.456,
+          "neutral": 0.526,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "4rcher91",
+        "comment": "I'm out of the loop, but how can Discord get worst than its present state? Will it be no longer free or many core features will be locked behind microtransactions?\n\nIf so what are the chances for these to happen?",
+        "score": 7,
+        "date": "2025-04-26T17:22:21",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.84,
+          "neutral": 0.151,
+          "positive": 0.009
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.968,
+          "sadness": 0.003,
+          "surprise": 0.013
+        }
+      },
+      {
+        "user": "Sarennnn",
+        "comment": "Teamspeak anyone?",
+        "score": 25,
+        "date": "2025-04-26T13:19:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.079,
+          "neutral": 0.876,
+          "positive": 0.046
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.967,
+          "sadness": 0.001,
+          "surprise": 0.028
+        }
+      },
+      {
+        "user": "wordswillneverhurtme",
+        "comment": "I feel like discord is one of those platforms that is very easy to abandon for the user. Its not like social media that relies on people using it. As long as the alternative can do the same things as discord, jumping ship should be easy.0",
+        "score": 36,
+        "date": "2025-04-26T12:45:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.357,
+          "neutral": 0.47,
+          "positive": 0.173
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.025,
+          "fear": 0.001,
+          "joy": 0.006,
+          "neutral": 0.905,
+          "sadness": 0.029,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "SPYYYR",
+        "comment": "I will never stop using Teamspeak.  \nTeamspeak for voip and Steam group chat for memes/seeing if someone is online.  \nDare hate Discord, I hate that shit. It is trying to replace forums and that is infuriating.",
+        "score": 8,
+        "date": "2025-04-26T17:43:34",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.959,
+          "neutral": 0.035,
+          "positive": 0.006
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.23,
+          "disgust": 0.755,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.006,
+          "sadness": 0.003,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "TankorSmash",
+        "comment": "> Anyway, all this to say to those doomers like me that there is hope!\n\nThere was stuff like discord (not as good) before it, so there will be stuff after that is even better. No matter how good something gets, there'll always be a next better thing.",
+        "score": 3,
+        "date": "2025-04-26T14:14:30",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.075,
+          "positive": 0.917
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.034,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.775,
+          "neutral": 0.17,
+          "sadness": 0.013,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "vVvRain",
+        "comment": "Teamspeak if it still exists.",
+        "score": 3,
+        "date": "2025-04-26T15:18:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.07,
+          "neutral": 0.855,
+          "positive": 0.075
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.985,
+          "sadness": 0.004,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "bloke_pusher",
+        "comment": "The Discord purge will make us lose so many information, they got us trapped in this unsearchable and unachievable mess. Discord is about to get worse and worse now they go public and I wish we hadn't replaced forums with Discord. Revolt could be a solution.",
+        "score": 3,
+        "date": "2025-04-26T16:08:27",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.931,
+          "neutral": 0.062,
+          "positive": 0.007
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.117,
+          "disgust": 0.037,
+          "fear": 0.294,
+          "joy": 0.006,
+          "neutral": 0.408,
+          "sadness": 0.137,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Mizzzzaaaa",
+        "comment": "I'll keep using TeamSpeak, never liked Discord enough.",
+        "score": 3,
+        "date": "2025-04-26T17:46:50",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.051,
+          "neutral": 0.247,
+          "positive": 0.702
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.959,
+          "sadness": 0.022,
+          "surprise": 0.0
+        }
+      },
+      {
+        "user": "ZGToRRent",
+        "comment": "Why not just use matrix through something like nheko or cinny? It's already on par with discord.",
+        "score": 3,
+        "date": "2025-04-26T18:53:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.131,
+          "neutral": 0.788,
+          "positive": 0.082
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.03,
+          "disgust": 0.01,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.948,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "TID3PODEATZ",
+        "comment": "Whats going on with discord? Have I missed something?",
+        "score": 3,
+        "date": "2025-04-26T20:01:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.436,
+          "neutral": 0.543,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.052,
+          "disgust": 0.012,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.86,
+          "sadness": 0.006,
+          "surprise": 0.066
+        }
+      },
+      {
+        "user": "Stealth_Cow",
+        "comment": "Just give me a fucking Discord lite. I don't want 45 updates because I didn't log in for a week. I don't want random popups and ads. I don't want configuration and UI changes. \n\nClick the icon. It launches. Shows who is online, and a little \"add room\" button. If somebody sends me an invite link, boom. I'm in the room. THAT'S IT. No gaming platform. No extra face time crap. MAYBE I can offer to upload a file to someone else. MAYBE. But that could be a premium feature. Who gives a shit.",
+        "score": 3,
+        "date": "2025-04-26T20:34:15",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.835,
+          "neutral": 0.141,
+          "positive": 0.024
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.235,
+          "disgust": 0.179,
+          "fear": 0.004,
+          "joy": 0.008,
+          "neutral": 0.567,
+          "sadness": 0.004,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "chaosbayne",
+        "comment": "Xfire should come back!",
+        "score": 3,
+        "date": "2025-04-27T00:50:36",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.243,
+          "positive": 0.753
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.085,
+          "disgust": 0.001,
+          "fear": 0.012,
+          "joy": 0.533,
+          "neutral": 0.301,
+          "sadness": 0.001,
+          "surprise": 0.067
+        }
+      },
+      {
+        "user": "lighthawk16",
+        "comment": "Mattermost is better. Spacebar is good too if you still have friends on Discord.",
+        "score": 4,
+        "date": "2025-04-26T15:10:50",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.067,
+          "positive": 0.93
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Fish-E",
+        "comment": "I mean, just use Steam Chat for chat / voice communications.\n\nIt'd be a hell of a lot better too if we moved away from (the forced move to) Discord and back to Forums and other indexable places - not only does it make asking & answering questions a lot easier, it makes everything much more accessible.",
+        "score": 6,
+        "date": "2025-04-26T17:21:39",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.02,
+          "neutral": 0.119,
+          "positive": 0.861
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.045,
+          "neutral": 0.946,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "bdu-komrad",
+        "comment": "My solution always been to not talk to anyone. The chat apps come and go and I am unaffected.\n\n1.  Be anti-social \n2. ?\n3. Profit",
+        "score": 6,
+        "date": "2025-04-26T17:52:07",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.523,
+          "neutral": 0.415,
+          "positive": 0.063
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.319,
+          "disgust": 0.066,
+          "fear": 0.047,
+          "joy": 0.006,
+          "neutral": 0.497,
+          "sadness": 0.059,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "Saisinko",
+        "comment": "I’m still using IRC.",
+        "score": 10,
+        "date": "2025-04-26T12:27:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.03,
+          "neutral": 0.807,
+          "positive": 0.163
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.987,
+          "sadness": 0.006,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Accomplished_Emu_658",
+        "comment": "I am not anti discord, i use it for some things. \n\nI dislike it for a couple reasons. If you play in a mmorpg so many guilds require you to join it even if you don’t do group content with them. No thank you /gquit. If i do group content with them sure ill join it. \n\nSecond if you use for buying and selling, like i do, it is just like skype in the day full of scammers. And they made it so easy to impersonate someone for long. You could by nitro and have same user name as someone. Or before with the numbers you could have a similar usernames and trick people. And they allow alt codes that appear as normal characters in names. As someone who is highly impersonated from another forum it is really bad.",
+        "score": 2,
+        "date": "2025-04-26T18:27:50",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.893,
+          "neutral": 0.097,
+          "positive": 0.009
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.196,
+          "disgust": 0.28,
+          "fear": 0.011,
+          "joy": 0.004,
+          "neutral": 0.481,
+          "sadness": 0.027,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "noob_dragon",
+        "comment": "Steam voice chat will always be there.",
+        "score": 2,
+        "date": "2025-04-27T02:51:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.015,
+          "neutral": 0.54,
+          "positive": 0.445
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.99,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "voidsong",
+        "comment": "And so the cycle continues.",
+        "score": 2,
+        "date": "2025-04-27T03:42:29",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.615,
+          "neutral": 0.357,
+          "positive": 0.029
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.009,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.974,
+          "sadness": 0.008,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Kondiredi",
+        "comment": "The new TeamSpeak basically looks like Discord. Also it got higher quality streaming for free, or so I heard...",
+        "score": 2,
+        "date": "2025-04-27T07:31:40",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.213,
+          "positive": 0.783
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.003,
+          "neutral": 0.985,
+          "sadness": 0.003,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "aldorn",
+        "comment": "I believe TeamSpeak. It's evolving into a discord 1.0, so back to what made discord great without all the monitisation",
+        "score": 2,
+        "date": "2025-04-27T08:21:46",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.006,
+          "neutral": 0.097,
+          "positive": 0.897
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.965,
+          "sadness": 0.023,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "LaerycTiogar",
+        "comment": "Teamspeak is trying to fight discord too",
+        "score": 2,
+        "date": "2025-04-27T11:12:51",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.207,
+          "neutral": 0.749,
+          "positive": 0.044
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.027,
+          "disgust": 0.01,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.937,
+          "sadness": 0.016,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "AnotherScoutTrooper",
+        "comment": "Good luck getting anyone to switch to it",
+        "score": 2,
+        "date": "2025-04-27T12:00:31",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.052,
+          "neutral": 0.493,
+          "positive": 0.455
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.991,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "McDonaldsnapkin",
+        "comment": "Is everyone in this sub like under 18 and never used anything but discord? Lmao we have it so good now compared to when we were reliant to the likes of teamspeak, Skype, and steam voice. Discord is a fantastic platform and some of you forget that discord is a company and needs to turn a profit. The fact that server hosting is free is what is and will continue to make discord dominant. If this ever changes then we can talk but until then there's 0 reason to use anything else.",
+        "score": 5,
+        "date": "2025-04-26T17:52:28",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.026,
+          "neutral": 0.118,
+          "positive": 0.855
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.006,
+          "fear": 0.001,
+          "joy": 0.017,
+          "neutral": 0.952,
+          "sadness": 0.004,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "liquescent2",
+        "comment": "Let's bring back teamspeak or ventrillo 😂",
+        "score": 3,
+        "date": "2025-04-26T14:27:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.575,
+          "positive": 0.417
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.046,
+          "neutral": 0.947,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "thecrius",
+        "comment": "Revolt might be a first stepping stone in taking communities back from the gaming companies. \n\nIf the game server companies offered revolt servers, we would be there already.\n\nThe major change with revolt is that you can host your own.",
+        "score": 4,
+        "date": "2025-04-26T19:18:51",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.118,
+          "neutral": 0.574,
+          "positive": 0.308
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.005,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.976,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Bumble072",
+        "comment": "Discord is just a Twitch notification service for me. Not bothered lol.",
+        "score": 2,
+        "date": "2025-04-26T16:36:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.107,
+          "neutral": 0.564,
+          "positive": 0.328
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.034,
+          "disgust": 0.014,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.936,
+          "sadness": 0.008,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "psychic-sock-monkey",
+        "comment": "You’re not gonna convince me this isn’t just a clever marketing scheme for Revolt and any other ‘underdog’ alternatives trying to stay afloat. Discord’s fine, and it’s going to be just fine, no matter the sudden wave of doomsaying. I’ve tried other alternatives — they’ve been pretty rough (looking at you, Mumble).\n  \n  \nHonestly, this whole ‘going public’ thing is just sensationalist bait. It’s easy to get caught up in the ‘end of days’ narrative. As for Revolt, I don’t even see the irony in the name — it’s more like a straight-up copycat move.\n  \n  \nBut hey, another daily reminder to hate Discord because the media said so, right? For what it’s worth, I’ve got Nitro and it’s staying with me. Just saying.",
+        "score": 3,
+        "date": "2025-04-26T21:41:36",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.513,
+          "neutral": 0.383,
+          "positive": 0.104
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.061,
+          "disgust": 0.113,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.808,
+          "sadness": 0.011,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "ajharwood127",
+        "comment": "It’s an cool project, hopefully they can get up to par and have screen-share and be stable. I’ve been interested in Spacebar recently, has feature parity with Discord and can self host. But damn, their documentation to actually setup your own sever leaves a lot to be desired.",
+        "score": 1,
+        "date": "2025-04-26T16:17:02",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.176,
+          "neutral": 0.358,
+          "positive": 0.466
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.019,
+          "neutral": 0.971,
+          "sadness": 0.001,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Circusssssssssssssss",
+        "comment": "Might try it ",
+        "score": 1,
+        "date": "2025-04-26T17:02:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.031,
+          "neutral": 0.755,
+          "positive": 0.214
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.033,
+          "disgust": 0.011,
+          "fear": 0.014,
+          "joy": 0.002,
+          "neutral": 0.932,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Skizm",
+        "comment": "Is this also an electron app?",
+        "score": 1,
+        "date": "2025-04-26T17:15:41",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.043,
+          "neutral": 0.893,
+          "positive": 0.064
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.615,
+          "sadness": 0.001,
+          "surprise": 0.377
+        }
+      },
+      {
+        "user": "Przmak",
+        "comment": "You can always use ventrillo or ts3",
+        "score": 1,
+        "date": "2025-04-26T18:13:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.01,
+          "neutral": 0.671,
+          "positive": 0.319
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.99,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "milkasaurs",
+        "comment": "OP you don't know what irony is.",
+        "score": 1,
+        "date": "2025-04-26T18:38:00",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.596,
+          "neutral": 0.376,
+          "positive": 0.028
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.06,
+          "disgust": 0.132,
+          "fear": 0.003,
+          "joy": 0.007,
+          "neutral": 0.57,
+          "sadness": 0.013,
+          "surprise": 0.215
+        }
+      },
+      {
+        "user": "hells_ranger_stream",
+        "comment": "I'll be fine sticking with Discord as long as I can keep using Vencord plugins.",
+        "score": 1,
+        "date": "2025-04-26T19:06:46",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.01,
+          "neutral": 0.223,
+          "positive": 0.767
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.007,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.959,
+          "sadness": 0.014,
+          "surprise": 0.0
+        }
+      },
+      {
+        "user": "Tankbot85",
+        "comment": "guilded.gg is still a thing. Closest thing to Discord we got.",
+        "score": 1,
+        "date": "2025-04-26T20:00:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.037,
+          "neutral": 0.578,
+          "positive": 0.385
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.006,
+          "neutral": 0.984,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Thornorium",
+        "comment": "If it happens we can only hope valve will step up and flesh out their voice features for people to use. I’ve only ever accidentally used them by misclicking.",
+        "score": 1,
+        "date": "2025-04-26T20:22:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.423,
+          "neutral": 0.468,
+          "positive": 0.109
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.988,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      }
+    ],
+    "resumen_mt5": "It's been a very long time since Discord appeared in the news seeking to open itself to financial capital."
+  }
+]

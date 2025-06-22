@@ -1,0 +1,20 @@
+name: reddit-nlp
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - nltk
+  - spacy
+  - pandas
+  - tqdm
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pip:
+      - praw
+      - emoji
+      - beautifulsoup4

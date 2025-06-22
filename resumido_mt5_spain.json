@@ -1,0 +1,3203 @@
+[
+  {
+    "flair": null,
+    "title": "A large group of people in Barcelona sharing a single radio to stay informed during the power outage.",
+    "author": "rolmos",
+    "date": "2025-04-29T12:49:19",
+    "score": 1300,
+    "description": "Source: @marcasensio_foto https://www.instagram.com/p/DJAZsvSixPk",
+    "comments": [
+      {
+        "user": "goobagabu",
+        "comment": "Amazing photo",
+        "score": 132,
+        "date": "2025-04-29T13:06:48",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.034,
+          "positive": 0.964
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.0,
+          "fear": 0.003,
+          "joy": 0.779,
+          "neutral": 0.09,
+          "sadness": 0.001,
+          "surprise": 0.123
+        }
+      },
+      {
+        "user": "Kafkarudo",
+        "comment": "Ame los civilizados que fueron todos en bcn ayer, nadie volviéndose loco por la calle, en el Mercadona igual. Nunca cambien!",
+        "score": 49,
+        "date": "2025-04-29T14:01:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.079,
+          "neutral": 0.723,
+          "positive": 0.198
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.462,
+          "disgust": 0.01,
+          "fear": 0.036,
+          "joy": 0.109,
+          "neutral": 0.364,
+          "sadness": 0.006,
+          "surprise": 0.012
+        }
+      },
+      {
+        "user": "Lousinski",
+        "comment": "r/accidentalrenaissance",
+        "score": 48,
+        "date": "2025-04-29T13:13:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.195,
+          "neutral": 0.764,
+          "positive": 0.041
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.011,
+          "neutral": 0.975,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "clintCamp",
+        "comment": "I found out when I hiked to pick my kids up from school that it was the entire Iberian peninsula.   Did 23k steps yesterday hiking around town running errands and trying to find internet.",
+        "score": 14,
+        "date": "2025-04-29T13:52:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.14,
+          "neutral": 0.683,
+          "positive": 0.177
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.0,
+          "fear": 0.008,
+          "joy": 0.028,
+          "neutral": 0.882,
+          "sadness": 0.006,
+          "surprise": 0.071
+        }
+      },
+      {
+        "user": "beatlz-too",
+        "comment": "Love the picture",
+        "score": 10,
+        "date": "2025-04-29T13:50:00",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.018,
+          "positive": 0.979
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.009,
+          "fear": 0.001,
+          "joy": 0.365,
+          "neutral": 0.618,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "beatlz-too",
+        "comment": "Y además encontraron la trifuerza",
+        "score": 10,
+        "date": "2025-04-29T13:51:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.113,
+          "neutral": 0.807,
+          "positive": 0.079
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.01,
+          "neutral": 0.972,
+          "sadness": 0.004,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Stoltlallare",
+        "comment": "Question, but I notice that most of the stores around me still are selling their freezer and fridge items. Would you trust this? Or would you wait a few days before considering buying and hope that rotation has occurred?",
+        "score": 10,
+        "date": "2025-04-29T13:59:24",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.313,
+          "neutral": 0.658,
+          "positive": 0.029
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.03,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.909,
+          "sadness": 0.003,
+          "surprise": 0.043
+        }
+      },
+      {
+        "user": "DeGamiesaiKaiSy",
+        "comment": "Genial",
+        "score": 3,
+        "date": "2025-04-29T14:42:48",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.21,
+          "neutral": 0.575,
+          "positive": 0.215
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.989,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Hopeful_Jicama_81",
+        "comment": "My mom went to the store and bought one but I guess this works too?",
+        "score": 8,
+        "date": "2025-04-29T13:45:01",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.005,
+          "neutral": 0.246,
+          "positive": 0.748
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.166,
+          "sadness": 0.003,
+          "surprise": 0.82
+        }
+      },
+      {
+        "user": "YelmodeMambrino",
+        "comment": "Historical pic",
+        "score": 2,
+        "date": "2025-04-29T19:31:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.075,
+          "neutral": 0.765,
+          "positive": 0.16
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.005,
+          "joy": 0.001,
+          "neutral": 0.984,
+          "sadness": 0.003,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "MiguelAngeloac",
+        "comment": "Y quieren eliminar el euro físico. Boludos",
+        "score": 2,
+        "date": "2025-04-30T00:05:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.25,
+          "neutral": 0.695,
+          "positive": 0.055
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.015,
+          "neutral": 0.972,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "----aeiou----",
+        "comment": "Xuta Koundé! GOL! GOL! GOL! GOL!",
+        "score": 2,
+        "date": "2025-04-29T15:00:41",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.125,
+          "neutral": 0.633,
+          "positive": 0.243
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.987,
+          "neutral": 0.006,
+          "sadness": 0.0,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Awkward-Channel-2922",
+        "comment": "... INTENTAR enterarse.\n\nPorque, realmente, era todo el rato lo mismo... Poca información real (todo relleno). Igual tampoco había mas posibilidades, pero útil no ha sido demasiado.",
+        "score": 1,
+        "date": "2025-04-30T13:51:27",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.109,
+          "neutral": 0.785,
+          "positive": 0.106
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.042,
+          "disgust": 0.009,
+          "fear": 0.075,
+          "joy": 0.01,
+          "neutral": 0.855,
+          "sadness": 0.006,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "LieInformal8647",
+        "comment": "ya compré mi radio al vecino que tenia como 3 sin usar me dijo! todo a bateria, y  sacr dinero de los bancos , efectivo bajoel colchon, asi se hace siglo XXI, vamos bien!",
+        "score": 1,
+        "date": "2025-04-30T18:45:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.069,
+          "neutral": 0.786,
+          "positive": 0.145
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.071,
+          "disgust": 0.004,
+          "fear": 0.009,
+          "joy": 0.72,
+          "neutral": 0.186,
+          "sadness": 0.003,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "HugoCortell",
+        "comment": "Why do they look like their listening to the announcement that the pope is dead? lol",
+        "score": 0,
+        "date": "2025-04-29T22:45:09",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.594,
+          "neutral": 0.377,
+          "positive": 0.029
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.324,
+          "fear": 0.019,
+          "joy": 0.005,
+          "neutral": 0.129,
+          "sadness": 0.383,
+          "surprise": 0.13
+        }
+      },
+      {
+        "user": "Candid-Coconut-3628",
+        "comment": "Ajajajajajajajaja imagense que les va a pasar cuando ursula les meta 100% dinero digital",
+        "score": 0,
+        "date": "2025-04-30T11:54:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.083,
+          "neutral": 0.859,
+          "positive": 0.058
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.022,
+          "neutral": 0.966,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "[removed]",
+        "score": -5,
+        "date": "2025-04-29T16:10:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.19,
+          "neutral": 0.687,
+          "positive": 0.123
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.0,
+          "neutral": 0.975,
+          "sadness": 0.008,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "ScoreNo4085",
+        "comment": "una radio de pilas no cuesta mucho… 😂",
+        "score": -1,
+        "date": "2025-04-30T09:51:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.119,
+          "neutral": 0.777,
+          "positive": 0.104
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.011,
+          "neutral": 0.961,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "trueargie",
+        "comment": "LoL this guys. Spaniards flashed the end of the world.",
+        "score": -1,
+        "date": "2025-04-30T12:38:44",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.891,
+          "neutral": 0.101,
+          "positive": 0.008
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.008,
+          "fear": 0.02,
+          "joy": 0.363,
+          "neutral": 0.555,
+          "sadness": 0.009,
+          "surprise": 0.039
+        }
+      },
+      {
+        "user": "Fun_School1295",
+        "comment": "Totalmente improvisado. 100% real.",
+        "score": -7,
+        "date": "2025-04-29T13:52:27",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.03,
+          "neutral": 0.581,
+          "positive": 0.39
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.301,
+          "neutral": 0.688,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Feeling-News-1766",
+        "comment": "Ridículo",
+        "score": -2,
+        "date": "2025-04-29T20:20:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.156,
+          "neutral": 0.709,
+          "positive": 0.135
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.989,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Tommynwn",
+        "comment": "Espera a que descubran que muchos telefonos ya llevan radio si conectas los audifonos",
+        "score": -6,
+        "date": "2025-04-29T18:32:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.08,
+          "neutral": 0.845,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.978,
+          "sadness": 0.006,
+          "surprise": 0.002
+        }
+      }
+    ],
+    "resumen_mt5": "A continuación, una selección de algunas de las mejores imágenes de la semana."
+  },
+  {
+    "flair": null,
+    "title": "Apagón masivo en toda la Península ibérica, 12:45am (Foto de C.C Vialia, en Vigo)",
+    "author": "Foxter08_",
+    "date": "2025-04-28T11:02:02",
+    "score": 585,
+    "description": "[https://www.eleconomista.es/energia/noticias/13337367/04/25/apagon-en-toda-espana-usuarios-a-lo-largo-de-todo-el-pais-reportan-caidas-en-el-suministro-electrico.html](https://www.eleconomista.es/energia/noticias/13337367/04/25/apagon-en-toda-espana-usuarios-a-lo-largo-de-todo-el-pais-reportan-caidas-en-el-suministro-electrico.html)\n\n[https://www.antena3.com/noticias/economia/ultima-hora-apagon-electrico-espana-todo-que-sabe-ahora\\_20250428680f5ca9e52da91ed5321564.html](https://www.antena3.com/noticias/economia/ultima-hora-apagon-electrico-espana-todo-que-sabe-ahora_20250428680f5ca9e52da91ed5321564.html)",
+    "comments": [
+      {
+        "user": "Fortnait739595958",
+        "comment": "12:45? Yo creo que ha sido algo antes, desde y 35 o asi llevo sin luz",
+        "score": 45,
+        "date": "2025-04-28T11:04:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.086,
+          "neutral": 0.859,
+          "positive": 0.055
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.868,
+          "sadness": 0.002,
+          "surprise": 0.116
+        }
+      },
+      {
+        "user": "Aevum1",
+        "comment": "Niño, apaga el large hadron collider, que estoy intentando ver la tele.",
+        "score": 89,
+        "date": "2025-04-28T11:18:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.037,
+          "neutral": 0.844,
+          "positive": 0.118
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.985,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "acelgoso",
+        "comment": "Tinerfeño here, Luz hay, como era de esperar. Internet me va raro.",
+        "score": 40,
+        "date": "2025-04-28T11:14:39",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.038,
+          "neutral": 0.783,
+          "positive": 0.178
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.003,
+          "fear": 0.004,
+          "joy": 0.022,
+          "neutral": 0.953,
+          "sadness": 0.01,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "fleetingeyes",
+        "comment": "Tips: \n\nDon't open your fridge, your food can last longer this way\n\nUse lanterns or rechargeable flashlights \n\nHelp your elderly neighbor if needed \n\nWait it out, I guess 🫤",
+        "score": 53,
+        "date": "2025-04-28T11:07:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.221,
+          "neutral": 0.577,
+          "positive": 0.202
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.059,
+          "disgust": 0.029,
+          "fear": 0.225,
+          "joy": 0.002,
+          "neutral": 0.661,
+          "sadness": 0.02,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "elferrydavid",
+        "comment": "Aquí en Donosti ha vuelto ya la Luz con normalidad.",
+        "score": 10,
+        "date": "2025-04-28T11:47:48",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.064,
+          "neutral": 0.875,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.988,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "fictionalmen-devotee",
+        "comment": "Alguien sabe cuanto va a durar o tiene alguna idea de lo que dure?",
+        "score": 9,
+        "date": "2025-04-28T11:47:04",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.094,
+          "neutral": 0.857,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.023,
+          "disgust": 0.011,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.948,
+          "sadness": 0.008,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "The_king_of_fu",
+        "comment": "Al parecer también ha afectado a Francia...",
+        "score": 12,
+        "date": "2025-04-28T11:05:39",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.1,
+          "neutral": 0.853,
+          "positive": 0.047
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.008,
+          "neutral": 0.973,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "WolandPT",
+        "comment": "Portugal is completely out of electricity.",
+        "score": 5,
+        "date": "2025-04-28T11:30:20",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.863,
+          "neutral": 0.129,
+          "positive": 0.008
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.059,
+          "disgust": 0.026,
+          "fear": 0.005,
+          "joy": 0.002,
+          "neutral": 0.297,
+          "sadness": 0.603,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Necessary_Status2375",
+        "comment": "Pues entonces fueron mas rapidos de lo que creiamos",
+        "score": 5,
+        "date": "2025-04-28T15:51:20",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.119,
+          "neutral": 0.797,
+          "positive": 0.084
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.001,
+          "fear": 0.005,
+          "joy": 0.002,
+          "neutral": 0.973,
+          "sadness": 0.005,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "ueovrrraaa",
+        "comment": "Either it's a massive software fault like what happened the other day with Windows or it's a hacker attack. I'd say. I live in Madrid and all is out.",
+        "score": 10,
+        "date": "2025-04-28T11:26:10",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.692,
+          "neutral": 0.29,
+          "positive": 0.018
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.016,
+          "disgust": 0.002,
+          "fear": 0.023,
+          "joy": 0.001,
+          "neutral": 0.936,
+          "sadness": 0.01,
+          "surprise": 0.012
+        }
+      },
+      {
+        "user": "Jwhachadoin",
+        "comment": "Tengo amigos en Durango. Me dicen que la luz va volviendo ya.",
+        "score": 3,
+        "date": "2025-04-28T14:24:07",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.036,
+          "neutral": 0.827,
+          "positive": 0.136
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.01,
+          "disgust": 0.004,
+          "fear": 0.017,
+          "joy": 0.005,
+          "neutral": 0.934,
+          "sadness": 0.029,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "CapitanPicardo",
+        "comment": "Siempre me lo pregunté. En caso de un corte de energía masivo, ¿todavía hay agua y gas?",
+        "score": 3,
+        "date": "2025-04-28T17:17:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.104,
+          "neutral": 0.839,
+          "positive": 0.058
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.98,
+          "sadness": 0.002,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "No-Cod-8727",
+        "comment": "Alguien sabe el motivo por el que se ha ido? Creéis que ha sido un ciberataque?",
+        "score": 3,
+        "date": "2025-04-28T20:22:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.138,
+          "neutral": 0.826,
+          "positive": 0.036
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.028,
+          "disgust": 0.006,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.914,
+          "sadness": 0.003,
+          "surprise": 0.044
+        }
+      },
+      {
+        "user": "Necessary_Status2375",
+        "comment": "Ingerencia Rusa?",
+        "score": 9,
+        "date": "2025-04-28T11:35:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.116,
+          "neutral": 0.834,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.983,
+          "sadness": 0.001,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "LgndrySpartn",
+        "comment": "Italia se une a los afectados.",
+        "score": 7,
+        "date": "2025-04-28T11:08:53",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.172,
+          "neutral": 0.762,
+          "positive": 0.066
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.004,
+          "neutral": 0.984,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "PuddingScared903",
+        "comment": "Hard die 2.0",
+        "score": 2,
+        "date": "2025-04-28T11:17:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.283,
+          "neutral": 0.641,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.005,
+          "neutral": 0.984,
+          "sadness": 0.004,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "techbrainceo",
+        "comment": "Vodafone, no ha cogido ni el aire en todas las horas que ha durado, mientras que orange sí. De hecho,  ya ha vuelto todo aquí menos vodafone.",
+        "score": 2,
+        "date": "2025-04-28T18:09:54",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.632,
+          "positive": 0.093
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.013,
+          "fear": 0.003,
+          "joy": 0.011,
+          "neutral": 0.942,
+          "sadness": 0.018,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Far-Finger-584",
+        "comment": "Barrio de las rosas, ya hay wifi",
+        "score": 2,
+        "date": "2025-04-28T20:05:42",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.078,
+          "neutral": 0.819,
+          "positive": 0.103
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.992,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Beneficial_Fee5678",
+        "comment": "No hay que descartar ninguna posibilidad!\n\n[https://social.mtdv.me/articles/how-ufo-spaceship-could-suck-electricity-from-power-network](https://social.mtdv.me/articles/how-ufo-spaceship-could-suck-electricity-from-power-network)",
+        "score": 2,
+        "date": "2025-04-28T21:29:19",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.63,
+          "neutral": 0.339,
+          "positive": 0.031
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.158,
+          "disgust": 0.207,
+          "fear": 0.005,
+          "joy": 0.038,
+          "neutral": 0.497,
+          "sadness": 0.086,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Zealousideal_Luck618",
+        "comment": "Eso es horrible. Espero que la energía se restablezca pronto.",
+        "score": 2,
+        "date": "2025-04-28T22:04:47",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.919,
+          "neutral": 0.073,
+          "positive": 0.008
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.616,
+          "fear": 0.04,
+          "joy": 0.005,
+          "neutral": 0.099,
+          "sadness": 0.236,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Carlitos2006344",
+        "comment": "Por fin alguien lo dice bien, eso solo afectó a la península ibérica. Es como los envíos: enviamos a toda España excepto canarias, pues ahora enviamos luz a canarias excepto la península 😂😂😂",
+        "score": 2,
+        "date": "2025-04-28T23:34:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.105,
+          "neutral": 0.745,
+          "positive": 0.15
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.005,
+          "fear": 0.003,
+          "joy": 0.011,
+          "neutral": 0.955,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "haerinzuu",
+        "comment": "Por la parte de Andalucía donde estoy aún nada. Milagrosamente digi funciona, pero vodafone que es el que tienen mis padres nada. 🥲",
+        "score": 2,
+        "date": "2025-04-28T23:44:35",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.012,
+          "neutral": 0.349,
+          "positive": 0.638
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.01,
+          "fear": 0.004,
+          "joy": 0.005,
+          "neutral": 0.961,
+          "sadness": 0.009,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "joecolgate",
+        "comment": "Non nuclear Emp attack ? Or solar winds ?",
+        "score": 2,
+        "date": "2025-04-29T00:50:36",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.12,
+          "neutral": 0.859,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.001,
+          "fear": 0.04,
+          "joy": 0.002,
+          "neutral": 0.894,
+          "sadness": 0.006,
+          "surprise": 0.041
+        }
+      },
+      {
+        "user": "Routine_Inspector122",
+        "comment": "Fue a :33",
+        "score": 2,
+        "date": "2025-04-29T10:57:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.039,
+          "neutral": 0.797,
+          "positive": 0.164
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "[deleted]",
+        "score": 4,
+        "date": "2025-04-28T11:24:10",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.652,
+          "positive": 0.072
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Emotional_Radio_88",
+        "comment": "murcia igual...sin luz o informacion, lo normal...2 horas despues..",
+        "score": 2,
+        "date": "2025-04-28T12:13:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.107,
+          "neutral": 0.818,
+          "positive": 0.075
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.002,
+          "fear": 0.01,
+          "joy": 0.016,
+          "neutral": 0.925,
+          "sadness": 0.032,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Foxter08_",
+        "comment": "The Sun's report on this accident, on english, without paywall: [https://12ft.io/https://www.the-sun.com/news/14119783/spain-portugal-power-cuts-internet/](https://12ft.io/https://www.the-sun.com/news/14119783/spain-portugal-power-cuts-internet/)\n\n  \nLa noticia de antena 3, sin paywall: [https://12ft.io/https://www.antena3.com/noticias/economia/ultima-hora-apagon-electrico-espana-todo-que-sabe-ahora\\_20250428680f5ca9e52da91ed5321564.html](https://12ft.io/https://www.antena3.com/noticias/economia/ultima-hora-apagon-electrico-espana-todo-que-sabe-ahora_20250428680f5ca9e52da91ed5321564.html)",
+        "score": 1,
+        "date": "2025-04-28T11:11:43",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.259,
+          "neutral": 0.692,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.001,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.975,
+          "sadness": 0.005,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "SUPERBRUN0_55",
+        "comment": "yo estaba de excursión, vengo volviendo para Galicia, todo dios esta hablando de su situacion, yo esque estoy en bus no vi nada, pero las noticias dieron algo de liedo.",
+        "score": 1,
+        "date": "2025-04-28T11:57:36",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.156,
+          "neutral": 0.775,
+          "positive": 0.069
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.022,
+          "disgust": 0.017,
+          "fear": 0.008,
+          "joy": 0.005,
+          "neutral": 0.913,
+          "sadness": 0.033,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "lilshadow6",
+        "comment": "se sabe algo de cuando volverá ?",
+        "score": 1,
+        "date": "2025-04-28T13:14:29",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.1,
+          "neutral": 0.824,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.003,
+          "fear": 0.006,
+          "joy": 0.001,
+          "neutral": 0.956,
+          "sadness": 0.006,
+          "surprise": 0.021
+        }
+      },
+      {
+        "user": "txobi",
+        "comment": "Aqui en Euskadi ya ha vuelto la luz en la mayoria de lugares",
+        "score": 1,
+        "date": "2025-04-28T13:48:49",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.053,
+          "neutral": 0.898,
+          "positive": 0.049
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.005,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "craybest",
+        "comment": "Acá en BCN aún no hay luz. Al menos hay datos ahora",
+        "score": 1,
+        "date": "2025-04-28T15:19:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.209,
+          "neutral": 0.741,
+          "positive": 0.05
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "MPizarnik",
+        "comment": "Ha vuelto la luz en mi piso en Barcelona, pero parece que aún vuelve en toda la ciudad (curiosamente en el Burger King cerca de casa volvió hace como dos horas)",
+        "score": 1,
+        "date": "2025-04-28T16:26:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.026,
+          "neutral": 0.786,
+          "positive": 0.188
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.007,
+          "neutral": 0.972,
+          "sadness": 0.008,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Proper-Photograph-76",
+        "comment": "Valladolid ya con luz",
+        "score": 1,
+        "date": "2025-04-28T16:36:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.058,
+          "neutral": 0.818,
+          "positive": 0.124
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.988,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "0liverus",
+        "comment": "Ya ha vuelto en España?",
+        "score": 1,
+        "date": "2025-04-28T18:19:37",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.069,
+          "neutral": 0.889,
+          "positive": 0.042
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.031,
+          "neutral": 0.955,
+          "sadness": 0.001,
+          "surprise": 0.011
+        }
+      },
+      {
+        "user": "Heavy-Conversation12",
+        "comment": "12:45pm, no am",
+        "score": 1,
+        "date": "2025-04-28T22:03:46",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.078,
+          "neutral": 0.794,
+          "positive": 0.128
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.978,
+          "sadness": 0.007,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "arbus380",
+        "comment": "Eso de las 12.45 am es de madrugada no? Por que el corte fue a las 12.30-35 pm",
+        "score": 1,
+        "date": "2025-04-29T07:35:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.099,
+          "neutral": 0.863,
+          "positive": 0.038
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.005,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.931,
+          "sadness": 0.004,
+          "surprise": 0.043
+        }
+      },
+      {
+        "user": "grural",
+        "comment": "Always have a box battery, fm radio,flashlight, Canned food, and water, 2 powerbanks, and a gascooker.\nI learned that, years ago. belive me, some day you need it.",
+        "score": 1,
+        "date": "2025-04-29T08:17:25",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.088,
+          "neutral": 0.612,
+          "positive": 0.3
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.1,
+          "neutral": 0.884,
+          "sadness": 0.006,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "sisifodeefira",
+        "comment": "Pues no me enteré. Sería en las ciudades.",
+        "score": 1,
+        "date": "2025-04-29T10:30:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.16,
+          "neutral": 0.746,
+          "positive": 0.095
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.003,
+          "joy": 0.005,
+          "neutral": 0.979,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Bubbly-Sand-6914",
+        "comment": "A mí se me fueron los datos, la wifi y todo y no me atrevía a salir. Se sintió super raro. No salí al gran vía ni nada pero me pareció pensar que... Para las pertas automáticas y ese rollo... Se quedarían atrapados unos cuantos. Y las neveras? Ni abrirlas, que se conservara el frío. No deberia haber pasado, pero bueno, ya tenemos energía.",
+        "score": 1,
+        "date": "2025-04-29T10:31:46",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.176,
+          "neutral": 0.715,
+          "positive": 0.109
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.044,
+          "disgust": 0.004,
+          "fear": 0.035,
+          "joy": 0.088,
+          "neutral": 0.785,
+          "sadness": 0.038,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "CYBER-POLLO",
+        "comment": "Ok, pero porque tengo wifi?",
+        "score": 1,
+        "date": "2025-04-28T11:24:04",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.131,
+          "neutral": 0.793,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.98,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "yasserbits21",
+        "comment": "Eso es culpa de la mega ultra extrema derecha",
+        "score": 1,
+        "date": "2025-04-28T15:25:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.113,
+          "neutral": 0.808,
+          "positive": 0.079
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.989,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Necessary_Status2375",
+        "comment": "Hola",
+        "score": 1,
+        "date": "2025-04-28T11:35:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.217,
+          "neutral": 0.515,
+          "positive": 0.268
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.118,
+          "neutral": 0.871,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "AlternativeTurn2813",
+        "comment": "Un día normal en Puerto Rico.Esto pasa a cada rato..🇵🇷",
+        "score": 0,
+        "date": "2025-04-28T16:52:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.069,
+          "neutral": 0.821,
+          "positive": 0.11
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.028,
+          "disgust": 0.007,
+          "fear": 0.037,
+          "joy": 0.011,
+          "neutral": 0.895,
+          "sadness": 0.021,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "T1misk",
+        "comment": "Madrid, Andalucía y Extremadura han pedido que se encargue otro\n\nOjo a la jugada del PP dejando los marrones al gobierno, eso a la hora de votar se puede notar, que elegir a unos que solo están para las buenas no tiene sentido",
+        "score": 0,
+        "date": "2025-04-28T17:19:19",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.145,
+          "neutral": 0.776,
+          "positive": 0.079
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.054,
+          "disgust": 0.034,
+          "fear": 0.012,
+          "joy": 0.012,
+          "neutral": 0.864,
+          "sadness": 0.023,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Frank-Wasser",
+        "comment": "Eso es El resultado anti nuclear de Sanchez...",
+        "score": -11,
+        "date": "2025-04-28T12:05:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.294,
+          "neutral": 0.674,
+          "positive": 0.032
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.005,
+          "fear": 0.002,
+          "joy": 0.004,
+          "neutral": 0.973,
+          "sadness": 0.006,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "NotInNewYorkBlues",
+        "comment": "No tengo luz, ni agua, no puedo comprar comida los tiendas y restaurantes cerrados y le dice queda a casa con calma. 6-10 horas para recuperar a electricidad. Vaya.",
+        "score": 0,
+        "date": "2025-04-28T15:27:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.105,
+          "neutral": 0.795,
+          "positive": 0.1
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.002,
+          "fear": 0.004,
+          "joy": 0.004,
+          "neutral": 0.981,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Unfair-Frame9096",
+        "comment": "As alucinante que Ayuso todavía no haya dimitido.",
+        "score": 0,
+        "date": "2025-04-28T20:01:44",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.204,
+          "neutral": 0.735,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.004,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.978,
+          "sadness": 0.008,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "peperojanmendez",
+        "comment": "Gracias Pedrito, no habías complicado suficientemente la situación en el país, que hasta eres incapaz de mantener seguro el suministro energético en tu propio país, dejando al descubierto hospitales, semáforos en las grandes ciudades pero dando luz verde a los saqueadores para que cuando caiga la noche campen a sus anchas.",
+        "score": -34,
+        "date": "2025-04-28T11:49:05",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.115,
+          "neutral": 0.771,
+          "positive": 0.113
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.006,
+          "fear": 0.004,
+          "joy": 0.004,
+          "neutral": 0.954,
+          "sadness": 0.017,
+          "surprise": 0.001
+        }
+      }
+    ],
+    "resumen_mt5": "El economista de la Universidad Autónoma de Santiago de Compostela, José Luis Martínez, se encuentra en el escenario de un apagón masivo en toda la Península ibérica."
+  },
+  {
+    "flair": null,
+    "title": "Qué barbaridad",
+    "author": "Rxge447",
+    "date": "2025-04-27T16:42:30",
+    "score": 244,
+    "description": "Día insuperable - las cosas simples son las mejores",
+    "comments": [
+      {
+        "user": "heyheyitsandre",
+        "comment": "Haré cosas malas para un poco de fuet ahora. Le echo de menos comida española",
+        "score": 30,
+        "date": "2025-04-27T16:51:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.095,
+          "neutral": 0.839,
+          "positive": 0.066
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.007,
+          "neutral": 0.982,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "EspKevin",
+        "comment": "Mira al millonario presumiendo",
+        "score": 50,
+        "date": "2025-04-27T17:44:22",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.098,
+          "neutral": 0.791,
+          "positive": 0.111
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.984,
+          "sadness": 0.001,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Xrsyz",
+        "comment": "Te falta el diario, un café, y que te den un buen masaje.",
+        "score": 14,
+        "date": "2025-04-27T16:59:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.053,
+          "neutral": 0.811,
+          "positive": 0.135
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.006,
+          "fear": 0.002,
+          "joy": 0.024,
+          "neutral": 0.96,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "QuevedoDeMalVino",
+        "comment": "¿Ese es el bocadillo de Paco Roncero? Fue muy difícil capturarlo, ¿verdad?",
+        "score": 10,
+        "date": "2025-04-27T17:02:03",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.233,
+          "neutral": 0.713,
+          "positive": 0.055
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.009,
+          "fear": 0.012,
+          "joy": 0.005,
+          "neutral": 0.943,
+          "sadness": 0.005,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "Glass_Ad8189",
+        "comment": "leche ? que barbaridad. mínimo una cruz campo.",
+        "score": 9,
+        "date": "2025-04-27T17:29:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.168,
+          "neutral": 0.789,
+          "positive": 0.043
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.013,
+          "fear": 0.016,
+          "joy": 0.051,
+          "neutral": 0.897,
+          "sadness": 0.009,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Antonerys",
+        "comment": "Felicidad",
+        "score": 8,
+        "date": "2025-04-27T16:59:33",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.17,
+          "neutral": 0.631,
+          "positive": 0.2
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.991,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Legitimate-Use691",
+        "comment": "Salud",
+        "score": 7,
+        "date": "2025-04-27T17:14:19",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.16,
+          "neutral": 0.544,
+          "positive": 0.297
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.987,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Yanky94",
+        "comment": "Me comía el bocadillo ese ahora de un bocao bien a gusto.",
+        "score": 6,
+        "date": "2025-04-27T17:34:02",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.042,
+          "neutral": 0.824,
+          "positive": 0.134
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.008,
+          "fear": 0.006,
+          "joy": 0.039,
+          "neutral": 0.936,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "jdjoder",
+        "comment": "La buena vida",
+        "score": 4,
+        "date": "2025-04-27T17:25:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.18,
+          "neutral": 0.671,
+          "positive": 0.149
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.025,
+          "neutral": 0.967,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Dependent_Order_7358",
+        "comment": "Y haaaasta mañanaaaaa",
+        "score": 4,
+        "date": "2025-04-27T17:37:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.105,
+          "neutral": 0.794,
+          "positive": 0.101
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.828,
+          "neutral": 0.156,
+          "sadness": 0.002,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Particular_Buy_2498",
+        "comment": "Bon profit",
+        "score": 3,
+        "date": "2025-04-27T18:28:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.095,
+          "neutral": 0.733,
+          "positive": 0.172
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.142,
+          "neutral": 0.837,
+          "sadness": 0.003,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "spewaka",
+        "comment": "Soy muy celoso! De todo los platos!",
+        "score": 3,
+        "date": "2025-04-27T17:23:36",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.037,
+          "neutral": 0.591,
+          "positive": 0.372
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.005,
+          "fear": 0.005,
+          "joy": 0.781,
+          "neutral": 0.165,
+          "sadness": 0.002,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "txivotv",
+        "comment": "Qué me perdí??",
+        "score": 3,
+        "date": "2025-04-27T18:23:31",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.13,
+          "neutral": 0.826,
+          "positive": 0.045
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.035,
+          "disgust": 0.003,
+          "fear": 0.011,
+          "joy": 0.002,
+          "neutral": 0.858,
+          "sadness": 0.001,
+          "surprise": 0.09
+        }
+      },
+      {
+        "user": "cerenir",
+        "comment": "Españita te quiero <3",
+        "score": 2,
+        "date": "2025-04-27T17:21:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.083,
+          "neutral": 0.84,
+          "positive": 0.077
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.003,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.979,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ivancea",
+        "comment": "Quitando lo del medio, looks good!",
+        "score": 2,
+        "date": "2025-04-27T19:07:14",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.023,
+          "positive": 0.975
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.941,
+          "neutral": 0.032,
+          "sadness": 0.0,
+          "surprise": 0.017
+        }
+      },
+      {
+        "user": "pow_gi",
+        "comment": "Ni fumo ni me gustan las bebidas energéticas, pero por lo demás mis dieces.",
+        "score": 2,
+        "date": "2025-04-28T07:05:36",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.198,
+          "neutral": 0.722,
+          "positive": 0.081
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.033,
+          "disgust": 0.013,
+          "fear": 0.003,
+          "joy": 0.01,
+          "neutral": 0.917,
+          "sadness": 0.022,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "James_Redditez",
+        "comment": "Tabaco Pueblo. Prefiero el Camel de liar",
+        "score": 2,
+        "date": "2025-04-27T18:40:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.397,
+          "neutral": 0.569,
+          "positive": 0.034
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.006,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.983,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "mundogen",
+        "comment": "Salud",
+        "score": 1,
+        "date": "2025-04-27T18:33:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.16,
+          "neutral": 0.544,
+          "positive": 0.297
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.003,
+          "fear": 0.0,
+          "joy": 0.004,
+          "neutral": 0.987,
+          "sadness": 0.003,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "semiprowhistle",
+        "comment": "Ni me acordaba que pueblo hacía tabaco industrial",
+        "score": 1,
+        "date": "2025-04-27T18:45:42",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.186,
+          "neutral": 0.769,
+          "positive": 0.044
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.003,
+          "fear": 0.004,
+          "joy": 0.012,
+          "neutral": 0.968,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "praxidemo",
+        "comment": "Totalmente 😊",
+        "score": 1,
+        "date": "2025-04-27T19:21:46",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.1,
+          "positive": 0.897
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.031,
+          "disgust": 0.014,
+          "fear": 0.001,
+          "joy": 0.054,
+          "neutral": 0.892,
+          "sadness": 0.005,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Aevum1",
+        "comment": "Por lo menos no ha quitado la piel al fiet",
+        "score": 1,
+        "date": "2025-04-27T19:29:03",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.189,
+          "neutral": 0.755,
+          "positive": 0.056
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.016,
+          "disgust": 0.082,
+          "fear": 0.002,
+          "joy": 0.039,
+          "neutral": 0.83,
+          "sadness": 0.03,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "morcille",
+        "comment": "Viva el costumbrismo!",
+        "score": 1,
+        "date": "2025-04-27T20:19:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.046,
+          "neutral": 0.567,
+          "positive": 0.387
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.839,
+          "neutral": 0.132,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "Sylphadora",
+        "comment": "Me quedo con la opción número 3",
+        "score": 1,
+        "date": "2025-04-27T21:35:41",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.034,
+          "neutral": 0.871,
+          "positive": 0.095
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.002,
+          "fear": 0.007,
+          "joy": 0.02,
+          "neutral": 0.934,
+          "sadness": 0.016,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "youwontfindmyname",
+        "comment": "Picos con fuet. \n\nPerfecto.",
+        "score": 1,
+        "date": "2025-04-28T00:48:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.074,
+          "neutral": 0.744,
+          "positive": 0.182
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.003,
+          "fear": 0.005,
+          "joy": 0.088,
+          "neutral": 0.894,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Throwaway020769",
+        "comment": "Mmm",
+        "score": 1,
+        "date": "2025-04-28T01:39:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.223,
+          "neutral": 0.562,
+          "positive": 0.215
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Ceferosky",
+        "comment": "Yo habría partido el fuet con los dientes.",
+        "score": 1,
+        "date": "2025-04-28T05:17:38",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.087,
+          "neutral": 0.82,
+          "positive": 0.094
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.006,
+          "fear": 0.002,
+          "joy": 0.012,
+          "neutral": 0.953,
+          "sadness": 0.012,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Kayzokun",
+        "comment": "Me mudé hace unos años a este pueblo, y no tengo ningún buen banco de parque cerca, smh. Tengo una parada de bus bastante maja, pero no es lo mismo, no es un banco de parque…",
+        "score": 1,
+        "date": "2025-04-28T05:36:09",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.219,
+          "neutral": 0.7,
+          "positive": 0.081
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.051,
+          "fear": 0.044,
+          "joy": 0.016,
+          "neutral": 0.844,
+          "sadness": 0.024,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "Y el canuto de postre xD",
+        "score": 1,
+        "date": "2025-04-28T09:11:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.023,
+          "neutral": 0.768,
+          "positive": 0.209
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.0,
+          "fear": 0.0,
+          "joy": 0.022,
+          "neutral": 0.971,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Titus1928",
+        "comment": "¿La asus vivo book es como una macbook versión asus?",
+        "score": 1,
+        "date": "2025-04-28T16:36:08",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.059,
+          "neutral": 0.897,
+          "positive": 0.044
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.98,
+          "sadness": 0.001,
+          "surprise": 0.012
+        }
+      },
+      {
+        "user": "imsakito",
+        "comment": "Eres un disfrutón, me mola tu rollo",
+        "score": 1,
+        "date": "2025-04-28T18:50:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.163,
+          "neutral": 0.771,
+          "positive": 0.066
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.007,
+          "fear": 0.011,
+          "joy": 0.08,
+          "neutral": 0.883,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Educational_Set_49",
+        "comment": "Talcual",
+        "score": 1,
+        "date": "2025-04-29T05:08:50",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.236,
+          "neutral": 0.603,
+          "positive": 0.161
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.006,
+          "neutral": 0.986,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "theFakingtrasher",
+        "comment": "Bruhh la Besto rutina ✨️",
+        "score": 1,
+        "date": "2025-04-29T06:13:04",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.355,
+          "positive": 0.642
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.001,
+          "fear": 0.01,
+          "joy": 0.195,
+          "neutral": 0.781,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      }
+    ],
+    "resumen_mt5": "¿Qué me pasó a mi pueblo?"
+  },
+  {
+    "flair": null,
+    "title": "Me rechazaron el pago con tarjeta en un bar de Cudillero y terminé llamando a la Guardia Civil 😂",
+    "author": "YolaGod",
+    "date": "2025-04-27T07:59:12",
+    "score": 161,
+    "description": "Hola, gente!\n\nEstoy pasando unos días en Cudillero, un pueblito muy chulo del norte, y tengo que contaros algo que me pasó. Siempre llevo algo de efectivo para evitar líos, pero un día fui a un bar a pedir una bebida y un agua, 6 euros en total. Intento pagar con la tarjeta y el camarero me dice que no aceptan tarjeta para pagos tan pequeños. [Detrás de él había unos 5 como estos de última generación](https://rddit.org/vxewyl). Así que intente insistir, pero nada.\n\nEn ese momento no tenía más dinero en efectivo, así que me quedé pensativo. Y pensé: “¿Por qué no?” Así que llamé a la Guardia Civil para ver qué podían hacer. En 15 minutos estaban allí, hablaron con el camarero un rato y en 10 minutos ya tenía la confirmación de que le pusieron una multa por no aceptar el pago con tarjeta. ¡Impresionante lo rápido que reaccionaron!\n\nSi alguna vez os pasa algo parecido, no dudéis en llamar al 062. Fueron muy amables y resolvieron todo al instante.",
+    "comments": [
+      {
+        "user": "Eyelbo",
+        "comment": "Hay que explicar las cosas bien. No es obligatorio que te dejen pagar con tarjeta. La única condición es que tengan un cartel avisándolo.\n\nEstán obligados a ofrecer una alternativa al efectivo sólo para pagos superiores a 30€, y para pagos superiores a 30€ tampoco están obligados a aceptar tarjeta, pero sí una alternativa que podría ser Bizum, transferencia, u otra alternativa.\n\nPueden rechazar la tarjeta para pagos inferiores a 30€ si ponen un cartel que lo indique. Tampoco están obligados a tener datáfono.\n\nSi les multaron sería por no poner un cartel avisando del pago mínimo con tarjeta, eso o te dijeron que les iban a multar para que te vayas contento y quede ahí la cosa y luego a lo mejor no hicieron nada.",
+        "score": 65,
+        "date": "2025-04-28T07:33:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.166,
+          "neutral": 0.77,
+          "positive": 0.065
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.008,
+          "fear": 0.002,
+          "joy": 0.009,
+          "neutral": 0.957,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Unusual_Coffee4439",
+        "comment": "En clínicas de psicología me lo han hecho, hacerme pagar 50€ en efectivo con excusas, no sabía que era ilegal, bueno saberlo porque no me hace ni puñetera gracia cargar con la pasta en el bolsillo",
+        "score": 57,
+        "date": "2025-04-28T05:57:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.167,
+          "neutral": 0.751,
+          "positive": 0.082
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.026,
+          "disgust": 0.015,
+          "fear": 0.01,
+          "joy": 0.043,
+          "neutral": 0.888,
+          "sadness": 0.017,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ranini82",
+        "comment": "Yo pago con tarjeta el pan , no digo más .\nLas comisiones son irrisorias , si en un sitio no me aceptan la tarjeta le digo vale cóbrame la comisión y arreando .. ah no que donde no aceptan tarjeta en realidad ya sabemos por qué es ..",
+        "score": 33,
+        "date": "2025-04-28T06:42:31",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.212,
+          "neutral": 0.729,
+          "positive": 0.059
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.042,
+          "disgust": 0.031,
+          "fear": 0.016,
+          "joy": 0.006,
+          "neutral": 0.851,
+          "sadness": 0.052,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Bassura",
+        "comment": "Gente, los que rechazan pagos con tarjetas es sobre todo para tener dinero en negro y evitar pagar impuestos. No os creéis el cuento de las comisiones del banco.",
+        "score": 133,
+        "date": "2025-04-28T05:41:56",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.176,
+          "neutral": 0.761,
+          "positive": 0.064
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.034,
+          "disgust": 0.022,
+          "fear": 0.004,
+          "joy": 0.006,
+          "neutral": 0.925,
+          "sadness": 0.009,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Cekan14",
+        "comment": "¿Alguien sabría decirme cuál es la Ley en base a la cual el establecimiento fue sancionado?",
+        "score": 11,
+        "date": "2025-04-28T06:50:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.142,
+          "neutral": 0.821,
+          "positive": 0.036
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.005,
+          "fear": 0.006,
+          "joy": 0.001,
+          "neutral": 0.946,
+          "sadness": 0.004,
+          "surprise": 0.02
+        }
+      },
+      {
+        "user": "Kurainuz",
+        "comment": "6 euros por una bebida y un agua? Como asturiano me jode ver como mi comunidad se esta volviendo a pocos santapola/mallorca con los alquileres disparandose y los precios de comida lo mismo mientras hacemos foco en el turismo con el trabajo precario.\n\nComo cliente haces bien en reclamar, si no habia cartel de pago en efectivo obligatorio y te lo exigen.\n\nPuede parecer una tonteria y para muchos que jode a un negocio pequeño, pero aqui el que hizo mal fue el restaurante en no poner un folio plastificado a la entrada del bar o avisar antes de la consumición y luego exigir no teniendo la razón. \n\nEs tan sencillo como eso, poner el folio, nadie les obliga a admitir pago por tarjeta pero tiene que haber un sitio visible que avise de ello\n\n\nPor cierto op, tu enlace me pone que es de AliExpress y peligroso cuidado con ello que si te detecta como peligrosos los links reddit te puede calzar la cuenta",
+        "score": 7,
+        "date": "2025-04-28T09:41:26",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.118,
+          "neutral": 0.807,
+          "positive": 0.075
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.003,
+          "fear": 0.01,
+          "joy": 0.009,
+          "neutral": 0.951,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Li15ares",
+        "comment": "Que mal envejece este post, si algo ha demostrado el día de hoy es lo bueno que es el efectivo",
+        "score": 6,
+        "date": "2025-04-28T22:44:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.1,
+          "neutral": 0.8,
+          "positive": 0.099
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.026,
+          "disgust": 0.015,
+          "fear": 0.003,
+          "joy": 0.013,
+          "neutral": 0.935,
+          "sadness": 0.006,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "fuzzyaperture",
+        "comment": "Dame una 1906 aver si llegamos a 10 y estamos todos contentos….",
+        "score": 3,
+        "date": "2025-04-28T11:49:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.068,
+          "neutral": 0.869,
+          "positive": 0.063
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.016,
+          "disgust": 0.003,
+          "fear": 0.012,
+          "joy": 0.008,
+          "neutral": 0.925,
+          "sadness": 0.035,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "cesarmaximo91",
+        "comment": "Te felicito, hoy en día la gente está dormida, van en automático y hacen la vista gorda ante injusticias, especialmente en el tema vial, protección de datos en sitios como hoteles y en maltrato a los trabajadores en restaurantes y hoteles.\n\nHacer cumplir la ley no debería verse como algo antinatural.",
+        "score": 16,
+        "date": "2025-04-28T05:36:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.084,
+          "neutral": 0.817,
+          "positive": 0.099
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.033,
+          "disgust": 0.013,
+          "fear": 0.004,
+          "joy": 0.013,
+          "neutral": 0.923,
+          "sadness": 0.013,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "OMG_Abaddon",
+        "comment": "Menuda batalla campal en los comentarios.\n\nA ver, alguien sabe EXACTAMENTE el pago que tiene que hacer un comercio por un cobro con tarjeta? Yo no soy experto en el tema asi que esto cogedlo con pinzas, pero [el Banco de España dice que las comisiones del banco por una transacción por debajo de los 20€ son entre el 0.1% para tarjeta de debito y 0.2% para tarjeta de credito, y para mas de 20€ tienen un limite de 7 centimos.](https://www.bde.es/wbe/es/entidades-profesionales/supervisadas/informacion-publica-entidades-supervisadas/tasas-intercambio-descuento/)\n\nDicho esto, si hacemos las matematicas basicas, el 0.1% de 6€ son 0.006€, es decir algo mas de medio centimo, el doble si paga con tarjeta de credito. Si no me he colado por ningun lado, el \"pobre\" negocio ha perdido un centimo entero aproximadamente... No se como llegaran a final de mes :'(\n\nPor favor, que alguien confirme o desmienta con la informacion relevante, para que veamos todos realmente el perjuicio al negocio por pagar con tarjeta, ya que nadie da nunca datos y me parece que a estas alturas las opiniones tanto a favor como en contra de pagar con tarjeta son una tesis en cuñadismo.",
+        "score": 7,
+        "date": "2025-04-28T09:02:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.167,
+          "neutral": 0.771,
+          "positive": 0.062
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.023,
+          "disgust": 0.005,
+          "fear": 0.006,
+          "joy": 0.008,
+          "neutral": 0.953,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Javi_DR1",
+        "comment": "Muchas veces dicen que el datáfono no les está funcionando, aceptas pagar en efectivo pero que te haga factura y de repente el datáfono funciona...\n\nO alguna vez en un hostal me han dicho que 25€ en efectivo o 28 con tarjeta",
+        "score": 2,
+        "date": "2025-04-28T08:39:02",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.161,
+          "neutral": 0.787,
+          "positive": 0.051
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.01,
+          "fear": 0.008,
+          "joy": 0.009,
+          "neutral": 0.943,
+          "sadness": 0.013,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "francoteniarazon88",
+        "comment": "Has usado los recursos de un estado policial para que los bancos se hagan mas ricos con comisiones muy bien goyim cattle",
+        "score": 2,
+        "date": "2025-04-29T06:22:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.126,
+          "neutral": 0.833,
+          "positive": 0.041
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.003,
+          "fear": 0.004,
+          "joy": 0.003,
+          "neutral": 0.966,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "nadie1982",
+        "comment": "Yo voy a montar un negocio...y no voy aceptar pago con tarjeta,ni bizum ni ostias....ya está bien de tener que estar regalando dinero a los bancos...de cada 100 euros.cobrados en datáfono,10 € se lleva el banco en comisiones...",
+        "score": 2,
+        "date": "2025-04-29T17:03:19",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.153,
+          "neutral": 0.785,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.039,
+          "disgust": 0.004,
+          "fear": 0.012,
+          "joy": 0.136,
+          "neutral": 0.782,
+          "sadness": 0.019,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "sp34k-b1tch",
+        "comment": "average pisapraos behaviour",
+        "score": 6,
+        "date": "2025-04-28T09:06:01",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.443,
+          "neutral": 0.536,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.01,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.979,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Altruistic-Rich-4324",
+        "comment": "Muy bien, le jodiste horas productivas a una pyme por 6€, desperdiciaste los recursos de la guardia civil haciéndoles ir por semejante chorrada y encima te ríes de la posible multa que les hayan podido poner. Dice bastante de ti.",
+        "score": 8,
+        "date": "2025-04-28T09:48:58",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.097,
+          "neutral": 0.809,
+          "positive": 0.094
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.011,
+          "neutral": 0.967,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Affectionate-Set4208",
+        "comment": "Podias resolverlo con un bizum",
+        "score": 2,
+        "date": "2025-04-28T05:08:22",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.083,
+          "neutral": 0.823,
+          "positive": 0.094
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.004,
+          "joy": 0.003,
+          "neutral": 0.983,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "CaquetaSpace",
+        "comment": "Hay que ser cabrón para hacer eso, y más por 6 cochinos euros",
+        "score": 2,
+        "date": "2025-04-28T08:20:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.068,
+          "neutral": 0.834,
+          "positive": 0.099
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.975,
+          "sadness": 0.004,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "iwkuniavis",
+        "comment": "En Cudillero hay cajeros de todos los bancos. \n\nLa verdad que hacer eso, en mi opinión, es de ser un cretino.",
+        "score": -5,
+        "date": "2025-04-28T05:38:53",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.158,
+          "neutral": 0.772,
+          "positive": 0.07
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.009,
+          "fear": 0.007,
+          "joy": 0.003,
+          "neutral": 0.96,
+          "sadness": 0.008,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Rodthehuman",
+        "comment": "Vamos a joder a un bar pequeño y publicarlo online, por qué no?",
+        "score": 4,
+        "date": "2025-04-28T08:54:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.09,
+          "neutral": 0.849,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.024,
+          "disgust": 0.013,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.95,
+          "sadness": 0.005,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "Lez0fire",
+        "comment": "A mí que hagas eso a un pequeño negocio y no solo eso sino que lo vengas a contar orgulloso en un foro solo me demuestra la mierda de persona que eres.",
+        "score": -3,
+        "date": "2025-04-28T05:58:43",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.11,
+          "neutral": 0.813,
+          "positive": 0.078
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.026,
+          "disgust": 0.026,
+          "fear": 0.012,
+          "joy": 0.036,
+          "neutral": 0.829,
+          "sadness": 0.07,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "KnockedSphere51",
+        "comment": "Por qué no pagaste 10 o algo y te dan 4 en cambio?🤨",
+        "score": 1,
+        "date": "2025-04-29T13:58:52",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.117,
+          "neutral": 0.847,
+          "positive": 0.037
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.026,
+          "disgust": 0.007,
+          "fear": 0.011,
+          "joy": 0.008,
+          "neutral": 0.939,
+          "sadness": 0.003,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "El_Pato_Darwin",
+        "comment": "Yo suelo preguntar antes si puedo pagar con tarjeta. Normalmente me ofrecen una alternativa si no tienen datáfono y yo no llevo efectivo.",
+        "score": 1,
+        "date": "2025-04-29T18:07:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.126,
+          "neutral": 0.771,
+          "positive": 0.102
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.049,
+          "disgust": 0.012,
+          "fear": 0.005,
+          "joy": 0.007,
+          "neutral": 0.901,
+          "sadness": 0.025,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Toripraw",
+        "comment": "Sapo asqueros",
+        "score": 1,
+        "date": "2025-04-30T04:26:59",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.19,
+          "neutral": 0.685,
+          "positive": 0.126
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.008,
+          "neutral": 0.986,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "_jb2023_",
+        "comment": "A ver si hacéis lo mismo con los sitios que no aceptan pagos en efectivo.",
+        "score": 1,
+        "date": "2025-04-30T19:53:39",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.143,
+          "neutral": 0.799,
+          "positive": 0.058
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.033,
+          "disgust": 0.005,
+          "fear": 0.004,
+          "joy": 0.003,
+          "neutral": 0.943,
+          "sadness": 0.009,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "unmannedMissionTo",
+        "comment": "Ojalá te hubieran multado a ti.",
+        "score": 1,
+        "date": "2025-05-01T09:11:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.132,
+          "neutral": 0.795,
+          "positive": 0.073
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.0,
+          "fear": 0.002,
+          "joy": 0.008,
+          "neutral": 0.983,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "carlospum",
+        "comment": "Típico urbanita que va a los pueblos a dar la nota",
+        "score": -15,
+        "date": "2025-04-28T04:51:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.103,
+          "neutral": 0.835,
+          "positive": 0.062
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.003,
+          "fear": 0.005,
+          "joy": 0.004,
+          "neutral": 0.977,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "emea2020",
+        "comment": "Da mucho asco todo ese personal que interioriza el mensaje del estado bueno y protector y, enfrente los malos malísimos que pagan en efectivo y nos quitan todos esos derechos de happylandia. Creo que estáis muy bien estabulados y seguramente podréis pagar con tarjeta el servicio de vuestros verdugos",
+        "score": 1,
+        "date": "2025-04-30T14:42:51",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.13,
+          "neutral": 0.791,
+          "positive": 0.08
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.006,
+          "fear": 0.004,
+          "joy": 0.013,
+          "neutral": 0.946,
+          "sadness": 0.012,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "kaunaz",
+        "comment": "Espero que estés orgulloso. (/s)\n\nNo sé si lo sabes pero la razón por la que en muchos sitios no aceptan pagos con tarjeta es porque el banco les cobra una comisión. Vamos, que pierden dinero al cobrar algo pequeño con tarjeta. No les merece la pena. En sitios pequeños es muy habitual pagar en metálico. Yo cuando voy a Asturias procuro pagar en metálico todo lo que no suba de 10€. \n\nEn fin, tendrán anécdota que contar durante años, pero el pobre camarero que solo sigue órdenes lo habrá pasado fatal. Lo siento mucho por él.",
+        "score": -22,
+        "date": "2025-04-28T04:43:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.172,
+          "neutral": 0.738,
+          "positive": 0.09
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.012,
+          "fear": 0.005,
+          "joy": 0.002,
+          "neutral": 0.96,
+          "sadness": 0.007,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ianmcn57",
+        "comment": "Snitch!",
+        "score": -1,
+        "date": "2025-04-28T09:13:16",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.605,
+          "neutral": 0.329,
+          "positive": 0.066
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.851,
+          "disgust": 0.085,
+          "fear": 0.01,
+          "joy": 0.007,
+          "neutral": 0.011,
+          "sadness": 0.001,
+          "surprise": 0.034
+        }
+      },
+      {
+        "user": "francoteniarazon88",
+        "comment": "Algun dia te engancharan del pescuezo y te espabilaran",
+        "score": 0,
+        "date": "2025-04-29T06:18:40",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.086,
+          "neutral": 0.82,
+          "positive": 0.094
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.003,
+          "joy": 0.02,
+          "neutral": 0.964,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      }
+    ],
+    "resumen_mt5": "¿Por qué no aceptan el pago con tarjeta?"
+  },
+  {
+    "flair": null,
+    "title": "Wtf",
+    "author": "Riversyu",
+    "date": "2025-04-28T20:18:02",
+    "score": 72,
+    "description": "…So will there be school tomorrow?",
+    "comments": [
+      {
+        "user": "howtorewriteaname",
+        "comment": "bro is 12 hours late to the party",
+        "score": 173,
+        "date": "2025-04-28T20:30:48",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.515,
+          "neutral": 0.456,
+          "positive": 0.029
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.115,
+          "disgust": 0.008,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.672,
+          "sadness": 0.076,
+          "surprise": 0.126
+        }
+      },
+      {
+        "user": "yoladol",
+        "comment": "Aquí en Alicante acabamos de recuperar todo, señal de móvil y wifi incluídos. Vaya movida",
+        "score": 19,
+        "date": "2025-04-28T22:10:29",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.048,
+          "neutral": 0.832,
+          "positive": 0.12
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.005,
+          "joy": 0.007,
+          "neutral": 0.979,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "OnlytheWinds-",
+        "comment": "Is there an update for Granada? I have friends there and I’m not able to reach out to them for almost 10 hours now",
+        "score": 15,
+        "date": "2025-04-28T21:33:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.791,
+          "neutral": 0.195,
+          "positive": 0.014
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.928,
+          "sadness": 0.017,
+          "surprise": 0.039
+        }
+      },
+      {
+        "user": "Indiscreet_Observer",
+        "comment": "Has it crashed again?",
+        "score": 3,
+        "date": "2025-04-28T20:22:00",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.686,
+          "neutral": 0.302,
+          "positive": 0.012
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.004,
+          "fear": 0.013,
+          "joy": 0.001,
+          "neutral": 0.892,
+          "sadness": 0.04,
+          "surprise": 0.045
+        }
+      },
+      {
+        "user": "SolSparrow",
+        "comment": "No school in Madrid… work however 🫠 I think so.",
+        "score": 3,
+        "date": "2025-04-28T21:44:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.017,
+          "neutral": 0.641,
+          "positive": 0.342
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.015,
+          "fear": 0.009,
+          "joy": 0.003,
+          "neutral": 0.744,
+          "sadness": 0.194,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "SpaceWizard556",
+        "comment": "Que paso?",
+        "score": 2,
+        "date": "2025-04-28T23:49:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.187,
+          "neutral": 0.711,
+          "positive": 0.102
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.986,
+          "sadness": 0.001,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "albatrosxxx",
+        "comment": "Que bonito el tercer mundo 🌍",
+        "score": 2,
+        "date": "2025-04-29T07:03:20",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.019,
+          "neutral": 0.763,
+          "positive": 0.218
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.002,
+          "fear": 0.005,
+          "joy": 0.029,
+          "neutral": 0.946,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "haerinzuu",
+        "comment": "so... does someone know why it happened?",
+        "score": 1,
+        "date": "2025-04-29T01:05:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.169,
+          "neutral": 0.809,
+          "positive": 0.022
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.006,
+          "joy": 0.001,
+          "neutral": 0.676,
+          "sadness": 0.003,
+          "surprise": 0.305
+        }
+      },
+      {
+        "user": "kirmm3la",
+        "comment": "How long the outage lasted?",
+        "score": 1,
+        "date": "2025-04-29T06:19:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.251,
+          "neutral": 0.728,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.004,
+          "fear": 0.004,
+          "joy": 0.0,
+          "neutral": 0.872,
+          "sadness": 0.006,
+          "surprise": 0.107
+        }
+      },
+      {
+        "user": "expatero",
+        "comment": "Wtf, that font size",
+        "score": 1,
+        "date": "2025-04-29T07:22:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.775,
+          "neutral": 0.207,
+          "positive": 0.017
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.067,
+          "disgust": 0.819,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.009,
+          "sadness": 0.003,
+          "surprise": 0.1
+        }
+      },
+      {
+        "user": "Mikinak77",
+        "comment": "It was not fun, but we still go to school today",
+        "score": 1,
+        "date": "2025-04-29T08:07:54",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.82,
+          "neutral": 0.154,
+          "positive": 0.027
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.007,
+          "fear": 0.002,
+          "joy": 0.027,
+          "neutral": 0.65,
+          "sadness": 0.299,
+          "surprise": 0.007
+        }
+      }
+    ],
+    "resumen_mt5": "Ґрунт - щ и м ђи ."
+  }
+]

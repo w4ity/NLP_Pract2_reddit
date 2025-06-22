@@ -1,0 +1,2224 @@
+[
+  {
+    "flair": "Discussion",
+    "title": "What's a trend in movies right now that you wish dies a horrible death?",
+    "author": "Prabu-Silitwangi",
+    "date": "2025-04-28T05:57:49",
+    "score": 10318,
+    "description": "For me it's the uninspiring use of popular songs from the 70s, 80s, 90s, but preferably nirvana. It has to be nirvana if possible. Take the hook, slow it down and drown it in a heavy reverb effects and you just created a masterpiece of cinematical background music because the young audience will think the song is cool and the older ones will like it because it's nostalgic.",
+    "comments": [
+      {
+        "user": "Any-Difficulty-1247",
+        "comment": "please god, have them hire some lighting people and start shooting back on real places and not just in front of green screens",
+        "score": 16324,
+        "date": "2025-04-28T06:14:05",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.415,
+          "neutral": 0.525,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.041,
+          "disgust": 0.022,
+          "fear": 0.032,
+          "joy": 0.009,
+          "neutral": 0.88,
+          "sadness": 0.008,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "AporiaParadox",
+        "comment": "Overinflated budgets that lead to movies needing to make an absurd amount of money just to break even. Indiana Jones and the Dial of Destiny did not need to cost 300 million dollars, especially since it doesn't even look that good, where the hell did all that money go? Was it the 10 minutes of CGI rejuvenated Harrison Ford?",
+        "score": 5321,
+        "date": "2025-04-28T06:15:47",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.781,
+          "neutral": 0.187,
+          "positive": 0.031
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.06,
+          "disgust": 0.043,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.488,
+          "sadness": 0.006,
+          "surprise": 0.396
+        }
+      },
+      {
+        "user": "TonyMontana546",
+        "comment": "The terrible sound mixing",
+        "score": 4028,
+        "date": "2025-04-28T06:16:37",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.897,
+          "neutral": 0.095,
+          "positive": 0.008
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.052,
+          "fear": 0.137,
+          "joy": 0.002,
+          "neutral": 0.042,
+          "sadness": 0.759,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "holman",
+        "comment": "Shit is too dark. Let me watch the thing I paid to watch. I can’t see it.",
+        "score": 5893,
+        "date": "2025-04-28T06:01:27",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.911,
+          "neutral": 0.08,
+          "positive": 0.01
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.575,
+          "fear": 0.097,
+          "joy": 0.008,
+          "neutral": 0.249,
+          "sadness": 0.044,
+          "surprise": 0.019
+        }
+      },
+      {
+        "user": "Snake_Plissken224",
+        "comment": "I wish they would bring back bloopers during the credits in comedies",
+        "score": 4625,
+        "date": "2025-04-28T07:02:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.081,
+          "neutral": 0.667,
+          "positive": 0.251
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.025,
+          "fear": 0.007,
+          "joy": 0.01,
+          "neutral": 0.669,
+          "sadness": 0.268,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "Compass_Needle",
+        "comment": "The sound levels being weird so that you have to turn up the volume for the speaking, but then get blasted by sound-effects 2 seconds later.\n\nHaving to watch a film with the remote control in my hand so I can constantly change the volume is bloody annoying.",
+        "score": 3791,
+        "date": "2025-04-28T07:18:29",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.942,
+          "neutral": 0.051,
+          "positive": 0.008
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.087,
+          "disgust": 0.574,
+          "fear": 0.004,
+          "joy": 0.003,
+          "neutral": 0.28,
+          "sadness": 0.022,
+          "surprise": 0.028
+        }
+      },
+      {
+        "user": "Warm_Shoulder3606",
+        "comment": "Making every antagonist redeemable. What ever happened to a good ole piece of shit villain?",
+        "score": 3286,
+        "date": "2025-04-28T07:00:07",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.816,
+          "neutral": 0.159,
+          "positive": 0.025
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.009,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.975,
+          "sadness": 0.004,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "InFocuus",
+        "comment": "Live remakes of animated classics.",
+        "score": 4159,
+        "date": "2025-04-28T06:12:56",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.039,
+          "neutral": 0.834,
+          "positive": 0.127
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.0,
+          "joy": 0.052,
+          "neutral": 0.941,
+          "sadness": 0.003,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "BlackSpinedPlinketto",
+        "comment": "Action sequence then ‘funny quip’. If something scary happens, the audience should be allowed to feel it, or what’s the point? It makes everything worthless and unrealistic.\n\nAnd also predictable. Not every film needs to be Guardians of the Galaxy.",
+        "score": 1075,
+        "date": "2025-04-28T09:19:04",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.754,
+          "neutral": 0.218,
+          "positive": 0.028
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.017,
+          "disgust": 0.036,
+          "fear": 0.01,
+          "joy": 0.007,
+          "neutral": 0.905,
+          "sadness": 0.023,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "xXCh4r0nXx",
+        "comment": "Remakes of movies that were perfectly fine.\nOverusing jump scares in horror movies.\nMaking everything CG",
+        "score": 239,
+        "date": "2025-04-28T07:37:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.267,
+          "neutral": 0.497,
+          "positive": 0.236
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.025,
+          "joy": 0.006,
+          "neutral": 0.953,
+          "sadness": 0.01,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "ranch_brotendo",
+        "comment": "This isn't as major an issue to me as the question suggests but a minor thing is I kinda wish that movies were less polished than they are now as it feels sterile sometimes. There's a slickness to a lot of movies now where it feels like there's a lack of warmth compared to like 70s 80s 90s to 2000s where they felt more like actors talking slightly awkwardly sometimes or being clumsy or improvising more obviously. Idk",
+        "score": 108,
+        "date": "2025-04-28T08:58:05",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.639,
+          "neutral": 0.319,
+          "positive": 0.042
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.049,
+          "fear": 0.003,
+          "joy": 0.028,
+          "neutral": 0.847,
+          "sadness": 0.071,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "fleekonpoint",
+        "comment": "Trailer starts now",
+        "score": 1539,
+        "date": "2025-04-28T06:05:51",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.058,
+          "neutral": 0.833,
+          "positive": 0.109
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.004,
+          "joy": 0.001,
+          "neutral": 0.98,
+          "sadness": 0.002,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "Postsnobills",
+        "comment": "The theatrical run of anything is so brief that you can’t make time for it, or you’d rather just not bother and wait for streaming.\n\nSure, it doesn’t help that ticket prices and concessions are egregious. Nor does it help that everyone has forgotten how to behave in a communal space…\n\nBut maybe we could crawl back to the before times if the institution of the movie theater mattered more for viewership.",
+        "score": 960,
+        "date": "2025-04-28T06:04:37",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.751,
+          "neutral": 0.216,
+          "positive": 0.032
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.668,
+          "fear": 0.002,
+          "joy": 0.004,
+          "neutral": 0.301,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "IndependenceMean8774",
+        "comment": "Rapid cutting. You can hold a shot for more than a few seconds, you know.\n\nAlso, with rare exceptions, the Dutch angle needs to be consigned to the wastebin of film history.",
+        "score": 485,
+        "date": "2025-04-28T07:11:20",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.282,
+          "neutral": 0.645,
+          "positive": 0.074
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.026,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.956,
+          "sadness": 0.009,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "BuckarooBonsly",
+        "comment": "I have a couple.  \n\nI miss standalone Blockbusters. Not everything needs to have a shared, complex universe. And not everything needs to be part of a huge franchises.  \n\nI miss traditional animation. Like, the old hand drawn 2D animation. Even the stuff done with computers but in the style of hand-drawn animation. Most of the animated movies now just lack character.",
+        "score": 667,
+        "date": "2025-04-28T11:49:08",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.705,
+          "neutral": 0.252,
+          "positive": 0.043
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.013,
+          "disgust": 0.05,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.137,
+          "sadness": 0.794,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "deepinthemosh",
+        "comment": "Diluting all the colours to make it feel more gritty. Let films look like film",
+        "score": 974,
+        "date": "2025-04-28T06:10:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.073,
+          "neutral": 0.642,
+          "positive": 0.285
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.008,
+          "fear": 0.001,
+          "joy": 0.056,
+          "neutral": 0.905,
+          "sadness": 0.027,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Plz_PM_Steam_Keys",
+        "comment": "Everyone looks so fake. I use to not notice people were wearing makeup but now I notice it and everyone looks too perfect.",
+        "score": 499,
+        "date": "2025-04-28T08:22:28",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.606,
+          "neutral": 0.285,
+          "positive": 0.109
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.571,
+          "fear": 0.002,
+          "joy": 0.049,
+          "neutral": 0.34,
+          "sadness": 0.015,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "Yommination",
+        "comment": "Quippy humor in everything",
+        "score": 1380,
+        "date": "2025-04-28T06:40:05",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.076,
+          "neutral": 0.68,
+          "positive": 0.244
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.025,
+          "neutral": 0.965,
+          "sadness": 0.005,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "BonerChamp11",
+        "comment": "Fuckin Multiverses.",
+        "score": 1141,
+        "date": "2025-04-28T06:22:13",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.955,
+          "neutral": 0.038,
+          "positive": 0.007
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.707,
+          "disgust": 0.213,
+          "fear": 0.002,
+          "joy": 0.007,
+          "neutral": 0.05,
+          "sadness": 0.01,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Lemonsweets25",
+        "comment": "Terrible costuming in most period dramas compared to just 20 years ago. I don’t necessarily blame the costume team as I’m sure most of them are very skilled but I think they’re forced to make a lot of costumes with limited time and money. Also the HD filming imo doesn’t work for period dramas and makes the costumes look even worse",
+        "score": 154,
+        "date": "2025-04-28T08:50:06",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.917,
+          "neutral": 0.074,
+          "positive": 0.009
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.71,
+          "fear": 0.011,
+          "joy": 0.004,
+          "neutral": 0.23,
+          "sadness": 0.04,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "T_raltixx",
+        "comment": "Trailers showing too much. \n\nPoor sound mixing so I can't hear what is being said.\n\nNot everything has to be a franchise.",
+        "score": 203,
+        "date": "2025-04-28T06:43:18",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.811,
+          "neutral": 0.174,
+          "positive": 0.015
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.041,
+          "fear": 0.006,
+          "joy": 0.001,
+          "neutral": 0.89,
+          "sadness": 0.049,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "anonymous",
+        "comment": "[deleted]",
+        "score": 1142,
+        "date": "2025-04-28T06:05:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.652,
+          "positive": 0.072
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.982,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "SignificantIsland187",
+        "comment": "I wish we would stop obsessing over character’s trauma and back story to explain everything about them and let them make some interesting decisions that happen purely within the context of the immediate plot.",
+        "score": 653,
+        "date": "2025-04-28T06:04:05",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.185,
+          "neutral": 0.568,
+          "positive": 0.246
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.011,
+          "disgust": 0.011,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.95,
+          "sadness": 0.023,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "rageinthecage666",
+        "comment": "Dialog volume being low while music,action or sex scenes are way too loud, cannot watch a modern movie without the remote ready",
+        "score": 306,
+        "date": "2025-04-28T06:50:30",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.84,
+          "neutral": 0.145,
+          "positive": 0.015
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.019,
+          "fear": 0.002,
+          "joy": 0.013,
+          "neutral": 0.956,
+          "sadness": 0.005,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "smokeyfantastico",
+        "comment": "When it's established IP outside of film, they shoehorn in a random normal person transported to that IP universe so the movie can exposition dump.",
+        "score": 291,
+        "date": "2025-04-28T06:13:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.204,
+          "neutral": 0.72,
+          "positive": 0.076
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.025,
+          "fear": 0.0,
+          "joy": 0.007,
+          "neutral": 0.954,
+          "sadness": 0.002,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "presterkhan",
+        "comment": "I need to hear the dialogue, this is very important.",
+        "score": 67,
+        "date": "2025-04-28T10:08:16",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.023,
+          "neutral": 0.336,
+          "positive": 0.64
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.009,
+          "neutral": 0.981,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "HuaHuzi6666",
+        "comment": "Remakes & franchising. Like sure it’s fun to see a good movie rebooted well/there are good sequels, but so many are just obvious cash grabs.",
+        "score": 619,
+        "date": "2025-04-28T06:00:31",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.216,
+          "neutral": 0.426,
+          "positive": 0.357
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.021,
+          "disgust": 0.019,
+          "fear": 0.001,
+          "joy": 0.022,
+          "neutral": 0.57,
+          "sadness": 0.362,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "debtRiot",
+        "comment": "Slowed down choir versions of 90s songs in trailers. It was cool the first time. It’s just lazy now.",
+        "score": 635,
+        "date": "2025-04-28T06:18:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.222,
+          "neutral": 0.459,
+          "positive": 0.319
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.015,
+          "fear": 0.0,
+          "joy": 0.057,
+          "neutral": 0.918,
+          "sadness": 0.005,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "lamaldo78",
+        "comment": "Flashbacks and time jumping in general. I get that sometimes it's an effective story telling method but I don't need every goddamn movie, TV show hell even adverts do it, to involve a flashback. Especially movies that begin with a shot from the end then the entire movie is basically a flashback up until that point.",
+        "score": 54,
+        "date": "2025-04-28T08:18:07",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.516,
+          "neutral": 0.409,
+          "positive": 0.075
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.318,
+          "disgust": 0.112,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.552,
+          "sadness": 0.009,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "PopCultureWeekly",
+        "comment": "Trailers that give away the entire plot",
+        "score": 94,
+        "date": "2025-04-28T06:50:57",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.807,
+          "neutral": 0.185,
+          "positive": 0.008
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.137,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.811,
+          "sadness": 0.031,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "IwonderifWUT",
+        "comment": "Clicky guns! Guns don't (or aren't supposed to) make noise when moved, and they certainly don't click with multiple trigger pulls when empty. It's my biggest pet peeve with action movies and immediately destroys immersion.",
+        "score": 48,
+        "date": "2025-04-28T06:52:55",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.949,
+          "neutral": 0.046,
+          "positive": 0.005
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.075,
+          "disgust": 0.313,
+          "fear": 0.015,
+          "joy": 0.025,
+          "neutral": 0.543,
+          "sadness": 0.02,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "lukoreta",
+        "comment": "Toning everything down to PG-13 for maximum profit\n\nAnd no, I don't necessarily want everything to be dark, edgy, and R-rated either. Just make the movie as best as it can be and as close to the pitch as possible and then rate it accordingly, especially if it's a IP known to have dark and edgy moments.",
+        "score": 163,
+        "date": "2025-04-28T07:01:17",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.077,
+          "neutral": 0.588,
+          "positive": 0.335
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.012,
+          "fear": 0.002,
+          "joy": 0.005,
+          "neutral": 0.956,
+          "sadness": 0.017,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "reasonableblubird15",
+        "comment": "Everything is a joke. Any time tension is built, or a heavy moment takes place, it's immediately undercut by some lame joke that kills the point of the scene. \n\nIf everything is funny, then nothing is.",
+        "score": 163,
+        "date": "2025-04-28T07:26:33",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.848,
+          "neutral": 0.134,
+          "positive": 0.018
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.075,
+          "disgust": 0.086,
+          "fear": 0.003,
+          "joy": 0.007,
+          "neutral": 0.821,
+          "sadness": 0.006,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "Southernbeekeeper",
+        "comment": "I don't know what the word to describe it is but the constant exposition. It's like every time the scene changes the conversation in the next scene has to recap what just happened. The use of \"news footage\" to do this is also awful. The super hero movies are really bad for this. The recent captain america movie honestly feels like it was written by AI.",
+        "score": 331,
+        "date": "2025-04-28T06:58:28",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.958,
+          "neutral": 0.038,
+          "positive": 0.004
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.949,
+          "fear": 0.005,
+          "joy": 0.001,
+          "neutral": 0.03,
+          "sadness": 0.011,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "MarzipanCheap3685",
+        "comment": "barely audible dialogue + ear splittingly loud action and/or music. especially if the actors are mumbling",
+        "score": 122,
+        "date": "2025-04-28T06:41:12",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.424,
+          "neutral": 0.511,
+          "positive": 0.065
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.048,
+          "fear": 0.008,
+          "joy": 0.002,
+          "neutral": 0.851,
+          "sadness": 0.084,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "CharSmar",
+        "comment": "Trailers being way too long and basically showing the entire movie in condensed form.",
+        "score": 664,
+        "date": "2025-04-28T06:27:52",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.811,
+          "neutral": 0.175,
+          "positive": 0.014
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.068,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.897,
+          "sadness": 0.019,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "TheVyper3377",
+        "comment": "Fight scenes that use shaky cam and excessive jump-cuts. That trend needs to be loaded into a canon and fired into the sun (in one long, steady take).",
+        "score": 402,
+        "date": "2025-04-28T06:00:43",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.436,
+          "neutral": 0.503,
+          "positive": 0.061
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.015,
+          "disgust": 0.068,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.905,
+          "sadness": 0.004,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "kuuups",
+        "comment": "Making remakes of timeless movies. Just fucking create new ones from new stories ffs.",
+        "score": 271,
+        "date": "2025-04-28T06:03:18",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.731,
+          "neutral": 0.228,
+          "positive": 0.042
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.803,
+          "disgust": 0.121,
+          "fear": 0.005,
+          "joy": 0.015,
+          "neutral": 0.037,
+          "sadness": 0.016,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "WalkingCarpet",
+        "comment": "Trying to make a character confident and assertive but they just come off like a smug asshole.",
+        "score": 96,
+        "date": "2025-04-28T06:35:08",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.858,
+          "neutral": 0.129,
+          "positive": 0.013
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.043,
+          "disgust": 0.302,
+          "fear": 0.001,
+          "joy": 0.031,
+          "neutral": 0.592,
+          "sadness": 0.027,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "babybird87",
+        "comment": "The need to bloat an 1 and 45 minute movie to 2 hours 15 minutes..",
+        "score": 98,
+        "date": "2025-04-28T10:12:45",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.244,
+          "neutral": 0.637,
+          "positive": 0.119
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.469,
+          "fear": 0.003,
+          "joy": 0.005,
+          "neutral": 0.472,
+          "sadness": 0.026,
+          "surprise": 0.007
+        }
+      },
+      {
+        "user": "TappyMauvendaise",
+        "comment": "Meta anything",
+        "score": 118,
+        "date": "2025-04-28T06:12:12",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.23,
+          "neutral": 0.598,
+          "positive": 0.172
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.976,
+          "sadness": 0.001,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "Jordonzo",
+        "comment": "Cgi is fine, but can we bring back some practical effects ? Imagine alien came out this year, half the movie would just be cgi wouldn't be the same movie at all.",
+        "score": 34,
+        "date": "2025-04-28T11:47:41",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.278,
+          "neutral": 0.57,
+          "positive": 0.152
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.012,
+          "fear": 0.009,
+          "joy": 0.004,
+          "neutral": 0.899,
+          "sadness": 0.063,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "automaticzero",
+        "comment": "I don’t mind using music from the 60’s, 70’s, ect. But what i do mind is the way they turn the originals into cringey “reimagined” monstrosities for the trailers. “How can we turn ‘Good Vibrations’ into something dark and sinister?” Just stop. ",
+        "score": 113,
+        "date": "2025-04-28T06:41:24",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.837,
+          "neutral": 0.147,
+          "positive": 0.016
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.041,
+          "disgust": 0.185,
+          "fear": 0.073,
+          "joy": 0.001,
+          "neutral": 0.204,
+          "sadness": 0.491,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Anakin_Dripwalker501",
+        "comment": "Recasting the same 10 damn actors in every role. Like where’s the hiring and audition process?",
+        "score": 358,
+        "date": "2025-04-28T06:11:37",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.884,
+          "neutral": 0.107,
+          "positive": 0.009
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.296,
+          "disgust": 0.342,
+          "fear": 0.001,
+          "joy": 0.008,
+          "neutral": 0.319,
+          "sadness": 0.004,
+          "surprise": 0.03
+        }
+      },
+      {
+        "user": "Etzell",
+        "comment": "I call those \"Bummer Remixes\", thanks to [Team America.](https://www.youtube.com/watch?v=RNYGRf6Nw0k)\n\n\nBut too much damn teal and orange",
+        "score": 135,
+        "date": "2025-04-28T05:59:23",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.664,
+          "neutral": 0.277,
+          "positive": 0.059
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.003,
+          "fear": 0.001,
+          "joy": 0.548,
+          "neutral": 0.431,
+          "sadness": 0.002,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "homecinemad",
+        "comment": "Climactic CGI-drenched incoherent battle scenes with little to no emotional stakes.\n\n\nGeneric Zimmer-lite music.\n\n\nConstant hunger for expanded universes (read: greed).",
+        "score": 79,
+        "date": "2025-04-28T06:36:10",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.491,
+          "neutral": 0.427,
+          "positive": 0.082
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.008,
+          "fear": 0.001,
+          "joy": 0.008,
+          "neutral": 0.977,
+          "sadness": 0.004,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "shotsallover",
+        "comment": "Rubber superheroes.\n\nCompletely indestructible superheroes are boring. There has to be something that hurts you. You can't just tank a punch from the most powerful being in the galaxy, go flying across the planet, land, dust yourself off, and say, \"That's all you got?\" Get hurt dammit. Retreat and figure out another way. No one is totally invincible with an infinite pain threshold.\n\n*Black Adam* was the worst example of this. Everyone's so overpowered that none of the hits matter. No one takes any damage. No one is truly hurt. Even the human characters are indestructible. That was one thing the first phase of the MCU got (mostly) right. People get injured and it takes them a while to recover. Stuff goes wrong. And so on. By the end it was a little ridiculous, and Phase 2 has been dreadful in that regard *cough* Eternals *cough*. People can't connect to characters that have no real weaknesses other than the thin spots in their plot armor.",
+        "score": 44,
+        "date": "2025-04-28T06:56:01",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.804,
+          "neutral": 0.166,
+          "positive": 0.029
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.032,
+          "disgust": 0.757,
+          "fear": 0.016,
+          "joy": 0.005,
+          "neutral": 0.148,
+          "sadness": 0.041,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "Multiplexion",
+        "comment": "Using “Fortunate Son” literally every time the Vietnam war comes up as a subject.\n\nDoesn’t matter what film, I haven’t seen a single Western-made movie on the subject that doesn’t use it at least once.\n\nMy fucking god we get it. Stop using that damn song.",
+        "score": 153,
+        "date": "2025-04-28T06:19:17",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.933,
+          "neutral": 0.06,
+          "positive": 0.007
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.432,
+          "disgust": 0.534,
+          "fear": 0.002,
+          "joy": 0.002,
+          "neutral": 0.015,
+          "sadness": 0.01,
+          "surprise": 0.005
+        }
+      },
+      {
+        "user": "DunnoMouse",
+        "comment": "Please for the love of God, stop setting fight scenes to upbeat pop music, it's been old ever since Deadpool did it too",
+        "score": 177,
+        "date": "2025-04-28T06:19:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.662,
+          "neutral": 0.295,
+          "positive": 0.042
+        },
+        "emotion": "disgust",
+        "emotion_probs": {
+          "anger": 0.062,
+          "disgust": 0.639,
+          "fear": 0.006,
+          "joy": 0.002,
+          "neutral": 0.144,
+          "sadness": 0.145,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "McFlyyouBojo",
+        "comment": "I just want to see movie shoot more on location again. The Criterion Channel has a curated set of movies from the \"fun city\" era of movies right now. Basically \"fun city\" was a time period in the late 60s-early 70s where NYC gave incentives to shoot in the city, and a lot of foreign directors and no name directors along with established directors found success. These movies utilized a lot of issues for the time like race relations, urban decay, etc... but they also treated the city as it's own character, and watching them really gives you the feeling that the city is moving and breathing. I particularly love the way that era visually looks and I honestly wish to see that type of film or whatever come back.",
+        "score": 19,
+        "date": "2025-04-28T11:30:44",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.003,
+          "neutral": 0.044,
+          "positive": 0.953
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.267,
+          "neutral": 0.717,
+          "sadness": 0.008,
+          "surprise": 0.002
+        }
+      }
+    ],
+    "resumen_mt5": "Nicholas Barber, director of the British Academy of Motion Picture Arts and Sciences, has written a series of letters to the BBC. Here, he explains why films need to be less polished than they are now."
+  },
+  {
+    "flair": "AMA",
+    "title": "Hey man, we're Cheech and Chong, we’re doing one of those Ask Us Anything things. You can ask about our lives, careers, or new movie (Cheech and Chong's Last Movie) and we’ll do our best to remember things. Bring a bud and a snack or two, just no math questions please.",
+    "author": "CheechandChong-AMA",
+    "date": "2025-04-24T12:56:18",
+    "score": 5701,
+    "description": "Hey man, we're Cheech and Chong, we’re doing one of those Ask Us Anything things. You can ask about our lives, careers, or new movie (Cheech and Chong's Last Movie) and we’ll do our best to remember things. Bring a bud and a snack or two, just no math questions please. \n\nWe'll be back at 4 PM ET today to answer your quesitons.\n\nMore info about our new movie:\n\nOfficial Trailer:\n\n[https://www.youtube.com/watch?v=yFZaR4ubS20](https://www.youtube.com/watch?v=yFZaR4ubS20)\n\nCHEECH & CHONG’S LAST MOVIE – Exclusively in Theaters Friday 4/25 🥦\n\nIn the 1970s, Cheech & Chong redefined stand-up comedy, blending drugs, sex, rock’n’roll, and improvisation into a genre-shaping act. Their multicultural, irreverent humor turned them into icons, counterculture rock stars, and Hollywood legends. How did Cheech and Chong ignite imaginations and stay relevant over 50 years? Join them for one last ride to find out... and bring a bud!\n\nDirected by: David Bushell\n\nProduced by: David Bushell and Robbi Chong\n\nStarrirg: Cheech Marin and Tommy Chong",
+    "comments": [
+      {
+        "user": "BunyipPouch",
+        "comment": "This AMA has been verified by the mods. Cheech and Chong will be back at 4 PM ET today to answer your questions.\n\nMore information:\n\n--------------------------------------------------------------------------------\n\nHey man, we're Cheech and Chong, we’re doing one of those Ask Us Anything things. You can ask about our lives, careers, or new movie (Cheech and Chong's Last Movie) and we’ll do our best to remember things. Bring a bud and a snack or two, just no math questions please. \n\nWe'll be back at 4 PM ET today to answer your quesitons.\n\nMore info about our new movie:\n\nOfficial Trailer:\n\nhttps://www.youtube.com/watch?v=yFZaR4ubS20\n\nCHEECH & CHONG’S LAST MOVIE – Exclusively in Theaters Friday 4/25 🥦\n\nIn the 1970s, Cheech & Chong redefined stand-up comedy, blending drugs, sex, rock’n’roll, and improvisation into a genre-shaping act. Their multicultural, irreverent humor turned them into icons, counterculture rock stars, and Hollywood legends. How did Cheech and Chong ignite imaginations and stay relevant over 50 years? Join them for one last ride to find out... and bring a bud!\n\nDirected by: David Bushell\n\nProduced by: David Bushell and Robbi Chong\n\nStarrirg: Cheech Marin and Tommy Chong",
+        "score": 1,
+        "date": "2025-04-24T12:58:21",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.02,
+          "neutral": 0.487,
+          "positive": 0.493
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.044,
+          "neutral": 0.945,
+          "sadness": 0.0,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "CanadianCannababe",
+        "comment": "What does your current relationship with weed actually look like? Are you, as many assume, high all day every day? Or do you smoke once at the end of each day? Perhaps only one or two times a week? How much do you consume on an average day/week/month/etc? I’m hoping for actual numbers here, for visualization purposes and so I can fully comprehend the answer.",
+        "score": 168,
+        "date": "2025-04-24T14:13:32",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.109,
+          "neutral": 0.816,
+          "positive": 0.075
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.014,
+          "disgust": 0.025,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.891,
+          "sadness": 0.002,
+          "surprise": 0.065
+        }
+      },
+      {
+        "user": "kpt_graubrot",
+        "comment": "Probably not one of your most remembered projects but I have a soft spot for YELLOWBEARD. How was working on the movie with that stacked cast? \n\nAlso heard Peter Sellers was a fan of yours and once greeted you with a brick of hash, is that true?",
+        "score": 64,
+        "date": "2025-04-24T13:44:23",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.056,
+          "neutral": 0.498,
+          "positive": 0.446
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.009,
+          "disgust": 0.003,
+          "fear": 0.003,
+          "joy": 0.002,
+          "neutral": 0.814,
+          "sadness": 0.001,
+          "surprise": 0.17
+        }
+      },
+      {
+        "user": "palabear",
+        "comment": "Do people still confuse you for Dolly Parton & Burt Reynolds?",
+        "score": 67,
+        "date": "2025-04-24T14:15:13",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.451,
+          "neutral": 0.51,
+          "positive": 0.04
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.008,
+          "fear": 0.005,
+          "joy": 0.0,
+          "neutral": 0.93,
+          "sadness": 0.004,
+          "surprise": 0.048
+        }
+      },
+      {
+        "user": "almightywhacko",
+        "comment": "This one is for Cheech:\n\nThis goes back a way, but what was it like working with the Golden Girls cast? Plus a young Don Cheadle! \n\nThe Golden Palace was short lived, but it was a great show with a strong cast and great premise. I wish you had all been given a little bit longer to entertain us all!",
+        "score": 59,
+        "date": "2025-04-24T14:47:48",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.045,
+          "positive": 0.95
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.005,
+          "fear": 0.003,
+          "joy": 0.254,
+          "neutral": 0.693,
+          "sadness": 0.001,
+          "surprise": 0.026
+        }
+      },
+      {
+        "user": "TheTelephone",
+        "comment": "Huge fan of your old stuff! I'm a teacher now, and at least once a year have students listen to Basketball Jones and Sister Mary Elephant.\n\nObviously the landscape of comedy has changed a lot since since the 1970s; how do you feel about the current 2025 stage of comedy, not just in contrast to the 70s but in contrast to even the recent past, 2010's and 2020's?",
+        "score": 138,
+        "date": "2025-04-24T13:41:23",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.036,
+          "neutral": 0.504,
+          "positive": 0.46
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.046,
+          "disgust": 0.108,
+          "fear": 0.005,
+          "joy": 0.071,
+          "neutral": 0.716,
+          "sadness": 0.014,
+          "surprise": 0.04
+        }
+      },
+      {
+        "user": "roadbeef",
+        "comment": "I've got so many questions!\n\n- Tolerance breaks!  How do you two fellas cycle that in?\n\n- Mustaches! Worth the effort and maintenance?\n\n- What aspect of filmmaking has been the most fun for you?  Was it a portion of work preparing a film, or a portion making?  And did you have fun with your final film??\n\nThank you kindly for your lifetimes of entertainment and chillaxitude!!  Legends",
+        "score": 94,
+        "date": "2025-04-24T14:02:36",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.109,
+          "positive": 0.883
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.046,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.795,
+          "neutral": 0.118,
+          "sadness": 0.002,
+          "surprise": 0.035
+        }
+      },
+      {
+        "user": "FratBoyGene",
+        "comment": "Just curious - what do you think of the weed today vs. the weed you had when you were making your first movies?",
+        "score": 114,
+        "date": "2025-04-24T13:05:54",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.058,
+          "neutral": 0.895,
+          "positive": 0.047
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.052,
+          "fear": 0.002,
+          "joy": 0.003,
+          "neutral": 0.913,
+          "sadness": 0.001,
+          "surprise": 0.026
+        }
+      },
+      {
+        "user": "Imaginesium",
+        "comment": "What do each of you consider to be the most enjoyable project you've ever worked on together? \n\nAnd which, in hindsight, was the worst/most difficult?",
+        "score": 40,
+        "date": "2025-04-24T13:41:12",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.219,
+          "neutral": 0.648,
+          "positive": 0.133
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.05,
+          "fear": 0.003,
+          "joy": 0.003,
+          "neutral": 0.879,
+          "sadness": 0.008,
+          "surprise": 0.039
+        }
+      },
+      {
+        "user": "PeteRows",
+        "comment": "Hello, grew up watching Up In Smoke and Born In East LA. Just wanted to know:\n1. What was your favorite/funnest movie to work on, on or off the set?\n\n2. What were your comedic influences growing up that caused you to go in this direction?\n\n3.  How do you both feel about the change in the culture of marijuana since you started this run?",
+        "score": 38,
+        "date": "2025-04-24T14:36:47",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.017,
+          "neutral": 0.803,
+          "positive": 0.18
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.002,
+          "joy": 0.01,
+          "neutral": 0.964,
+          "sadness": 0.002,
+          "surprise": 0.018
+        }
+      },
+      {
+        "user": "ap1msch",
+        "comment": "How much of your persona has been you, how much was weed, and how much was putting on a mask that people expected you to wear? (metaphorically)",
+        "score": 36,
+        "date": "2025-04-24T13:21:49",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.275,
+          "neutral": 0.701,
+          "positive": 0.024
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.03,
+          "fear": 0.002,
+          "joy": 0.004,
+          "neutral": 0.95,
+          "sadness": 0.002,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "Vergenbuurg",
+        "comment": "Tommy, I was just wondering if you could put into words seeing the children you've raised become stars in their own right, and having appeared in such iconic films as *Commando* and *The Matrix*. \n\n\nI imagine you're proud, but I'd love to read your own take on that.",
+        "score": 33,
+        "date": "2025-04-24T14:38:45",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.022,
+          "neutral": 0.249,
+          "positive": 0.729
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.007,
+          "fear": 0.004,
+          "joy": 0.061,
+          "neutral": 0.905,
+          "sadness": 0.005,
+          "surprise": 0.009
+        }
+      },
+      {
+        "user": "majorjoe23",
+        "comment": "How's Dave?",
+        "score": 20,
+        "date": "2025-04-24T14:09:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.083,
+          "neutral": 0.764,
+          "positive": 0.152
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.985,
+          "sadness": 0.001,
+          "surprise": 0.011
+        }
+      },
+      {
+        "user": "ITeechYoKidsArt",
+        "comment": "I gotta figure you guys have met some pretty weird dudes over the years. Who was the weirdest dude you guys ever met and what made him special? Thanks man!",
+        "score": 19,
+        "date": "2025-04-24T13:29:15",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.299,
+          "neutral": 0.48,
+          "positive": 0.221
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.008,
+          "disgust": 0.005,
+          "fear": 0.003,
+          "joy": 0.906,
+          "neutral": 0.048,
+          "sadness": 0.001,
+          "surprise": 0.029
+        }
+      },
+      {
+        "user": "codykonior",
+        "comment": "I loved all of your movies growing up and owned the cassette tapes too! They were so much fun, thanks. \n\nMy question: In the 90s you suddenly stopped making movies together and the gossip was that you two had a falling out, and then you seem to have reconciled a decade or more later.\n\nIf it’s true and not too painful, what was the falling out over?",
+        "score": 35,
+        "date": "2025-04-24T13:50:54",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.021,
+          "neutral": 0.14,
+          "positive": 0.839
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.019,
+          "disgust": 0.009,
+          "fear": 0.004,
+          "joy": 0.023,
+          "neutral": 0.862,
+          "sadness": 0.008,
+          "surprise": 0.074
+        }
+      },
+      {
+        "user": "AbbeyRoad75",
+        "comment": "Did Dave ever get into his friends house?",
+        "score": 18,
+        "date": "2025-04-24T13:11:28",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.119,
+          "neutral": 0.857,
+          "positive": 0.024
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.003,
+          "joy": 0.001,
+          "neutral": 0.89,
+          "sadness": 0.003,
+          "surprise": 0.099
+        }
+      },
+      {
+        "user": "Inside-Canary-7327",
+        "comment": "Hey Chong! Which castmate from that 70s show did you get along with the best?",
+        "score": 53,
+        "date": "2025-04-24T13:03:35",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.018,
+          "neutral": 0.818,
+          "positive": 0.164
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.704,
+          "neutral": 0.126,
+          "sadness": 0.001,
+          "surprise": 0.146
+        }
+      },
+      {
+        "user": "night_in_the_ruts",
+        "comment": "Cheech - my dad met you briefly on a golf course in Puerto Vallarta; you were hanging out & passing out beer to people.\n\n  \nWas that something you did a lot? Are you a golfer?",
+        "score": 17,
+        "date": "2025-04-24T13:56:21",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.024,
+          "neutral": 0.743,
+          "positive": 0.233
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.005,
+          "joy": 0.017,
+          "neutral": 0.847,
+          "sadness": 0.0,
+          "surprise": 0.124
+        }
+      },
+      {
+        "user": "zedkhov13",
+        "comment": "Hey guys,\n\nI was the lead designer on your game Cheech and Chong, Bud Farm. I was the one that mentioned that I met Gaye Delorme in a pub below the skytrain station in New Westminster. He mentioned that he knew you two while attempting to pay for his house wine with his fake eyeball after he signed my sketchbook (unprompted, lol) \"Gaye Fuckball Delorme\" he also got into a heated arguement with a Nigerian guy named Newman. It was amazing.\n\nAntways, I just wanted to say how much of a pleasure it was working on a project for you two. I still have the signed Chong framed image from the game and tickets to your show from Victoria hanging on my wall.\n\nOne of my career highlights, for sure. Looking forward to the movie!\n\nCheers",
+        "score": 61,
+        "date": "2025-04-24T13:56:47",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.025,
+          "positive": 0.974
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.926,
+          "neutral": 0.048,
+          "sadness": 0.0,
+          "surprise": 0.021
+        }
+      },
+      {
+        "user": "Aspiring-Old-Guy",
+        "comment": "Hey Cheech, you still crushing fools in Jeopardy? That was so cool to hear about that",
+        "score": 15,
+        "date": "2025-04-24T14:03:01",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.023,
+          "neutral": 0.078,
+          "positive": 0.899
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.971,
+          "neutral": 0.015,
+          "sadness": 0.001,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "TBMachine",
+        "comment": "What is Cheech's mustache up to these days? I miss him. Thanks for the laughs, gentlemen.",
+        "score": 14,
+        "date": "2025-04-24T13:36:52",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.126,
+          "neutral": 0.421,
+          "positive": 0.452
+        },
+        "emotion": "sadness",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.039,
+          "fear": 0.002,
+          "joy": 0.177,
+          "neutral": 0.303,
+          "sadness": 0.461,
+          "surprise": 0.016
+        }
+      },
+      {
+        "user": "nwod_mlac",
+        "comment": "Towards the end of \"UnAmerican Bandstand\"...when you are introducing Blind Melon Chitlin....you rattle off some intro words that sound like: \n\nHe is the man wither his south\n\nHappy Happy Blackie Nappy\n\nPInk too fried the bitch\n\nWhat exactly are you saying? This has been driving me nuts for over 40 years, man.\n\n\n\nIt's right here, man: [https://youtu.be/yUOnDTO0auk?t=263](https://youtu.be/yUOnDTO0auk?t=263)",
+        "score": 14,
+        "date": "2025-04-24T15:22:22",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.775,
+          "neutral": 0.191,
+          "positive": 0.034
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.219,
+          "disgust": 0.066,
+          "fear": 0.016,
+          "joy": 0.008,
+          "neutral": 0.53,
+          "sadness": 0.002,
+          "surprise": 0.159
+        }
+      },
+      {
+        "user": "Blue_Streak_Diamond",
+        "comment": "Hey cheech, do you still remember the pussy speech from dusk till dawn by heart?",
+        "score": 37,
+        "date": "2025-04-24T13:00:06",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.288,
+          "neutral": 0.673,
+          "positive": 0.038
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.007,
+          "fear": 0.001,
+          "joy": 0.019,
+          "neutral": 0.968,
+          "sadness": 0.001,
+          "surprise": 0.003
+        }
+      },
+      {
+        "user": "VolatSea",
+        "comment": "Your performances in After Hours really adds an interesting depth to the film, what was it like working with Scorsese?",
+        "score": 25,
+        "date": "2025-04-24T13:24:29",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.001,
+          "neutral": 0.037,
+          "positive": 0.961
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.004,
+          "fear": 0.005,
+          "joy": 0.388,
+          "neutral": 0.584,
+          "sadness": 0.003,
+          "surprise": 0.014
+        }
+      },
+      {
+        "user": "Hellwagon",
+        "comment": "The first time I saw you guys I was seven years old and my dad and his buddy took me and my nine year old brother to the drive in for a Cheech and Chong double feature.  There was a playground at the bottom of the screen and we sat there and looked at all the smoke pouring out of the car windows as the movie played and had no idea what in the hell was going on.\n\nI just know up until that point I never heard my old man laugh that hard.  My dad’s name is Dave, and at 76 he still answers the phone and says Dave’s not here man.  Love you guys for that, it kills me every time.",
+        "score": 25,
+        "date": "2025-04-24T14:10:00",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.54,
+          "neutral": 0.299,
+          "positive": 0.162
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.021,
+          "disgust": 0.225,
+          "fear": 0.126,
+          "joy": 0.021,
+          "neutral": 0.544,
+          "sadness": 0.046,
+          "surprise": 0.017
+        }
+      },
+      {
+        "user": "Qwirk",
+        "comment": "I don't have anything to ask. Just hope you both are doing well, seeing you both pop up in movies over the years brings a smile to my face. \n\nI feel like there is still another story out there, C&C get tired of their kid's/grand kids bullshit and tell them to stay off your lawn... or something.",
+        "score": 10,
+        "date": "2025-04-24T14:33:03",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.177,
+          "neutral": 0.369,
+          "positive": 0.453
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.038,
+          "disgust": 0.009,
+          "fear": 0.005,
+          "joy": 0.049,
+          "neutral": 0.848,
+          "sadness": 0.05,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "noshowthrow",
+        "comment": "When you were in a strait jacket and you needed someone to scratch your balls... was that something you wrote or did you come up with that on the day?\n\nI'm in my 50's and my brother and I STILL quote that to each other constantly! \n\nLove you guys!",
+        "score": 36,
+        "date": "2025-04-24T13:00:08",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.019,
+          "neutral": 0.14,
+          "positive": 0.841
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.029,
+          "disgust": 0.002,
+          "fear": 0.003,
+          "joy": 0.913,
+          "neutral": 0.05,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "dormango",
+        "comment": "I hear you knocking but you can’t come in!",
+        "score": 9,
+        "date": "2025-04-24T13:44:18",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.561,
+          "neutral": 0.395,
+          "positive": 0.044
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.4,
+          "disgust": 0.016,
+          "fear": 0.318,
+          "joy": 0.011,
+          "neutral": 0.026,
+          "sadness": 0.008,
+          "surprise": 0.221
+        }
+      },
+      {
+        "user": "hyborians",
+        "comment": "Did you ever meet Bob Marley?",
+        "score": 16,
+        "date": "2025-04-24T14:03:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.029,
+          "neutral": 0.734,
+          "positive": 0.238
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.002,
+          "joy": 0.014,
+          "neutral": 0.89,
+          "sadness": 0.002,
+          "surprise": 0.09
+        }
+      },
+      {
+        "user": "MooseMalloy",
+        "comment": "Why wasn't it Chong and Cheech?",
+        "score": 23,
+        "date": "2025-04-24T14:19:30",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.409,
+          "neutral": 0.57,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.006,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.036,
+          "neutral": 0.644,
+          "sadness": 0.001,
+          "surprise": 0.311
+        }
+      },
+      {
+        "user": "ohsureshould-should",
+        "comment": "What’s your favourite memory of each other that makes you laugh?",
+        "score": 15,
+        "date": "2025-04-24T13:35:21",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.28,
+          "positive": 0.716
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.007,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.026,
+          "neutral": 0.91,
+          "sadness": 0.001,
+          "surprise": 0.053
+        }
+      },
+      {
+        "user": "adzee_cycle",
+        "comment": "Do you chaps prefer sativa or indica?",
+        "score": 11,
+        "date": "2025-04-24T13:16:18",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.066,
+          "neutral": 0.907,
+          "positive": 0.027
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.004,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.979,
+          "sadness": 0.001,
+          "surprise": 0.011
+        }
+      },
+      {
+        "user": "YourJailDad",
+        "comment": "Hey Chong do you remember smoking one with me at the Highwood festival in 1993? Haha probably not, but I will never forget. Still have the roach 😊 Thank you for all you both have done.",
+        "score": 13,
+        "date": "2025-04-24T13:22:50",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.047,
+          "positive": 0.949
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.004,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.767,
+          "neutral": 0.221,
+          "sadness": 0.002,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "TepesX",
+        "comment": "I just want to say hello and keep being real! You guys are an inspiration to so many generations. Keep on blazing my dudes.",
+        "score": 13,
+        "date": "2025-04-24T13:38:45",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.018,
+          "positive": 0.981
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.953,
+          "neutral": 0.037,
+          "sadness": 0.001,
+          "surprise": 0.002
+        }
+      },
+      {
+        "user": "TrumpDumper",
+        "comment": "Hey Men,\nI love your movies and probably watched them way too young. \n\nMany of your characters portrayed marijuana smokers as the typical stoners. How do you think your roles perpetuated the stereotype in society and do you think it delayed the legalization of marijuana in the United States? \n\nThanks for doing this.",
+        "score": 12,
+        "date": "2025-04-24T14:13:23",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.19,
+          "neutral": 0.384,
+          "positive": 0.427
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.03,
+          "disgust": 0.012,
+          "fear": 0.001,
+          "joy": 0.007,
+          "neutral": 0.944,
+          "sadness": 0.002,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "Muthafuckaaaaa",
+        "comment": "How is the vato with the bony knees and no choose on their feet doing these days? \n\nLove you guys btw!",
+        "score": 6,
+        "date": "2025-04-24T13:42:23",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.014,
+          "neutral": 0.177,
+          "positive": 0.809
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.02,
+          "disgust": 0.043,
+          "fear": 0.004,
+          "joy": 0.048,
+          "neutral": 0.856,
+          "sadness": 0.001,
+          "surprise": 0.028
+        }
+      },
+      {
+        "user": "killlballl",
+        "comment": "Cannot thank you enough for sharing your creativity and sense of humor with us. \n\nWas sitting in an aisle seat of a theater watching “Up In Smoke” and quite literally fell out into the aisle on my hands and knees laughing during the car hot-box scene. Had to crawl out of the theater, regroup and start again. \n\nNever laughed harder at a movie in a theater. Thanks!\n\nAlso: the bass player sketch from one of your albums. So many years and dead brain cells later, thinking about the word “eggamuffin” still makes me laugh. \n\nGrateful the both of you are still alive and thriving!",
+        "score": 6,
+        "date": "2025-04-24T14:26:22",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.004,
+          "neutral": 0.022,
+          "positive": 0.974
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.012,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.944,
+          "neutral": 0.037,
+          "sadness": 0.001,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "goettel",
+        "comment": "What are some of your favorite munchies foods? Any weird ones?",
+        "score": 10,
+        "date": "2025-04-24T13:27:54",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.047,
+          "neutral": 0.876,
+          "positive": 0.077
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.01,
+          "fear": 0.006,
+          "joy": 0.004,
+          "neutral": 0.802,
+          "sadness": 0.001,
+          "surprise": 0.175
+        }
+      },
+      {
+        "user": "Professional-Door161",
+        "comment": "Word from the inside send their regards. \nBorn in east LA part 2?",
+        "score": 6,
+        "date": "2025-04-24T14:12:34",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.076,
+          "neutral": 0.877,
+          "positive": 0.047
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.001,
+          "joy": 0.001,
+          "neutral": 0.989,
+          "sadness": 0.001,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "King0fMist",
+        "comment": "Could you please explain the ending to the movie Inception?",
+        "score": 7,
+        "date": "2025-04-24T13:37:00",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.128,
+          "neutral": 0.84,
+          "positive": 0.032
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.001,
+          "neutral": 0.987,
+          "sadness": 0.002,
+          "surprise": 0.004
+        }
+      },
+      {
+        "user": "Shiroiken",
+        "comment": "No questions, just wanted to say thanks for all the laughs.  It's good shit man!",
+        "score": 3,
+        "date": "2025-04-24T13:46:34",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.008,
+          "neutral": 0.034,
+          "positive": 0.958
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.003,
+          "disgust": 0.001,
+          "fear": 0.0,
+          "joy": 0.984,
+          "neutral": 0.011,
+          "sadness": 0.001,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "muxman",
+        "comment": "Out of all of your movies, which one is your favorite?\n\nWhich one had the best final product that you think turned out the best?\n\nAnd which one was the most fun to make? Even if the end product wasn't your favorite.",
+        "score": 3,
+        "date": "2025-04-24T14:35:46",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.023,
+          "neutral": 0.432,
+          "positive": 0.545
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.031,
+          "disgust": 0.066,
+          "fear": 0.007,
+          "joy": 0.062,
+          "neutral": 0.632,
+          "sadness": 0.01,
+          "surprise": 0.192
+        }
+      },
+      {
+        "user": "HotdoghammerOG",
+        "comment": "The Cheech museum in Riverside is one of the most raw and uniquely curated art museums I’ve been to. How does your involvement with The Cheech impact what you bring to the big screen? You clearly have an eye for unique art and stories.",
+        "score": 5,
+        "date": "2025-04-24T15:04:34",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.066,
+          "positive": 0.932
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.248,
+          "neutral": 0.736,
+          "sadness": 0.002,
+          "surprise": 0.01
+        }
+      },
+      {
+        "user": "magicspooner",
+        "comment": "Why wasn’t this AMA on 4/20 lol?",
+        "score": 10,
+        "date": "2025-04-24T13:55:14",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.231,
+          "neutral": 0.691,
+          "positive": 0.078
+        },
+        "emotion": "surprise",
+        "emotion_probs": {
+          "anger": 0.018,
+          "disgust": 0.002,
+          "fear": 0.001,
+          "joy": 0.002,
+          "neutral": 0.283,
+          "sadness": 0.001,
+          "surprise": 0.693
+        }
+      },
+      {
+        "user": "arose321",
+        "comment": "I gotta say, you guys are the best. Thank you for being a huge part of my life.",
+        "score": 3,
+        "date": "2025-04-24T13:26:05",
+        "sentiment": "positive",
+        "sentiment_probs": {
+          "negative": 0.002,
+          "neutral": 0.006,
+          "positive": 0.991
+        },
+        "emotion": "joy",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.962,
+          "neutral": 0.033,
+          "sadness": 0.002,
+          "surprise": 0.001
+        }
+      },
+      {
+        "user": "GunnieGraves",
+        "comment": "I just want to know if he ever cozied up to that Finklestein boy.",
+        "score": 3,
+        "date": "2025-04-24T13:35:16",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.336,
+          "neutral": 0.643,
+          "positive": 0.021
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.005,
+          "disgust": 0.015,
+          "fear": 0.004,
+          "joy": 0.002,
+          "neutral": 0.936,
+          "sadness": 0.031,
+          "surprise": 0.006
+        }
+      },
+      {
+        "user": "EightBitEstep",
+        "comment": "I’m looking for Dave.",
+        "score": 3,
+        "date": "2025-04-24T13:46:57",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.088,
+          "neutral": 0.817,
+          "positive": 0.095
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.001,
+          "disgust": 0.0,
+          "fear": 0.001,
+          "joy": 0.003,
+          "neutral": 0.986,
+          "sadness": 0.001,
+          "surprise": 0.008
+        }
+      },
+      {
+        "user": "rockatthebeach",
+        "comment": "Favorite car?",
+        "score": 3,
+        "date": "2025-04-24T13:48:44",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.047,
+          "neutral": 0.862,
+          "positive": 0.091
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.002,
+          "disgust": 0.001,
+          "fear": 0.002,
+          "joy": 0.013,
+          "neutral": 0.823,
+          "sadness": 0.001,
+          "surprise": 0.158
+        }
+      },
+      {
+        "user": "TacoStuffingClub",
+        "comment": "Followed these guys and know most the answers to questions I’d have. Except one. What was up with The Shrimp on the Barbie being played relentlessly on Showtime in the 90’s? I swear my high school years this was on more than any other movie. 🤣",
+        "score": 3,
+        "date": "2025-04-24T13:51:47",
+        "sentiment": "neutral",
+        "sentiment_probs": {
+          "negative": 0.372,
+          "neutral": 0.469,
+          "positive": 0.159
+        },
+        "emotion": "neutral",
+        "emotion_probs": {
+          "anger": 0.088,
+          "disgust": 0.122,
+          "fear": 0.009,
+          "joy": 0.008,
+          "neutral": 0.563,
+          "sadness": 0.019,
+          "surprise": 0.191
+        }
+      },
+      {
+        "user": "Fatal_Syntax_Error",
+        "comment": "“Keep on knockin, but you can't come in!”",
+        "score": 3,
+        "date": "2025-04-24T13:54:45",
+        "sentiment": "negative",
+        "sentiment_probs": {
+          "negative": 0.487,
+          "neutral": 0.456,
+          "positive": 0.057
+        },
+        "emotion": "anger",
+        "emotion_probs": {
+          "anger": 0.598,
+          "disgust": 0.023,
+          "fear": 0.187,
+          "joy": 0.017,
+          "neutral": 0.105,
+          "sadness": 0.013,
+          "surprise": 0.057
+        }
+      }
+    ],
+    "resumen_mt5": "Welcome to Cheech and Chong!"
+  }
+]
